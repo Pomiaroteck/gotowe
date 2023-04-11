@@ -60,6 +60,14 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/400454238
 #EXTINF:-1 tvg-id="TVP Polonia" tvg-name="TVP Polonia" group-title="Popularny" ,TVP Polonia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117578
 
+#EXTINF:-1 tvg-id="history.pl" tvg-name="PL| HISTORY FHD" tvg-logo="https://lo1.in/pol/his.png" group-title="EU | POLAND FHD",PL| HISTORY FHD
+
+http://iptv365.xyz:80/4523598035/5578723833/9649
+
+#EXTINF:-1 tvg-id="history2.pl" tvg-name="PL| H2 FHD" tvg-logo="https://lo1.in/pol/h2.png" group-title="EU | POLAND FHD",PL| H2 FHD
+
+http://iptv365.xyz:80/4523598035/5578723833/117433
+
 #EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku" group-title="Dokumenty" ,Polsat Doku
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117479
 #EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="Canal+ Dokument" group-title="Dokumenty" ,Canal+ Dokument
