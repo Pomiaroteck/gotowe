@@ -62,9 +62,8 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117578
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" group-title="Dokumenty" ,History
 http://iptv365.xyz:80/4523598035/5578723833/9649
-#EXTINF:-1 tvg-id="H2" tvg-name="H2" group-title="Dokumenty" ,H2
+#EXTINF:-1 tvg-id="History2" tvg-name="History2" group-title="Dokumenty" ,History2
 http://iptv365.xyz:80/4523598035/5578723833/117433
-
 #EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku" group-title="Dokumenty" ,Polsat Doku
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117479
 #EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="Canal+ Dokument" group-title="Dokumenty" ,Canal+ Dokument
