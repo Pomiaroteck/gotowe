@@ -32,6 +32,11 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/33653
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117530
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="Rozrywka" ,HGTV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117430
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Poland", PL: HOME TV HD
+http://680243320493298602.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298602.ts
+
+
 #EXTINF:-1 tvg-id="Fokus TV" tvg-name="Fokus TV" group-title="Popularny" ,Fokus TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117418
 #EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka TV" group-title="Film" ,Stopklatka TV
