@@ -32,11 +32,8 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/33653
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117530
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="Rozrywka" ,HGTV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117430
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Poland", PL: HOME TV HD
+#EXTINF:-1 tvg-id="Home TV" tvg-name="Home TV" group-title="Rozrywka" ,Home TV
 http://680243320493298602.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298602.ts
-
-
 #EXTINF:-1 tvg-id="Fokus TV" tvg-name="Fokus TV" group-title="Popularny" ,Fokus TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117418
 #EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka TV" group-title="Film" ,Stopklatka TV
@@ -68,12 +65,10 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117579
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/400454238
 #EXTINF:-1 tvg-id="TVP Polonia" tvg-name="TVP Polonia" group-title="Popularny" ,TVP Polonia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117578
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Poland", PL: POLONIA 1 HD
+#EXTINF:-1 tvg-id="Polonia 1" tvg-name="Polonia 1" group-title="Popularny" ,Polonia 1
 http://680243320493298631.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298631.ts
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6af61f36616ce9dc6b150a79969106d2.png" group-title="Poland", PL: TELE 5 FHD
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" group-title="Popularny" ,Tele 5
 http://680243320493388280.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/388280.ts
-
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" group-title="Dokumenty" ,History
 http://iptv365.xyz:80/4523598035/5578723833/9649
