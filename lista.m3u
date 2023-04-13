@@ -64,6 +64,12 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/400454238
 #EXTINF:-1 tvg-id="TVP Polonia" tvg-name="TVP Polonia" group-title="Popularny" ,TVP Polonia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117578
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Poland", PL: POLONIA 1 HD
+http://680243320493298631.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298631.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6af61f36616ce9dc6b150a79969106d2.png" group-title="Poland", PL: TELE 5 FHD
+http://680243320493388280.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/388280.ts
+
+
 #EXTINF:-1 tvg-id="History" tvg-name="History" group-title="Dokumenty" ,History
 http://iptv365.xyz:80/4523598035/5578723833/9649
 #EXTINF:-1 tvg-id="History2" tvg-name="History2" group-title="Dokumenty" ,History2
