@@ -59,6 +59,8 @@ http://iptv365.xyz:80/4523598035/5578723833/117328
 http://iptv365.xyz:80/4523598035/5578723833/9647
 #EXTINF:-1 tvg-id="bbclifestyle.pl" tvg-name="PL| BBC LIFESTYLE FHD" tvg-logo="https://lo1.in/tha/bbcl.png" group-title="EU | POLAND FHD",PL| BBC LIFESTYLE FHD
 http://iptv365.xyz:80/4523598035/5578723833/9646
+#EXTINF:-1 tvg-id="bbcearth.pl" tvg-name="PL| BBC EARTH FHD" tvg-logo="https://lo1.in/pol/bbce.png" group-title="EU | POLAND FHD",PL| BBC EARTH FHD
+http://iptv365.xyz:80/4523598035/5578723833/117326
 
 
 #EXTINF:-1 tvg-id="TVP" tvg-name="TVP" group-title="Popularny" ,TVP
