@@ -55,6 +55,8 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117600
 http://iptv365.xyz:80/4523598035/5578723833/117397
 #EXTINF:-1 tvg-id="bbcfirst.pl" tvg-name="PL| BBC FIRST HD" tvg-logo="https://lo1.in/pol/bbcf.png" group-title="EU | POLAND HD",PL| BBC FIRST HD
 http://iptv365.xyz:80/4523598035/5578723833/117328
+#EXTINF:-1 tvg-id="bbcbrit.pl" tvg-name="PL| BBC BRIT FHD" tvg-logo="https://lo1.in/sw/bbcbt.png" group-title="EU | POLAND FHD",PL| BBC BRIT FHD
+http://iptv365.xyz:80/4523598035/5578723833/9647
 #EXTINF:-1 tvg-id="bbclifestyle.pl" tvg-name="PL| BBC LIFESTYLE FHD" tvg-logo="https://lo1.in/tha/bbcl.png" group-title="EU | POLAND FHD",PL| BBC LIFESTYLE FHD
 http://iptv365.xyz:80/4523598035/5578723833/9646
 
