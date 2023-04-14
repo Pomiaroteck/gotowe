@@ -133,7 +133,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117404
 #EXTINF:-1 tvg-id="Extreme Channel" tvg-name="Extreme Channel" group-title="Sport" ,Extreme Channel
 http://iptv365.xyz:80/4523598035/5578723833/117406
 
-#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="PL| TVP SPORT  HD" tvg-logo="https://lo1.in/pol/tvsp.png" group-title="EU | POLAND SPORTS",PL| TVP SPORT  HD
+#EXTINF:-1 tvg-id="TVP Sport" tvg-name="TVP Sport" group-title="Sport" ,TVP Sport
 http://680243320493298704.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298704.ts
 
 #EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="Canal+ Premium" tvg-logo="http://logo.plusx.tv/logo/Canal+%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,CANAL+ Premium
