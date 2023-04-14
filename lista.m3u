@@ -51,9 +51,6 @@ http://680243320493309927.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/309927.ts
 #EXTINF:-1 tvg-id="WP" tvg-name="WP" group-title="Popularny" ,WP
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117600
 
-#EXTINF:-1 tvg-id="Epic Drama" tvg-name="Epic Drama" group-title="Popularny" ,Epic Drama
-http://iptv365.xyz:80/4523598035/5578723833/117397
-
 #EXTINF:-1 tvg-id="BBC First" tvg-name="BBC First" group-title="Popularny" ,BBC First
 http://iptv365.xyz:80/4523598035/5578723833/117328
 #EXTINF:-1 tvg-id="BBC Brit" tvg-name="BBC Brit" group-title="Popularny" ,BBC Brit
@@ -186,6 +183,10 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117313
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33648
 #EXTINF:-1 tvg-id="Epic Drama" tvg-name="Be1 Alt" group-title="Rozrywka" ,Epic Drama
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117397
+
+#EXTINF:-1 tvg-id="novelasplus.pl" tvg-name="PL| NOVELAS FHD" tvg-logo="https://lo1.in/pol/flg.png" group-title="EU | POLAND FHD",PL| NOVELAS FHD
+http://iptv365.xyz:80/4523598035/5578723833/9653
+
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" group-title="Film" ,AMC
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117314
 #EXTINF:-1 tvg-id="SCI FI" tvg-name="SciFi" group-title="Film" ,SciFi
