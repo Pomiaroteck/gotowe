@@ -136,10 +136,15 @@ http://iptv365.xyz:80/4523598035/5578723833/117406
 #EXTINF:-1 tvg-id="TVP Sport" tvg-name="TVP Sport" group-title="Sport" ,TVP Sport
 http://680243320493298704.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298704.ts
 
-#EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="Canal+ Premium" tvg-logo="http://logo.plusx.tv/logo/Canal+%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,CANAL+ Premium
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117349
+
+#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ FHD" tvg-logo="https://lo1.in/pol/c1.png" group-title="EU | POLAND FHD",PL| CANAL+ FHD
+http://iptv365.xyz:80/4523598035/5578723833/35736
+
 #EXTINF:-1 tvg-id="Canal+ 1" tvg-name="CANAL+ 1" tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Canal+ 1
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:D4:58:56&stream=256442&extension=ts&play_token=ZQ6QXeDS9n
+#EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="Canal+ Premium" tvg-logo="http://logo.plusx.tv/logo/Canal+%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,CANAL+ Premium
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117349
+
 #EXTINF:-1 tvg-id="Canal+ Family" tvg-name="CANAL+ Family" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Canal+ Family
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9660
 #EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Now.png" timeshift="7" catchup="fs" group-title="Sport" ,Canal+ Now
@@ -154,10 +159,6 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117352
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117353
 #EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="Canal+ Sport 5" tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png" timeshift="7" catchup="fs" group-title="Sport" ,Canal+ Sport 5
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:D4:58:56&stream=256446&extension=ts&play_token=1P8rWy9h1A
-
-
-#EXTINF:-1 tvg-id="canal.plus.family.pl" tvg-name="PL015:Canal FamilyFHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL015CANALFAMILYFHD.png" group-title="Poland",PL015:Canal FamilyFHD
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9660
 
 #EXTINF:-1 tvg-id="Canal+ Domo" tvg-name="Canal+ Domo" group-title="Rozrywka" ,Canal+ Domo
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117386
