@@ -143,9 +143,11 @@ http://clientsportals.com:2095/play/live.php?mac=00:1a:79:D4:58:56&stream=256446
 
 #EXTINF:-1 tvg-id="canal.plus.family.pl" tvg-name="PL015:Canal FamilyFHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL015CANALFAMILYFHD.png" group-title="Poland",PL015:Canal FamilyFHD
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9660
-#EXTINF:-1 tvg-id="domo.pl" tvg-name="PL| CANAL+ DOMO+ FHD" tvg-logo="https://lo1.in/pol/dm.png" group-title="EU | POLAND FHD",PL| CANAL+ DOMO FHD
+
+#EXTINF:-1 tvg-id="Canal+ Domo" tvg-name="Canal+ Domo" group-title="Rozrywka" ,Canal+ Domo
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117386
-#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="Kuchnia.TV" group-title="Rozrywka" ,Canal+ Kuchnia
+
+#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="Canal+ Kuchnia" group-title="Rozrywka" ,Canal+ Kuchnia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117446
 #EXTINF:-1 tvg-id="Polsat Food" tvg-name="Polsat Food" group-title="Dla mężczyzn" ,Polsat Food
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33624
