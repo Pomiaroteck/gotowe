@@ -53,13 +53,14 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117600
 
 #EXTINF:-1 tvg-id="Epic Drama" tvg-name="Epic Drama" group-title="Popularny" ,Epic Drama
 http://iptv365.xyz:80/4523598035/5578723833/117397
-#EXTINF:-1 tvg-id="bbcfirst.pl" tvg-name="PL| BBC FIRST HD" tvg-logo="https://lo1.in/pol/bbcf.png" group-title="EU | POLAND HD",PL| BBC FIRST HD
+
+#EXTINF:-1 tvg-id="BBC First" tvg-name="BBC First" group-title="Popularny" ,BBC First
 http://iptv365.xyz:80/4523598035/5578723833/117328
-#EXTINF:-1 tvg-id="bbcbrit.pl" tvg-name="PL| BBC BRIT FHD" tvg-logo="https://lo1.in/sw/bbcbt.png" group-title="EU | POLAND FHD",PL| BBC BRIT FHD
+#EXTINF:-1 tvg-id="BBC Brit" tvg-name="BBC Brit" group-title="Popularny" ,BBC Brit
 http://iptv365.xyz:80/4523598035/5578723833/9647
-#EXTINF:-1 tvg-id="bbclifestyle.pl" tvg-name="PL| BBC LIFESTYLE FHD" tvg-logo="https://lo1.in/tha/bbcl.png" group-title="EU | POLAND FHD",PL| BBC LIFESTYLE FHD
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" group-title="Popularny" ,BBC Lifestyle
 http://iptv365.xyz:80/4523598035/5578723833/9646
-#EXTINF:-1 tvg-id="bbcearth.pl" tvg-name="PL| BBC EARTH FHD" tvg-logo="https://lo1.in/pol/bbce.png" group-title="EU | POLAND FHD",PL| BBC EARTH FHD
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" group-title="Popularny" ,BBC Earth
 http://iptv365.xyz:80/4523598035/5578723833/117326
 
 
