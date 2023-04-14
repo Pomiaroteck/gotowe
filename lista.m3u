@@ -117,7 +117,8 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117395
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117403
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" group-title="Sport" ,Eurosport 2
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117404
-
+#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="PL| TVP SPORT  HD" tvg-logo="https://lo1.in/pol/tvsp.png" group-title="EU | POLAND SPORTS",PL| TVP SPORT  HD
+http://iptv365.xyz:80/4523598035/5578723833/117581
 
 
 #EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="Canal+ Premium" tvg-logo="http://logo.plusx.tv/logo/Canal+%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,CANAL+ Premium
