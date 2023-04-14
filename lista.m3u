@@ -51,6 +51,10 @@ http://680243320493309927.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/309927.ts
 #EXTINF:-1 tvg-id="WP" tvg-name="WP" group-title="Popularny" ,WP
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117600
 
+#EXTINF:-1 tvg-id="epicdrama.pl" tvg-name="PL| EPIC DRAMA FHD" tvg-logo="https://lo1.in/pol/epcd.png" group-title="EU | POLAND FHD",PL| EPIC DRAMA FHD
+http://iptv365.xyz:80/4523598035/5578723833/117397
+
+
 #EXTINF:-1 tvg-id="TVP" tvg-name="TVP" group-title="Popularny" ,TVP
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117574
 #EXTINF:-1 tvg-id="TVP Seriale" tvg-name="TVP Seriale" group-title="Popularny" ,TVP Seriale
