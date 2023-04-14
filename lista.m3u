@@ -130,12 +130,14 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117395
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117403
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" group-title="Sport" ,Eurosport 2
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117404
-#EXTINF:-1 tvg-id="Extreme Channel" tvg-name="Extreme Channel" group-title="Sport" ,Extreme Channel
-http://iptv365.xyz:80/4523598035/5578723833/117406
 
 #EXTINF:-1 tvg-id="TVP Sport" tvg-name="TVP Sport" group-title="Sport" ,TVP Sport
 http://680243320493298704.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298704.ts
+#EXTINF:-1 tvg-id="Extreme Channel" tvg-name="Extreme Channel" group-title="Sport" ,Extreme Channel
+http://iptv365.xyz:80/4523598035/5578723833/117406
 
+#EXTINF:-1 tvg-id="fightklub.pl" tvg-name="PL| FIGHT KLUB FHD" tvg-logo="https://lo1.in/pol/fcl.png" group-title="EU | POLAND SPORTS",PL| FIGHT KLUB FHD
+http://iptv365.xyz:80/4523598035/5578723833/117411
 #EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL| FIGHT BOX FHD" tvg-logo="https://lo1.in/pol/fgt.png" group-title="EU | POLAND SPORTS",PL| FIGHT BOX FHD
 http://iptv365.xyz:80/4523598035/5578723833/117407
 
