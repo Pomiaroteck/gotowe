@@ -207,6 +207,15 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117472
 #EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" group-title="Film" ,Warner TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33617
 
+
+#EXTINF:-1 tvg-id="tvnturbo.pl" tvg-name="PL| TVN TURBO FHD" tvg-logo="https://lo1.in/pol/tvnr.png" group-title="EU | POLAND FHD",PL| TVN TURBO FHD
+http://iptv365.xyz:80/4523598035/5578723833/117555
+#EXTINF:-1 tvg-id="motowizja.pl" tvg-name="PL| MOTOWIZJA FHD" tvg-logo="https://lo1.in/pol/mtrw.png" group-title="EU | POLAND FHD",PL| MOTOWIZJA FHD
+http://iptv365.xyz:80/4523598035/5578723833/117454
+#EXTINF:-1 tvg-id="" tvg-name="PL| DTX FHD" tvg-logo="https://lo1.in/pol/dtx.png" group-title="EU | POLAND FHD",PL| DTX FHD
+http://iptv365.xyz:80/4523598035/5578723833/117388
+
+
 #EXTINF:-1 tvg-id="TVP Info" tvg-name="TVP-Info" group-title="Informacje" ,TVP Info
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/35735
 #EXTINF:-1 tvg-id="TVN 24" tvg-name="TVN 24" group-title="Informacje" ,TVN 24
