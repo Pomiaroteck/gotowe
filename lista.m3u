@@ -130,7 +130,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117403
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117404
 
 #EXTINF:-1 tvg-id="TVP Sport" tvg-name="TVP Sport" group-title="Sport" ,TVP Sport
-http://680243320493298704.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298704.ts
+http://cdnx1.plusx.tv:8881/134/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Extreme Channel" tvg-name="Extreme Channel" group-title="Sport" ,Extreme Channel
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117406
 
@@ -139,22 +139,6 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117411
 #EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL| FIGHT BOX FHD" tvg-logo="https://lo1.in/pol/fgt.png" group-title="EU | POLAND SPORTS",PL| FIGHT BOX FHD
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117407
 
-
-#EXTINF:-1 tvg-logo="https://epg.ovh/logo/Canal++4K+Ultra+HD.png" group-title="4k", CANAL+ 4K Ultra HD
-http://cdnx1.plusx.tv:8880/Filmax/video.m3u8?token=2fb2205be221f081a22222
-
-#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ FHD" tvg-logo="https://lo1.in/pol/c1.png" group-title="EU | POLAND FHD",PL| CANAL+ FHD
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/35736
-
-#EXTINF:-1 tvg-id="Canal+ 1" tvg-name="CANAL+ 1" tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Canal+ 1
-http://clientsportals.com:2095/play/live.php?mac=00:1a:79:D4:58:56&stream=256442&extension=ts&play_token=ZQ6QXeDS9n
-#EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="Canal+ Premium" tvg-logo="http://logo.plusx.tv/logo/Canal+%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,CANAL+ Premium
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117349
-
-#EXTINF:-1 tvg-id="Canal+ Family" tvg-name="CANAL+ Family" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Canal+ Family
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9660
-#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Now.png" timeshift="7" catchup="fs" group-title="Sport" ,Canal+ Now
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9659
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="Canalplus Sport" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,Canal+ Sport
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117348
 #EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="Canal+ Sport 2" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,Canal+ Sport 2
@@ -165,9 +149,15 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117352
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117353
 #EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="Canal+ Sport 5" tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png" timeshift="7" catchup="fs" group-title="Sport" ,Canal+ Sport 5
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:D4:58:56&stream=256446&extension=ts&play_token=1P8rWy9h1A
+#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Now.png" timeshift="7" catchup="fs" group-title="Sport" ,Canal+ Now
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/9659
+
 
 #EXTINF:-1 tvg-id="Canal+ Domo" tvg-name="Canal+ Domo" group-title="Rozrywka" ,Canal+ Domo
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117386
+
+#EXTINF:-1 tvg-id="Canal+ Family" tvg-name="CANAL+ Family" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Canal+ Family
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/9660
 
 #EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="Canal+ Kuchnia" group-title="Rozrywka" ,Canal+ Kuchnia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117446
@@ -177,20 +167,24 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/33624
 
 #EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="CANAL+ Premium" group-title="Film" ,Canal+ Premium
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9639
+
+#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ FHD" tvg-logo="https://lo1.in/pol/c1.png" group-title="EU | POLAND FHD",PL| CANAL+ FHD
+http://iptv365.xyz:80/4523598035/5578723833/35736
+
 #EXTINF:-1 tvg-id="Canal+ Film" tvg-name="CANAL+ Film" group-title="Film" ,Canal+ Film
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117343
 #EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale" group-title="Serial" ,Canal+ Seriale
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117350
-#EXTINF:-1 tvg-id="Ale Kino+" tvg-name="Ale Kino!" group-title="Film" ,Ale Kino+
+
+
+#EXTINF:-1 tvg-id="Ale Kino+" tvg-name="Ale Kino+" group-title="Film" ,Ale Kino+
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117313
+#EXTINF:-1 tvg-id="Novelas+" tvg-name="Novelas+" group-title="Serial" ,Novelas+
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/9653
 #EXTINF:-1 tvg-id="Dizi" tvg-name="Dizi" group-title="Serial" ,Dizi
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33648
-#EXTINF:-1 tvg-id="Epic Drama" tvg-name="Be1 Alt" group-title="Rozrywka" ,Epic Drama
+#EXTINF:-1 tvg-id="Epic Drama" tvg-name="Epic Drama" group-title="Rozrywka" ,Epic Drama
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117397
-
-#EXTINF:-1 tvg-id="novelasplus.pl" tvg-name="PL| NOVELAS FHD" tvg-logo="https://lo1.in/pol/flg.png" group-title="EU | POLAND FHD",PL| NOVELAS FHD
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9653
-
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" group-title="Film" ,AMC
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117314
 #EXTINF:-1 tvg-id="SCI FI" tvg-name="SciFi" group-title="Film" ,SciFi
@@ -271,7 +265,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117483
 #EXTINF:-1 tvg-id="Minimini+" tvg-name="Mini Mini" tvg-logo="http://logo.plusx.tv/logo/MiniMini+%20HD.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,MiniMini+
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9602
 #EXTINF:-1 tvg-id="Teletoon" tvg-name="Teletoon+" tvg-logo="http://logo.plusx.tv/logo/Teletoon+%20HD.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,Teletoon+
-http://680243320493309989.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/309989.ts
+http://cdnx1.plusx.tv:8880/168/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="BBC CBeebies" tvg-name="BBC CBeebies" tvg-logo="https://docdog.top/logo/countries/poland/bbccbeebies.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,BBC CBeebies
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9541
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://docdog.top/logo/countries/poland/babytv.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,Baby TV
