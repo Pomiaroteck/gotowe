@@ -169,13 +169,13 @@ http://cdnx1.plusx.tv:8891/302/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Canal+ Film" tvg-name="CANAL+ Film" group-title="Film" ,Canal+ Film
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117343
 #EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale" group-title="Serial" ,Canal+ Seriale
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117350
+http://cdnx1.plusx.tv:8885/294/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Ale Kino+" tvg-name="Ale Kino+" group-title="Film" ,Ale Kino+
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117313
 #EXTINF:-1 tvg-id="Novelas+" tvg-name="Novelas+" group-title="Serial" ,Novelas+
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9653
 #EXTINF:-1 tvg-id="Dizi" tvg-name="Dizi" group-title="Serial" ,Dizi
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/33648
+http://cdnx1.plusx.tv:8881/Dizi/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Epic Drama" tvg-name="Epic Drama" group-title="Rozrywka" ,Epic Drama
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117397
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" group-title="Film" ,AMC
