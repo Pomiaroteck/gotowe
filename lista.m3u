@@ -68,9 +68,9 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/400454238
 #EXTINF:-1 tvg-id="TVP Polonia" tvg-name="TVP Polonia" group-title="Popularny" ,TVP Polonia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117578
 #EXTINF:-1 tvg-id="Polonia 1" tvg-name="Polonia 1" group-title="Popularny" ,Polonia 1
-http://680243320493298631.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298631.ts
+http://cdnx1.plusx.tv:8881/209/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" group-title="Popularny" ,Tele 5
-http://680243320493388280.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/388280.ts
+http://cdnx1.plusx.tv:8882/169/video.m3u8?token=2fb2205be221f081a22222
 
 #EXTINF:-1 tvg-id="BBC First" tvg-name="BBC First" group-title="Popularny" ,BBC First
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117328
@@ -139,6 +139,9 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117411
 #EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL| FIGHT BOX FHD" tvg-logo="https://lo1.in/pol/fgt.png" group-title="EU | POLAND SPORTS",PL| FIGHT BOX FHD
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117407
 
+
+#EXTINF:-1 tvg-logo="https://epg.ovh/logo/Canal++4K+Ultra+HD.png" group-title="4k", CANAL+ 4K Ultra HD
+http://cdnx1.plusx.tv:8880/Filmax/video.m3u8?token=2fb2205be221f081a22222
 
 #EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ FHD" tvg-logo="https://lo1.in/pol/c1.png" group-title="EU | POLAND FHD",PL| CANAL+ FHD
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/35736
@@ -308,7 +311,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/9512
 http://kkimco03.oknirvana.club:8880/3mk010046/26998211/33343
 
 #EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-name="Kino Polska Muzyka" group-title="Muzyka" ,Kino Polska Muzyka
-http://680243320493349612.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/349612.ts
+http://cdnx1.plusx.tv:8885/237/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Music Box Polska" tvg-name="Music Box Polska" group-title="Muzyka" ,Music Box Polska
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33631
 #EXTINF:-1 tvg-id="Polsat Music" tvg-name="Polsat Music" group-title="Muzyka" ,Polsat Music
@@ -317,8 +320,10 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117484
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117516
 #EXTINF:-1 tvg-id="Nuta TV" tvg-name="Nuta TV" group-title="Muzyka" ,Nuta TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117471
+#EXTINF:-1 tvg-id="Nuta Gold" tvg-name="Nuta Gold" group-title="Muzyka" ,Nuta Gold
+http://cdnx1.plusx.tv:8887/nutagoldhd/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Eska TV" tvg-name="Eska TV" group-title="Muzyka" ,Eska TV
-http://680243320493298579.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298579.ts
+http://cdnx1.plusx.tv:8881/267/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Eska TV Extra" tvg-name="Eska TV Extra" group-title="Muzyka" ,Eska TV Extra
 http://kkimco03.oknirvana.club:8880/3mk010046/26998211/33356
 #EXTINF:-1 tvg-id="Eska Rock TV" tvg-name="Eska Rock TV" group-title="Muzyka" ,Eska Rock TV
