@@ -128,16 +128,16 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117395
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117403
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" group-title="Sport" ,Eurosport 2
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117404
-
+#EXTINF:-1 tvg-id="Extreme Sports" tvg-name="Extreme Sports" group-title="Sport" ,Extreme Sports
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117406
+#EXTINF:-1 tvg-id="SportKlub" tvg-name="SportKlub" group-title="Sport" ,SportKlub
+http://cdnx1.plusx.tv:8887/175/video.m3u8?token=2fb2205be221f081a22222
+#EXTINF:-1 tvg-id="FightKlub" tvg-name="FightKlub" group-title="Sport" ,FightKlub
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117411
+#EXTINF:-1 tvg-id="FightBox" tvg-name="FightBox" group-title="Sport" ,FightBox
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117407
 #EXTINF:-1 tvg-id="TVP Sport" tvg-name="TVP Sport" group-title="Sport" ,TVP Sport
 http://cdnx1.plusx.tv:8881/134/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Extreme Channel" tvg-name="Extreme Channel" group-title="Sport" ,Extreme Channel
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117406
-
-#EXTINF:-1 tvg-id="fightklub.pl" tvg-name="PL| FIGHT KLUB FHD" tvg-logo="https://lo1.in/pol/fcl.png" group-title="EU | POLAND SPORTS",PL| FIGHT KLUB FHD
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117411
-#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL| FIGHT BOX FHD" tvg-logo="https://lo1.in/pol/fgt.png" group-title="EU | POLAND SPORTS",PL| FIGHT BOX FHD
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117407
 
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="Canalplus Sport" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png" timeshift="7" catchup="fs" group-title="Sport" ,Canal+ Sport
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117348
@@ -179,8 +179,6 @@ http://iptv365.xyz:80/4523598035/5578723833/117337
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117343
 #EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale" group-title="Serial" ,Canal+ Seriale
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117350
-
-
 #EXTINF:-1 tvg-id="Ale Kino+" tvg-name="Ale Kino+" group-title="Film" ,Ale Kino+
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117313
 #EXTINF:-1 tvg-id="Novelas+" tvg-name="Novelas+" group-title="Serial" ,Novelas+
@@ -221,7 +219,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117417
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117415
 #EXTINF:-1 tvg-id="FilmBox Action" tvg-name="FilmBox Action" group-title="Film" ,Filmbox Action
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117412
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX (HD)" group-title="Rozrywka" ,FOX
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" group-title="Rozrywka" ,FOX
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9530
 #EXTINF:-1 tvg-id="FOX Comedy" tvg-name="Fox Comedy" group-title="Rozrywka" ,FOX Comedy
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117420
