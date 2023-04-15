@@ -171,6 +171,10 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/9639
 #EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ FHD" tvg-logo="https://lo1.in/pol/c1.png" group-title="EU | POLAND FHD",PL| CANAL+ FHD
 http://iptv365.xyz:80/4523598035/5578723833/35736
 
+#EXTINF:-1 tvg-id="canalplus1.pl" tvg-name="PL| CANAL+ HD" tvg-logo="https://lo1.in/pol/c1.png" group-title="EU | POLAND HD",PL| CANAL+ HD
+http://iptv365.xyz:80/4523598035/5578723833/117337
+
+
 #EXTINF:-1 tvg-id="Canal+ Film" tvg-name="CANAL+ Film" group-title="Film" ,Canal+ Film
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117343
 #EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale" group-title="Serial" ,Canal+ Seriale
