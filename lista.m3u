@@ -51,16 +51,6 @@ http://680243320493309927.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/309927.ts
 #EXTINF:-1 tvg-id="WP" tvg-name="WP" group-title="Popularny" ,WP
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117600
 
-#EXTINF:-1 tvg-id="BBC First" tvg-name="BBC First" group-title="Popularny" ,BBC First
-http://iptv365.xyz:80/4523598035/5578723833/117328
-#EXTINF:-1 tvg-id="BBC Brit" tvg-name="BBC Brit" group-title="Popularny" ,BBC Brit
-http://iptv365.xyz:80/4523598035/5578723833/9647
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" group-title="Popularny" ,BBC Lifestyle
-http://iptv365.xyz:80/4523598035/5578723833/9646
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" group-title="Popularny" ,BBC Earth
-http://iptv365.xyz:80/4523598035/5578723833/117326
-
-
 #EXTINF:-1 tvg-id="TVP" tvg-name="TVP" group-title="Popularny" ,TVP
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117574
 #EXTINF:-1 tvg-id="TVP Seriale" tvg-name="TVP Seriale" group-title="Popularny" ,TVP Seriale
@@ -79,6 +69,15 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117578
 http://680243320493298631.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298631.ts
 #EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" group-title="Popularny" ,Tele 5
 http://680243320493388280.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/388280.ts
+
+#EXTINF:-1 tvg-id="BBC First" tvg-name="BBC First" group-title="Popularny" ,BBC First
+http://iptv365.xyz:80/4523598035/5578723833/117328
+#EXTINF:-1 tvg-id="BBC Brit" tvg-name="BBC Brit" group-title="Popularny" ,BBC Brit
+http://iptv365.xyz:80/4523598035/5578723833/9647
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" group-title="Popularny" ,BBC Lifestyle
+http://iptv365.xyz:80/4523598035/5578723833/9646
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" group-title="Popularny" ,BBC Earth
+http://iptv365.xyz:80/4523598035/5578723833/117326
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" group-title="Dokumenty" ,History
 http://iptv365.xyz:80/4523598035/5578723833/9649
