@@ -6,16 +6,18 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117556
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117557
 #EXTINF:-1 tvg-id="Polsat" tvg-name="POLSAT" group-title="Popularny" ,Polsat
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117480
-#EXTINF:-1 tvg-id="Polsat 2" tvg-name="POLSAT 2" group-title="Popularny" ,Polsat 2
-http://680243320493309947.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/309947.ts
+#EXTINF:-1 tvg-id="Polsat 1" tvg-name="Polsat 1" group-title="Popularny" ,Polsat 1
+http://cdnx1.plusx.tv:8882/13tv1/video.m3u8?token=2fb2205be221f081a22222
+#EXTINF:-1 tvg-id="Polsat 2" tvg-name="Polsat 2" group-title="Popularny" ,Polsat 2
+http://cdnx1.plusx.tv:8881/208/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Super Polsat" tvg-name="Super Polsat" group-title="Popularny" ,Super Polsat
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117519
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" group-title="Popularny" ,TVN
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117552
 #EXTINF:-1 tvg-id="TVN 7" tvg-name="TVN 7" group-title="Popularny" ,TVN 7
-http://680243320493298687.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298687.ts
+http://cdnx1.plusx.tv:8887/152/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="TVN Fabuła" tvg-name="TVN Fabuła" group-title="Popularny" ,TVN Fabuła
-http://iptv365.xyz:80/4523598035/5578723833/117551
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117551
 #EXTINF:-1 tvg-id="TV 4" tvg-name="TV4" group-title="Popularny" ,TV 4
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117545
 #EXTINF:-1 tvg-id="TV 6" tvg-name="TV 6" group-title="Popularny" ,TV 6
@@ -34,6 +36,13 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117530
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117430
 #EXTINF:-1 tvg-id="Home TV" tvg-name="Home TV" group-title="Rozrywka" ,Home TV
 http://680243320493298602.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298602.ts
+
+#EXTINF:-1 tvg-logo="https://epg.ovh/logo/Home+TV.png" group-title="Rozrywka", Home TV
+http://cdnx1.plusx.tv:8885/8080/video.m3u8?token=2fb2205be221f081a22222
+
+#EXTINF:-1 tvg-logo="https://epg.ovh/logo/Home+Poland+4K.png" group-title="4k", Home 4K
+http://cdnx1.plusx.tv:8884/316/video.m3u8?token=2fb2205be221f081a22222
+
 #EXTINF:-1 tvg-id="Fokus TV" tvg-name="Fokus TV" group-title="Popularny" ,Fokus TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117418
 #EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka TV" group-title="Film" ,Stopklatka TV
@@ -71,18 +80,18 @@ http://680243320493298631.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298631.ts
 http://680243320493388280.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/388280.ts
 
 #EXTINF:-1 tvg-id="BBC First" tvg-name="BBC First" group-title="Popularny" ,BBC First
-http://iptv365.xyz:80/4523598035/5578723833/117328
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117328
 #EXTINF:-1 tvg-id="BBC Brit" tvg-name="BBC Brit" group-title="Popularny" ,BBC Brit
-http://iptv365.xyz:80/4523598035/5578723833/9647
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/9647
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" group-title="Popularny" ,BBC Lifestyle
-http://iptv365.xyz:80/4523598035/5578723833/9646
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/9646
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" group-title="Popularny" ,BBC Earth
-http://iptv365.xyz:80/4523598035/5578723833/117326
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117326
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" group-title="Dokumenty" ,History
-http://iptv365.xyz:80/4523598035/5578723833/9649
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/9649
 #EXTINF:-1 tvg-id="History2" tvg-name="History2" group-title="Dokumenty" ,History2
-http://iptv365.xyz:80/4523598035/5578723833/117433
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117433
 #EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku" group-title="Dokumenty" ,Polsat Doku
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117479
 #EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="Canal+ Dokument" group-title="Dokumenty" ,Canal+ Dokument
@@ -130,16 +139,16 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117404
 #EXTINF:-1 tvg-id="TVP Sport" tvg-name="TVP Sport" group-title="Sport" ,TVP Sport
 http://680243320493298704.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298704.ts
 #EXTINF:-1 tvg-id="Extreme Channel" tvg-name="Extreme Channel" group-title="Sport" ,Extreme Channel
-http://iptv365.xyz:80/4523598035/5578723833/117406
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117406
 
 #EXTINF:-1 tvg-id="fightklub.pl" tvg-name="PL| FIGHT KLUB FHD" tvg-logo="https://lo1.in/pol/fcl.png" group-title="EU | POLAND SPORTS",PL| FIGHT KLUB FHD
-http://iptv365.xyz:80/4523598035/5578723833/117411
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117411
 #EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL| FIGHT BOX FHD" tvg-logo="https://lo1.in/pol/fgt.png" group-title="EU | POLAND SPORTS",PL| FIGHT BOX FHD
-http://iptv365.xyz:80/4523598035/5578723833/117407
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117407
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ FHD" tvg-logo="https://lo1.in/pol/c1.png" group-title="EU | POLAND FHD",PL| CANAL+ FHD
-http://iptv365.xyz:80/4523598035/5578723833/35736
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/35736
 
 #EXTINF:-1 tvg-id="Canal+ 1" tvg-name="CANAL+ 1" tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Canal+ 1
 http://clientsportals.com:2095/play/live.php?mac=00:1a:79:D4:58:56&stream=256442&extension=ts&play_token=ZQ6QXeDS9n
@@ -184,7 +193,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/33648
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117397
 
 #EXTINF:-1 tvg-id="novelasplus.pl" tvg-name="PL| NOVELAS FHD" tvg-logo="https://lo1.in/pol/flg.png" group-title="EU | POLAND FHD",PL| NOVELAS FHD
-http://iptv365.xyz:80/4523598035/5578723833/9653
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/9653
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" group-title="Film" ,AMC
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117314
@@ -232,11 +241,11 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117472
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33617
 
 #EXTINF:-1 tvg-id="TVN Turbo" tvg-name="TVN Turbo" group-title="Motoryzacja" ,TVN Turbo
-http://iptv365.xyz:80/4523598035/5578723833/117555
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117555
 #EXTINF:-1 tvg-id="Motowizja" tvg-name="Motowizja" group-title="Motoryzacja" ,Motowizja
-http://iptv365.xyz:80/4523598035/5578723833/117454
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117454
 #EXTINF:-1 tvg-id="DTX" tvg-name="DTX" group-title="Motoryzacja" ,DTX
-http://iptv365.xyz:80/4523598035/5578723833/117388
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117388
 
 #EXTINF:-1 tvg-id="TVP Info" tvg-name="TVP-Info" group-title="Informacje" ,TVP Info
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/35735
