@@ -35,14 +35,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117530
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="Rozrywka" ,HGTV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117430
 #EXTINF:-1 tvg-id="Home TV" tvg-name="Home TV" group-title="Rozrywka" ,Home TV
-http://680243320493298602.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298602.ts
-
-#EXTINF:-1 tvg-logo="https://epg.ovh/logo/Home+TV.png" group-title="Rozrywka", Home TV
 http://cdnx1.plusx.tv:8885/8080/video.m3u8?token=2fb2205be221f081a22222
-
-#EXTINF:-1 tvg-logo="https://epg.ovh/logo/Home+Poland+4K.png" group-title="4k", Home 4K
-http://cdnx1.plusx.tv:8884/316/video.m3u8?token=2fb2205be221f081a22222
-
 #EXTINF:-1 tvg-id="Fokus TV" tvg-name="Fokus TV" group-title="Popularny" ,Fokus TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117418
 #EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka TV" group-title="Film" ,Stopklatka TV
@@ -56,7 +49,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117507
 #EXTINF:-1 tvg-id="Antena" tvg-name="Antena" group-title="Popularny" ,Antena
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33657
 #EXTINF:-1 tvg-id="Metro" tvg-name="Metro" group-title="Popularny" ,Metro
-http://680243320493309927.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/309927.ts
+http://cdnx1.plusx.tv:8887/232/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="WP" tvg-name="WP" group-title="Popularny" ,WP
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117600
 
