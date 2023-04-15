@@ -155,26 +155,21 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/9659
 
 #EXTINF:-1 tvg-id="Canal+ Domo" tvg-name="Canal+ Domo" group-title="Rozrywka" ,Canal+ Domo
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117386
-
 #EXTINF:-1 tvg-id="Canal+ Family" tvg-name="CANAL+ Family" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Canal+ Family
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9660
-
 #EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="Canal+ Kuchnia" group-title="Rozrywka" ,Canal+ Kuchnia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117446
 #EXTINF:-1 tvg-id="Polsat Food" tvg-name="Polsat Food" group-title="Dla mężczyzn" ,Polsat Food
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33624
 
 
+#EXTINF:-1 tvg-id="Canal+ 4K" tvg-name="CANAL+ 4K" group-title="Film" ,Canal+ 4K
+http://cdnx1.plusx.tv:8880/Filmax/video.m3u8?token=2fb2205be221f081a22222
+
 #EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="CANAL+ Premium" group-title="Film" ,Canal+ Premium
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9639
-
-#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ FHD" tvg-logo="https://lo1.in/pol/c1.png" group-title="EU | POLAND FHD",PL| CANAL+ FHD
 http://iptv365.xyz:80/4523598035/5578723833/35736
-
-#EXTINF:-1 tvg-id="canalplus1.pl" tvg-name="PL| CANAL+ HD" tvg-logo="https://lo1.in/pol/c1.png" group-title="EU | POLAND HD",PL| CANAL+ HD
-http://iptv365.xyz:80/4523598035/5578723833/117337
-
-
+#EXTINF:-1 tvg-id="Canal+ 1" tvg-name="CANAL+ 1" group-title="Film" ,Canal+ 1
+http://cdnx1.plusx.tv:8891/302/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Canal+ Film" tvg-name="CANAL+ Film" group-title="Film" ,Canal+ Film
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117343
 #EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale" group-title="Serial" ,Canal+ Seriale
