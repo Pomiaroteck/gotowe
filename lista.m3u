@@ -68,7 +68,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117577
 http://cdnx1.plusx.tv:8891/tvpkul25/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="TVP Historia" tvg-name="TVP Historia" timeshift="7" ,TVP Historia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117575
-#EXTINF:-1 tvg-id="TVP Dokument" tvg-name="TVP Dokument" group-title="Dokumenty" ,TVP Dokument
+#EXTINF:-1 tvg-id="TVP Dokument" tvg-name="TVP Dokument" timeshift="7" ,TVP Dokument
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/400454238
 #EXTINF:-1 tvg-id="TVP Polonia" tvg-name="TVP Polonia" timeshift="7" ,TVP Polonia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117578
@@ -112,7 +112,7 @@ http://iptv365.xyz:80/4523598035/5578723833/117474
 #EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="Canal+ Dokument" timeshift="7" ,Canal+ Dokument
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117340
 
-#EXTINF:-1 tvg-id="Polsat Play" tvg-name="Polsat Play" group-title=timeshift="7" ,Polsat Play
+#EXTINF:-1 tvg-id="Polsat Play" tvg-name="Polsat Play" timeshift="7" ,Polsat Play
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117487
 #EXTINF:-1 tvg-id="Polsat Cafe" tvg-name="Polsat Cafe" timeshift="7",Polsat Cafe
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117478
@@ -170,7 +170,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117352
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117353
 #EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="Canal+ Sport 5" timeshift="7" ,Canal+ Sport 5
 http://cdnx1.plusx.tv:8891/215/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" group-title="Sport" ,Canal+ Now
+#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" timeshift="7" ,Canal+ Now
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9659
 
 
@@ -245,12 +245,12 @@ http://iptv365.xyz:80/4523598035/5578723833/117518
 
 #EXTINF:-1 tvg-id="TVN Turbo" tvg-name="TVN Turbo" timeshift="7" ,TVN Turbo
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117555
-#EXTINF:-1 tvg-id="Motowizja" tvg-name="Motowizja" group-title="Motoryzacja" ,Motowizja
+#EXTINF:-1 tvg-id="Motowizja" tvg-name="Motowizja" timeshift="7" ,Motowizja
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117454
 #EXTINF:-1 tvg-id="DTX" tvg-name="DTX" timeshift="7" ,DTX
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117388
 
-#EXTINF:-1 tvg-id="TVP Info" tvg-name="TVP-Info" group-title="Informacje" ,TVP Info
+#EXTINF:-1 tvg-id="TVP Info" tvg-name="TVP-Info" timeshift="7" ,TVP Info
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/35735
 #EXTINF:-1 tvg-id="TVN 24" tvg-name="TVN 24" timeshift="7" ,TVN 24
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117549
@@ -275,7 +275,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117544
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117573
 #EXTINF:-1 tvg-id="TVP ABC 2" tvg-name="TVP-ABC 2" timeshift="7" ,TVP ABC 2
 http://cdnx1.plusx.tv:8889/tvpabc25/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="JimJam Polsat" tvg-name="JimJam" group-title="Dla Dzieci" ,JimJam Polsat
+#EXTINF:-1 tvg-id="JimJam Polsat" tvg-name="JimJam" timeshift="7" ,JimJam Polsat
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117483
 #EXTINF:-1 tvg-id="Top Kids" tvg-name="Top Kids" timeshift="7", Top Kids
 http://cdnx1.plusx.tv:8880/TopKidsJr/video.m3u8?token=2fb2205be221f081a22222
@@ -308,7 +308,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117372
 #EXTINF:-1 tvg-id="4FUN KIDS" tvg-name="4FUN KIDS" timeshift="7" ,4FUN KIDS
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9515
 
-#EXTINF:-1 tvg-id="MTV Polska" tvg-name="MTV Polska" group-title="Muzyka" ,MTV Polska
+#EXTINF:-1 tvg-id="MTV Polska" tvg-name="MTV Polska" timeshift="7" ,MTV Polska
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117458
 #EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" timeshift="7" ,MTV Hits
 http://cdnx1.plusx.tv:8882/mtvhits/video.m3u8?token=2fb2205be221f081a22222
