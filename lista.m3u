@@ -19,7 +19,7 @@ http://cdnx1.plusx.tv:8887/152/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="TVN Fabuła" tvg-name="TVN Fabuła" timeshift="7" ,TVN Fabuła
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117551
 #EXTINF:-1 tvg-id="TV 4" tvg-name="TV4" timeshift="7" ,TV 4
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117545
+http://cdnx1.plusx.tv:8883/161/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="TV 6" tvg-name="TV 6" timeshift="7" ,TV 6
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117546
 #EXTINF:-1 tvg-id="TV Puls" tvg-name="TV Puls" timeshift="7" ,TV Puls
