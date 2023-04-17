@@ -90,6 +90,10 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117326
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9649
 #EXTINF:-1 tvg-id="History2" tvg-name="History2" group-title="Dokumenty" ,History2
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117433
+
+#EXTINF:-1 tvg-id="planete.pl" tvg-name="PL| PLANETE+ FHD" tvg-logo="https://lo1.in/pol/plnt.png" group-title="EU | POLAND FHD",PL| PLANETE+ FHD
+http://iptv365.xyz:80/4523598035/5578723833/117474
+
 #EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku" group-title="Dokumenty" ,Polsat Doku
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117479
 #EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="Canal+ Dokument" group-title="Dokumenty" ,Canal+ Dokument
@@ -309,7 +313,7 @@ http://cdnx1.plusx.tv:8883/MTVcub/video.m3u8?token=2fb2205be221f081a22222
 http://cdnx1.plusx.tv:8885/237/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Music Box Polska" tvg-name="Music Box Polska" group-title="Muzyka" ,Music Box Polska
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33631
-#EXTINF:-1 tvg-id="Mixtape" tvg-name="Mixtape" group-title="Muzyka" ,Mixtape
+#EXTINF:-1 tvg-id="Mixtape HD" tvg-name="Mixtape HD" group-title="Muzyka" ,Mixtape
 http://cdnx1.plusx.tv:8885/MixTapeHD/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Polsat Music" tvg-name="Polsat Music" group-title="Muzyka" ,Polsat Music
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117484
