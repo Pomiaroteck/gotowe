@@ -252,11 +252,13 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117583
 #EXTINF:-1 tvg-id="TV Trwam" tvg-name="TV Trwam" group-title="Popularny" ,TV Trwam
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117544
 
-#EXTINF:-1 tvg-id="TVP ABC" tvg-name="TVP-ABC" tvg-logo="http://logo.plusx.tv/logo/TVP%20ABC.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,TVP ABC
+#EXTINF:-1 tvg-id="TVP ABC" tvg-name="TVP-ABC" group-title="Dla Dzieci" ,TVP ABC
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117573
-#EXTINF:-1 tvg-id="JimJam Polsat" tvg-name="JimJam" tvg-logo="http://logo.plusx.tv/logo/JimJam%20Polsat.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,JimJam Polsat
+#EXTINF:-1 tvg-id="TVP ABC 2" tvg-name="TVP-ABC 2" group-title="Dla Dzieci" ,TVP ABC 2
+http://cdnx1.plusx.tv:8889/tvpabc25/video.m3u8?token=2fb2205be221f081a22222
+#EXTINF:-1 tvg-id="JimJam Polsat" tvg-name="JimJam" group-title="Dla Dzieci" ,JimJam Polsat
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117483
-#EXTINF:-1 tvg-id="Minimini+" tvg-name="Mini Mini" tvg-logo="http://logo.plusx.tv/logo/MiniMini+%20HD.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,MiniMini+
+#EXTINF:-1 tvg-id="Minimini+" tvg-name="Mini Mini" group-title="Dla Dzieci" ,MiniMini+
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9602
 #EXTINF:-1 tvg-id="Teletoon" tvg-name="Teletoon+" tvg-logo="http://logo.plusx.tv/logo/Teletoon+%20HD.png" timeshift="7" catchup="fs" group-title="Dla Dzieci" ,Teletoon+
 http://cdnx1.plusx.tv:8880/168/video.m3u8?token=2fb2205be221f081a22222
