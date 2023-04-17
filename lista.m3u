@@ -211,14 +211,14 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117417
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117415
 #EXTINF:-1 tvg-id="FilmBox Action" tvg-name="FilmBox Action" group-title="Film" ,Filmbox Action
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117412
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" group-title="Rozrywka" ,FOX
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9530
-#EXTINF:-1 tvg-id="FOX Comedy" tvg-name="Fox Comedy" group-title="Rozrywka" ,FOX Comedy
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117420
 #EXTINF:-1 tvg-id="Kino TV" tvg-name="Kino TV" group-title="Film" ,Kino TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117443
 #EXTINF:-1 tvg-id="Kino Polska" tvg-name="Kino Polska" group-title="Film" ,Kino Polska
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117441
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" group-title="Rozrywka" ,FOX
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/9530
+#EXTINF:-1 tvg-id="FOX Comedy" tvg-name="Fox Comedy" group-title="Rozrywka" ,FOX Comedy
+http://hacrzry.mbob.xyz:80/4523598035/5578723833/117420
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" group-title="Film" ,Paramount Channel
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117472
 #EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" group-title="Film" ,Warner TV
@@ -307,7 +307,7 @@ http://cdnx1.plusx.tv:8883/MTVcub/video.m3u8?token=2fb2205be221f081a22222
 http://cdnx1.plusx.tv:8885/237/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Music Box Polska" tvg-name="Music Box Polska" group-title="Muzyka" ,Music Box Polska
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33631
-#EXTINF:-1 tvg-id="Mixtape TV" tvg-name="Mixtape TV" group-title="Muzyka" ,Mixtape TV
+#EXTINF:-1 tvg-id="Mixtape" tvg-name="Mixtape" group-title="Muzyka" ,Mixtape
 http://cdnx1.plusx.tv:8885/MixTapeHD/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Polsat Music" tvg-name="Polsat Music" group-title="Muzyka" ,Polsat Music
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117484
