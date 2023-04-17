@@ -86,6 +86,11 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/9646
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" group-title="Popularny" ,BBC Earth
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117326
 
+#EXTINF:-1 tvg-id="discovery.pl" tvg-name="PL| DISCOVERY HD" tvg-logo="https://lo1.in/pol/dsc.png" group-title="EU | POLAND HD",PL| DISCOVERY HD
+http://iptv365.xyz:80/4523598035/5578723833/117376
+#EXTINF:-1 tvg-id="" tvg-name="PL| DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/pol/discsc.png" group-title="EU | POLAND HD",PL| DISCOVERY SCIENCE HD
+http://iptv365.xyz:80/4523598035/5578723833/33650
+
 #EXTINF:-1 tvg-id="History" tvg-name="History" group-title="Dokumenty" ,History
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9649
 #EXTINF:-1 tvg-id="History2" tvg-name="History2" group-title="Dokumenty" ,History2
@@ -328,9 +333,9 @@ http://cdnx1.plusx.tv:8881/267/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Eska TV Extra" tvg-name="Eska TV Extra" group-title="Muzyka" ,Eska TV Extra
 http://kkimco03.oknirvana.club:8880/3mk010046/26998211/33356
 #EXTINF:-1 tvg-id="Eska Rock TV" tvg-name="Eska Rock TV" group-title="Muzyka" ,Eska Rock TV
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117400
+http://cdnx1.plusx.tv:8883/266/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="4FUN TV" tvg-name="4 FUN TV" group-title="Muzyka" ,4 FUN TV
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9533
+http://cdnx1.plusx.tv:8883/322/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="4 FUN DANCE" tvg-name="4 FUN DANCE" group-title="Muzyka" ,4 FUN DANCE
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117306
 #EXTINF:-1 tvg-id="Vox Music TV" tvg-name="vox-music-tv" group-title="Muzyka" ,VOX Music TV
