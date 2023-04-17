@@ -303,6 +303,8 @@ http://cdnx1.plusx.tv:8883/MTVcub/video.m3u8?token=2fb2205be221f081a22222
 http://cdnx1.plusx.tv:8885/237/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Music Box Polska" tvg-name="Music Box Polska" group-title="Muzyka" ,Music Box Polska
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33631
+#EXTINF:-1 tvg-id="Mixtape TV" tvg-name="Mixtape TV" group-title="Muzyka" ,Mixtape TV
+http://cdnx1.plusx.tv:8885/MixTapeHD/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Polsat Music" tvg-name="Polsat Music" group-title="Muzyka" ,Polsat Music
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117484
 #EXTINF:-1 tvg-id="Stars TV" tvg-name="Stars TV" group-title="Muzyka" ,Stars TV
