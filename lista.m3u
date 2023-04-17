@@ -86,22 +86,25 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/9646
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" group-title="Popularny" ,BBC Earth
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117326
 
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="Dokumenty" , Discovery
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="Dokument" , Discovery
 http://iptv365.xyz:80/4523598035/5578723833/117376
 #EXTINF:-1 tvg-id="" tvg-name="PL| DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/pol/discsc.png" group-title="EU | POLAND HD",PL| DISCOVERY SCIENCE HD
 http://cdnx1.plusx.tv:8881/279/video.m3u8?token=2fb2205be221f081a22222
 
-#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="Dokumenty" ,History
+#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="Dokument" ,History
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9649
-#EXTINF:-1 tvg-id="History2" tvg-name="History2" group-title="Dokumenty" ,History2
+#EXTINF:-1 tvg-id="History2" tvg-name="History2" group-title="Dokument" ,History2
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117433
 
-#EXTINF:-1 tvg-id="planete.pl" tvg-name="PL| PLANETE+ FHD" tvg-logo="https://lo1.in/pol/plnt.png" group-title="EU | POLAND FHD",PL| PLANETE+ FHD
+#EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="Dokument" ,Animal Planet
+http://iptv365.xyz:80/4523598035/5578723833/117316
+#EXTINF:0 tvg-id="Planete+" tvg-name="Planete+" group-title="Dokument" ,Planete+
 http://iptv365.xyz:80/4523598035/5578723833/117474
 
-#EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku" group-title="Dokumenty" ,Polsat Doku
+
+#EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku" group-title="Dokument" ,Polsat Doku
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117479
-#EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="Canal+ Dokument" group-title="Dokumenty" ,Canal+ Dokument
+#EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="Canal+ Dokument" group-title="Dokument" ,Canal+ Dokument
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117340
 
 #EXTINF:-1 tvg-id="Polsat Play" tvg-name="Polsat Play" group-title="Dla mężczyzn" ,Polsat Play
@@ -170,7 +173,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/9659
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117386
 #EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="Canal+ Kuchnia" group-title="Rozrywka" ,Canal+ Kuchnia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117446
-#EXTINF:-1 tvg-id="Canal+ Family" tvg-name="CANAL+ Family" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png" timeshift="7" catchup="fs" group-title="Film" ,Canal+ Family
+#EXTINF:-1 tvg-id="Canal+ Family" tvg-name="CANAL+ Family" group-title="Film" ,Canal+ Family
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9660
 #EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="CANAL+ Premium" group-title="Film" ,Canal+ Premium
 http://iptv365.xyz:80/4523598035/5578723833/35736
