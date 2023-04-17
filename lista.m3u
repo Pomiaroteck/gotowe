@@ -98,12 +98,17 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117433
 
 #EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="Dokument" ,Animal Planet
 http://iptv365.xyz:80/4523598035/5578723833/117316
-#EXTINF:0 tvg-id="Planete+" tvg-name="Planete+" group-title="Dokument" ,Planete+
-http://iptv365.xyz:80/4523598035/5578723833/117474
-
-
 #EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku" group-title="Dokument" ,Polsat Doku
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117479
+
+#EXTINF:0 tvg-id="National Geographic" tvg-name="National Geographic" group-title="Dokument" ,National Geographic
+http://iptv365.xyz:80/4523598035/5578723833/9651
+#EXTINF:0 tvg-id="National Geographic Wild" tvg-name="Nat Geo Wild " group-title="Dokument" ,Nat Geo Wild
+http://iptv365.xyz:80/4523598035/5578723833/9650
+
+
+#EXTINF:0 tvg-id="Planete+" tvg-name="Planete+" group-title="Dokument" ,Planete+
+http://iptv365.xyz:80/4523598035/5578723833/117474
 #EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="Canal+ Dokument" group-title="Dokument" ,Canal+ Dokument
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117340
 
