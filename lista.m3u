@@ -354,3 +354,8 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117505
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117475
 #EXTINF:-1 tvg-id="Disco Polo Music" tvg-name="disco-polo-music" timeshift="7" ,Disco Polo Music
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117373
+
+
+#EXTINF:-1 tvg-id="Polsat" tvg-name="POLSAT" timeshift="7" ,Polsat
+http://680243320493298637.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298637.ts
+
