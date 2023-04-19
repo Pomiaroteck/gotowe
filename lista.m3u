@@ -23,29 +23,29 @@ http://cdnx1.plusx.tv:8883/161/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="TV 6" tvg-name="TV 6" timeshift="7" ,TV 6
 http://cdnx1.plusx.tv:8884/160/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="TV Puls" tvg-name="TV Puls" timeshift="7" ,TV Puls
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117540
+http://cdnx1.plusx.tv:8881/158/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Puls 2" tvg-name="PLUS 2" timeshift="7" ,Puls 2
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117506
+http://cdnx1.plusx.tv:8882/180/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central Polska" timeshift="7" ,Comedy Central
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117369
+http://cdnx1.plusx.tv:8885/286/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Polsat Comedy Central Extra" tvg-name="Comedy Central Polska" timeshift="7" ,Polsat Comedy Central Extra
 http://cdnx1.plusx.tv:8881/289/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="TTV" tvg-name="TTV" timeshift="7" ,TTV
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117530
+http://cdnx1.plusx.tv:8892/162/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" timeshift="7" ,HGTV
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117430
+http://cdnx1.plusx.tv:8882/241/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Home TV" tvg-name="Home TV" timeshift="7" ,Home TV
 http://cdnx1.plusx.tv:8885/8080/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Fokus TV" tvg-name="Fokus TV" timeshift="7" ,Fokus TV
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117418
+http://cdnx1.plusx.tv:8884/254/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka TV" timeshift="7" ,Stopklatka TV
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117517
+http://cdnx1.plusx.tv:8889/173/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="NOWA TV" tvg-name="Nowa TV" timeshift="7" ,Nowa TV
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117467
+http://cdnx1.plusx.tv:8886/216/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="ZOOM TV" tvg-name="Zoom TV" timeshift="7" ,Zoom TV
 http://cdnx1.plusx.tv:8892/118/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Romance TV" tvg-name="Romance TV" timeshift="7" ,Romance TV
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117507
+http://cdnx1.plusx.tv:8885/178/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Antena" tvg-name="Antena" timeshift="7" ,Antena
 http://cdnx1.plusx.tv:8886/1316/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Metro" tvg-name="Metro" timeshift="7" ,Metro
