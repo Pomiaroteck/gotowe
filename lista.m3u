@@ -1,367 +1,367 @@
 #EXTM3U x-tvg-url="https://epg.ovh/pl.xml"
 
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" timeshift="7" ,TVP 1
+#EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" timeshift="12" catchup="fs" ,TVP 1
 http://cdnx1.plusx.tv:8880/144/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="TVP 2" tvg-name="TVP 2" timeshift="7" ,TVP 2
+#EXTINF:-1 tvg-id="TVP 2" tvg-name="TVP 2" timeshift="12" catchup="fs" ,TVP 2
 http://cdnx1.plusx.tv:8881/143/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Polsat" tvg-name="POLSAT" timeshift="7" ,Polsat
+#EXTINF:-1 tvg-id="Polsat" tvg-name="POLSAT" timeshift="12" catchup="fs" ,Polsat
 http://cdnx1.plusx.tv:8885/203/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Polsat 1" tvg-name="Polsat 1" timeshift="7" ,Polsat 1
+#EXTINF:-1 tvg-id="Polsat 1" tvg-name="Polsat 1" timeshift="12" catchup="fs" ,Polsat 1
 http://cdnx1.plusx.tv:8882/13tv1/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Polsat 2" tvg-name="Polsat 2" timeshift="7" ,Polsat 2
+#EXTINF:-1 tvg-id="Polsat 2" tvg-name="Polsat 2" timeshift="12" catchup="fs" ,Polsat 2
 http://cdnx1.plusx.tv:8881/208/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Super Polsat" tvg-name="Super Polsat" timeshift="7" ,Super Polsat
+#EXTINF:-1 tvg-id="Super Polsat" tvg-name="Super Polsat" timeshift="12" catchup="fs" ,Super Polsat
 http://cdnx1.plusx.tv:8891/171/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" timeshift="7" ,TVN
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" timeshift="12" catchup="fs" ,TVN
 http://cdnx1.plusx.tv:8889/149/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="TVN 7" tvg-name="TVN 7" timeshift="7" ,TVN 7
+#EXTINF:-1 tvg-id="TVN 7" tvg-name="TVN 7" timeshift="12" catchup="fs" ,TVN 7
 http://cdnx1.plusx.tv:8887/152/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="TVN Fabuła" tvg-name="TVN Fabuła" timeshift="7" ,TVN Fabuła
+#EXTINF:-1 tvg-id="TVN Fabuła" tvg-name="TVN Fabuła" timeshift="12" catchup="fs" ,TVN Fabuła
 http://cdnx1.plusx.tv:8884/150/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="TV 4" tvg-name="TV4" timeshift="7" ,TV 4
+#EXTINF:-1 tvg-id="TV 4" tvg-name="TV4" timeshift="12" catchup="fs" ,TV 4
 http://cdnx1.plusx.tv:8883/161/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="TV 6" tvg-name="TV 6" timeshift="7" ,TV 6
+#EXTINF:-1 tvg-id="TV 6" tvg-name="TV 6" timeshift="12" catchup="fs" ,TV 6
 http://cdnx1.plusx.tv:8884/160/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="TV Puls" tvg-name="TV Puls" timeshift="7" ,TV Puls
+#EXTINF:-1 tvg-id="TV Puls" tvg-name="TV Puls" timeshift="12" catchup="fs" ,TV Puls
 http://cdnx1.plusx.tv:8881/158/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Puls 2" tvg-name="PLUS 2" timeshift="7" ,Puls 2
+#EXTINF:-1 tvg-id="Puls 2" tvg-name="PLUS 2" timeshift="12" catchup="fs" ,Puls 2
 http://cdnx1.plusx.tv:8882/180/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central Polska" timeshift="7" ,Comedy Central
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central Polska" timeshift="12" catchup="fs" ,Comedy Central
 http://cdnx1.plusx.tv:8885/286/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Polsat Comedy Central Extra" tvg-name="Comedy Central Polska" timeshift="7" ,Polsat Comedy Central Extra
+#EXTINF:-1 tvg-id="Polsat Comedy Central Extra" tvg-name="Comedy Central Polska" timeshift="12" catchup="fs" ,Polsat Comedy Central Extra
 http://cdnx1.plusx.tv:8881/289/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="TTV" tvg-name="TTV" timeshift="7" ,TTV
+#EXTINF:-1 tvg-id="TTV" tvg-name="TTV" timeshift="12" catchup="fs" ,TTV
 http://cdnx1.plusx.tv:8892/162/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" timeshift="7" ,HGTV
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" timeshift="12" catchup="fs" ,HGTV
 http://cdnx1.plusx.tv:8882/241/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Home TV" tvg-name="Home TV" timeshift="7" ,Home TV
+#EXTINF:-1 tvg-id="Home TV" tvg-name="Home TV" timeshift="12" catchup="fs" ,Home TV
 http://cdnx1.plusx.tv:8885/8080/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Fokus TV" tvg-name="Fokus TV" timeshift="7" ,Fokus TV
+#EXTINF:-1 tvg-id="Fokus TV" tvg-name="Fokus TV" timeshift="12" catchup="fs" ,Fokus TV
 http://cdnx1.plusx.tv:8884/254/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka TV" timeshift="7" ,Stopklatka TV
+#EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka TV" timeshift="12" catchup="fs" ,Stopklatka TV
 http://cdnx1.plusx.tv:8889/173/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="NOWA TV" tvg-name="Nowa TV" timeshift="7" ,Nowa TV
+#EXTINF:-1 tvg-id="NOWA TV" tvg-name="Nowa TV" timeshift="12" catchup="fs" ,Nowa TV
 http://cdnx1.plusx.tv:8886/216/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="ZOOM TV" tvg-name="Zoom TV" timeshift="7" ,Zoom TV
+#EXTINF:-1 tvg-id="ZOOM TV" tvg-name="Zoom TV" timeshift="12" catchup="fs" ,Zoom TV
 http://cdnx1.plusx.tv:8892/118/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Romance TV" tvg-name="Romance TV" timeshift="7" ,Romance TV
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="Romance TV" timeshift="12" catchup="fs" ,Romance TV
 http://cdnx1.plusx.tv:8885/178/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Antena" tvg-name="Antena" timeshift="7" ,Antena
+#EXTINF:-1 tvg-id="Antena" tvg-name="Antena" timeshift="12" catchup="fs" ,Antena
 http://cdnx1.plusx.tv:8886/1316/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Metro" tvg-name="Metro" timeshift="7" ,Metro
+#EXTINF:-1 tvg-id="Metro" tvg-name="Metro" timeshift="12" catchup="fs" ,Metro
 http://cdnx1.plusx.tv:8887/232/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="WP" tvg-name="WP" timeshift="7" ,WP
+#EXTINF:-1 tvg-id="WP" tvg-name="WP" timeshift="12" catchup="fs" ,WP
 http://cdnx1.plusx.tv:8889/121/video.m3u8?token=2fb2205be221f081a22222
 
 
-#EXTINF:-1 tvg-id="TVP" tvg-name="TVP" timeshift="7" ,TVP
+#EXTINF:-1 tvg-id="TVP" tvg-name="TVP" timeshift="12" catchup="fs" ,TVP
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117574
-#EXTINF:-1 tvg-id="TVP Seriale" tvg-name="TVP Seriale" timeshift="7" ,TVP Seriale
+#EXTINF:-1 tvg-id="TVP Seriale" tvg-name="TVP Seriale" timeshift="12" catchup="fs" ,TVP Seriale
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117580
-#EXTINF:-1 tvg-id="TVP Rozrywka" tvg-name="TVP Rozrywka" timeshift="7" ,TVP Rozrywka
+#EXTINF:-1 tvg-id="TVP Rozrywka" tvg-name="TVP Rozrywka" timeshift="12" catchup="fs" ,TVP Rozrywka
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117579
-#EXTINF:-1 tvg-id="TVP Kobieta" tvg-name="TVP Kobieta" timeshift="7" ,TVP Kobieta
+#EXTINF:-1 tvg-id="TVP Kobieta" tvg-name="TVP Kobieta" timeshift="12" catchup="fs" ,TVP Kobieta
 http://cdnx1.plusx.tv:8889/TVPKobieta/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="TVP Kultura" tvg-name="TVP Kultura" timeshift="7" ,TVP Kultura
+#EXTINF:-1 tvg-id="TVP Kultura" tvg-name="TVP Kultura" timeshift="12" catchup="fs" ,TVP Kultura
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117577
-#EXTINF:-1 tvg-id="TVP Kultura 2" tvg-name="TVP Kultura 2" timeshift="7" ,TVP Kultura 2
+#EXTINF:-1 tvg-id="TVP Kultura 2" tvg-name="TVP Kultura 2" timeshift="12" catchup="fs" ,TVP Kultura 2
 http://cdnx1.plusx.tv:8891/tvpkul25/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="TVP Historia" tvg-name="TVP Historia" timeshift="7" ,TVP Historia
+#EXTINF:-1 tvg-id="TVP Historia" tvg-name="TVP Historia" timeshift="12" catchup="fs" ,TVP Historia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117575
-#EXTINF:-1 tvg-id="TVP Dokument" tvg-name="TVP Dokument" timeshift="7" ,TVP Dokument
+#EXTINF:-1 tvg-id="TVP Dokument" tvg-name="TVP Dokument" timeshift="12" catchup="fs" ,TVP Dokument
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/400454238
-#EXTINF:-1 tvg-id="TVP Polonia" tvg-name="TVP Polonia" timeshift="7" ,TVP Polonia
+#EXTINF:-1 tvg-id="TVP Polonia" tvg-name="TVP Polonia" timeshift="12" catchup="fs" ,TVP Polonia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117578
-#EXTINF:-1 tvg-id="Polonia 1" tvg-name="Polonia 1" timeshift="7" ,Polonia 1
+#EXTINF:-1 tvg-id="Polonia 1" tvg-name="Polonia 1" timeshift="12" catchup="fs" ,Polonia 1
 http://cdnx1.plusx.tv:8881/209/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" timeshift="7" ,Tele 5
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" timeshift="12" catchup="fs" ,Tele 5
 http://cdnx1.plusx.tv:8882/169/video.m3u8?token=2fb2205be221f081a22222
 
-#EXTINF:-1 tvg-id="BBC First" tvg-name="BBC First" timeshift="7" ,BBC First
+#EXTINF:-1 tvg-id="BBC First" tvg-name="BBC First" timeshift="12" catchup="fs" ,BBC First
 http://cdnx1.plusx.tv:8884/306/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="BBC Brit" tvg-name="BBC Brit" timeshift="7" ,BBC Brit
+#EXTINF:-1 tvg-id="BBC Brit" tvg-name="BBC Brit" timeshift="12" catchup="fs" ,BBC Brit
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9647
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" timeshift="7" ,BBC Lifestyle
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" timeshift="12" catchup="fs" ,BBC Lifestyle
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9646
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" timeshift="7" ,BBC Earth
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" timeshift="12" catchup="fs" ,BBC Earth
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117326
 
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" timeshift="7" , Discovery
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" timeshift="12" catchup="fs" , Discovery
 http://iptv365.xyz:80/4523598035/5578723833/117376
 #EXTINF:-1 tvg-id="" tvg-name="PL| DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/pol/discsc.png" group-title="EU | POLAND HD",PL| DISCOVERY SCIENCE HD
 http://cdnx1.plusx.tv:8881/279/video.m3u8?token=2fb2205be221f081a22222
 
-#EXTINF:-1 tvg-id="History" tvg-name="History" timeshift="7" ,History
+#EXTINF:-1 tvg-id="History" tvg-name="History" timeshift="12" catchup="fs" ,History
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9649
-#EXTINF:-1 tvg-id="History2" tvg-name="History2" timeshift="7" ,History2
+#EXTINF:-1 tvg-id="History2" tvg-name="History2" timeshift="12" catchup="fs" ,History2
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117433
 
-#EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet" timeshift="7" ,Animal Planet
+#EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet" timeshift="12" catchup="fs" ,Animal Planet
 http://iptv365.xyz:80/4523598035/5578723833/117316
-#EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku"  timeshift="7" ,Polsat Doku
+#EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku"  timeshift="12" catchup="fs" ,Polsat Doku
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117479
 
-#EXTINF:0 tvg-id="National Geographic" tvg-name="National Geographic" timeshift="7" ,National Geographic
+#EXTINF:0 tvg-id="National Geographic" tvg-name="National Geographic" timeshift="12" catchup="fs" ,National Geographic
 http://iptv365.xyz:80/4523598035/5578723833/9651
-#EXTINF:0 tvg-id="National Geographic Wild" tvg-name="Nat Geo Wild " timeshift="7" ,Nat Geo Wild
+#EXTINF:0 tvg-id="National Geographic Wild" tvg-name="Nat Geo Wild " timeshift="12" catchup="fs" ,Nat Geo Wild
 http://iptv365.xyz:80/4523598035/5578723833/9650
 
 
-#EXTINF:0 tvg-id="Planete+" tvg-name="Planete+" timeshift="7" ,Planete+
+#EXTINF:0 tvg-id="Planete+" tvg-name="Planete+" timeshift="12" catchup="fs" ,Planete+
 http://iptv365.xyz:80/4523598035/5578723833/117474
-#EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="Canal+ Dokument" timeshift="7" ,Canal+ Dokument
+#EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="Canal+ Dokument" timeshift="12" catchup="fs" ,Canal+ Dokument
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117340
 
-#EXTINF:-1 tvg-id="Polsat Play" tvg-name="Polsat Play" timeshift="7" ,Polsat Play
+#EXTINF:-1 tvg-id="Polsat Play" tvg-name="Polsat Play" timeshift="12" catchup="fs" ,Polsat Play
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117487
-#EXTINF:-1 tvg-id="Polsat Cafe" tvg-name="Polsat Cafe" timeshift="7",Polsat Cafe
+#EXTINF:-1 tvg-id="Polsat Cafe" tvg-name="Polsat Cafe" timeshift="12" catchup="fs",Polsat Cafe
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117478
-#EXTINF:-1 tvg-id="Polsat Games" tvg-name="Polsat Games" timeshift="7" ,Polsat Games
+#EXTINF:-1 tvg-id="Polsat Games" tvg-name="Polsat Games" timeshift="12" catchup="fs" ,Polsat Games
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117482
-#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="Polsat Sport" timeshift="7" ,Polsat Sport
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="Polsat Sport" timeshift="12" catchup="fs" ,Polsat Sport
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117492
-#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="Polsat Sport Extra" timeshift="7" ,Polsat Sport Extra
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="Polsat Sport Extra" timeshift="12" catchup="fs" ,Polsat Sport Extra
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117491
-#EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="Polsat Sport Fight" timeshift="7" ,Polsat Sport Fight
+#EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="Polsat Sport Fight" timeshift="12" catchup="fs" ,Polsat Sport Fight
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117493
-#EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="Polsat Sport News" timeshift="7" ,Polsat Sport News
+#EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="Polsat Sport News" timeshift="12" catchup="fs" ,Polsat Sport News
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117494
-#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="Polsat Sport Premium 1" timeshift="7" ,Polsat Sport Premium 1 50fps
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="Polsat Sport Premium 1" timeshift="12" catchup="fs" ,Polsat Sport Premium 1 50fps
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9626
-#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="Polsat Sport Premium 2" timeshift="7" ,Polsat Sport Premium 2 50fps
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="Polsat Sport Premium 2" timeshift="12" catchup="fs" ,Polsat Sport Premium 2 50fps
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9625
-#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="Polsat Sport Premium 3" timeshift="7" ,Polsat Sport Premium 3
+#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="Polsat Sport Premium 3" timeshift="12" catchup="fs" ,Polsat Sport Premium 3
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117497
-#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="Polsat Sport Premium 4" timeshift="7" ,Polsat Sport Premium 4
+#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="Polsat Sport Premium 4" timeshift="12" catchup="fs" ,Polsat Sport Premium 4
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/360185
-#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="Polsat Sport Premium 5" timeshift="7" ,Polsat Sport Premium 5
+#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="Polsat Sport Premium 5" timeshift="12" catchup="fs" ,Polsat Sport Premium 5
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117498
-#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="Polsat Sport Premium 6" timeshift="7" ,Polsat Sport Premium 6
+#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="Polsat Sport Premium 6" timeshift="12" catchup="fs" ,Polsat Sport Premium 6
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117499
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1" timeshift="7" ,Eleven Sports 1
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1" timeshift="12" catchup="fs" ,Eleven Sports 1
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117392
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2" timeshift="7" ,Eleven Sports 2
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2" timeshift="12" catchup="fs" ,Eleven Sports 2
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117393
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3" timeshift="7" ,Eleven Sports 3
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3" timeshift="12" catchup="fs" ,Eleven Sports 3
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117394
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4"timeshift="7" ,Eleven Sports 4
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4"timeshift="12" catchup="fs" ,Eleven Sports 4
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117395
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" timeshift="7" ,Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" timeshift="12" catchup="fs" ,Eurosport 1
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117403
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" timeshift="7" ,Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" timeshift="12" catchup="fs" ,Eurosport 2
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117404
-#EXTINF:-1 tvg-id="Extreme Sports" tvg-name="Extreme Sports" timeshift="7" ,Extreme Sports
+#EXTINF:-1 tvg-id="Extreme Sports" tvg-name="Extreme Sports" timeshift="12" catchup="fs" ,Extreme Sports
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117406
-#EXTINF:-1 tvg-id="SportKlub" tvg-name="SportKlub" timeshift="7" ,SportKlub
+#EXTINF:-1 tvg-id="SportKlub" tvg-name="SportKlub" timeshift="12" catchup="fs" ,SportKlub
 http://cdnx1.plusx.tv:8887/175/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="FightKlub" tvg-name="FightKlub" timeshift="7" ,FightKlub
+#EXTINF:-1 tvg-id="FightKlub" tvg-name="FightKlub" timeshift="12" catchup="fs" ,FightKlub
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117411
-#EXTINF:-1 tvg-id="FightBox" tvg-name="FightBox" timeshift="7" ,FightBox
+#EXTINF:-1 tvg-id="FightBox" tvg-name="FightBox" timeshift="12" catchup="fs" ,FightBox
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117407
-#EXTINF:-1 tvg-id="TVP Sport" tvg-name="TVP Sport" timeshift="7" ,TVP Sport
+#EXTINF:-1 tvg-id="TVP Sport" tvg-name="TVP Sport" timeshift="12" catchup="fs" ,TVP Sport
 http://cdnx1.plusx.tv:8881/134/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="Canal+ Sport" timeshift="7" ,Canal+ Sport
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="Canal+ Sport" timeshift="12" catchup="fs" ,Canal+ Sport
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117348
-#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="Canal+ Sport 2" timeshift="7" ,Canal+ Sport 2
+#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="Canal+ Sport 2" timeshift="12" catchup="fs" ,Canal+ Sport 2
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117351
-#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="Canal+ Sport 3" timeshift="7" ,Canal+ Sport 3
+#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="Canal+ Sport 3" timeshift="12" catchup="fs" ,Canal+ Sport 3
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117352
-#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="Canal+ Sport 4" timeshift="7" ,Canal+ Sport 4
+#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="Canal+ Sport 4" timeshift="12" catchup="fs" ,Canal+ Sport 4
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117353
-#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="Canal+ Sport 5" timeshift="7" ,Canal+ Sport 5
+#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="Canal+ Sport 5" timeshift="12" catchup="fs" ,Canal+ Sport 5
 http://cdnx1.plusx.tv:8891/215/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" timeshift="7" ,Canal+ Now
+#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" timeshift="12" catchup="fs" ,Canal+ Now
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9659
 
 
-#EXTINF:-1 tvg-id="Canal+ Domo" tvg-name="Canal+ Domo" timeshift="7" ,Canal+ Domo
+#EXTINF:-1 tvg-id="Canal+ Domo" tvg-name="Canal+ Domo" timeshift="12" catchup="fs" ,Canal+ Domo
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117386
-#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="Canal+ Kuchnia" timeshift="7" ,Canal+ Kuchnia
+#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="Canal+ Kuchnia" timeshift="12" catchup="fs" ,Canal+ Kuchnia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117446
-#EXTINF:-1 tvg-id="Canal+ Family" tvg-name="CANAL+ Family" timeshift="7" ,Canal+ Family
+#EXTINF:-1 tvg-id="Canal+ Family" tvg-name="CANAL+ Family" timeshift="12" catchup="fs" ,Canal+ Family
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9660
-#EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="CANAL+ Premium" timeshift="7" ,Canal+ Premium
+#EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="CANAL+ Premium" timeshift="12" catchup="fs" ,Canal+ Premium
 http://iptv365.xyz:80/4523598035/5578723833/35736
-#EXTINF:-1 tvg-id="Canal+ 1" tvg-name="CANAL+ 1" timeshift="7" ,Canal+ 1
+#EXTINF:-1 tvg-id="Canal+ 1" tvg-name="CANAL+ 1" timeshift="12" catchup="fs" ,Canal+ 1
 http://cdnx1.plusx.tv:8891/302/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Canal+ Film" tvg-name="CANAL+ Film" timeshift="7" ,Canal+ Film
+#EXTINF:-1 tvg-id="Canal+ Film" tvg-name="CANAL+ Film" timeshift="12" catchup="fs" ,Canal+ Film
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117343
-#EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale" timeshift="7",Canal+ Seriale
+#EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale" timeshift="12" catchup="fs",Canal+ Seriale
 http://cdnx1.plusx.tv:8885/294/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Ale Kino+" tvg-name="Ale Kino+" timeshift="7" ,Ale Kino+
+#EXTINF:-1 tvg-id="Ale Kino+" tvg-name="Ale Kino+" timeshift="12" catchup="fs" ,Ale Kino+
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117313
-#EXTINF:-1 tvg-id="Novelas+" tvg-name="Novelas+" timeshift="7" ,Novelas+
+#EXTINF:-1 tvg-id="Novelas+" tvg-name="Novelas+" timeshift="12" catchup="fs" ,Novelas+
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9653
-#EXTINF:-1 tvg-id="Dizi" tvg-name="Dizi" timeshift="7" ,Dizi
+#EXTINF:-1 tvg-id="Dizi" tvg-name="Dizi" timeshift="12" catchup="fs" ,Dizi
 http://cdnx1.plusx.tv:8881/Dizi/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Epic Drama" tvg-name="Epic Drama" timeshift="7" ,Epic Drama
+#EXTINF:-1 tvg-id="Epic Drama" tvg-name="Epic Drama" timeshift="12" catchup="fs" ,Epic Drama
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117397
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" timeshift="7" ,AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" timeshift="12" catchup="fs" ,AMC
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117314
-#EXTINF:-1 tvg-id="SCI FI" tvg-name="SciFi" timeshift="7" ,SciFi
+#EXTINF:-1 tvg-id="SCI FI" tvg-name="SciFi" timeshift="12" catchup="fs" ,SciFi
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117510
-#EXTINF:-1 tvg-id="13 Ulica" tvg-name="13 Ulica" timeshift="7" ,13 Ulica
+#EXTINF:-1 tvg-id="13 Ulica" tvg-name="13 Ulica" timeshift="12" catchup="fs" ,13 Ulica
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117305
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" timeshift="7" ,AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" timeshift="12" catchup="fs" ,AXN
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117320
-#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" timeshift="7" ,AXN Black
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" timeshift="12" catchup="fs" ,AXN Black
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117319
-#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" timeshift="7" ,AXN White
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" timeshift="12" catchup="fs" ,AXN White
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117322
-#EXTINF:-1 tvg-id="AXN Spin" tvg-name="AXNSpinHD" timeshift="7" ,AXN Spin
+#EXTINF:-1 tvg-id="AXN Spin" tvg-name="AXNSpinHD" timeshift="12" catchup="fs" ,AXN Spin
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117321
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" timeshift="7" ,Cinemax
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" timeshift="12" catchup="fs" ,Cinemax
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117366
-#EXTINF:-1 tvg-id="Cinemax 2" tvg-name="Cinemax 2" timeshift="7" ,Cinemax 2
+#EXTINF:-1 tvg-id="Cinemax 2" tvg-name="Cinemax 2" timeshift="12" catchup="fs" ,Cinemax 2
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117365
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" timeshift="7" ,HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" timeshift="12" catchup="fs" ,HBO
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117429
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" timeshift="7" ,HBO 2
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" timeshift="12" catchup="fs" ,HBO 2
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117427
-#EXTINF:-1 tvg-id="HBO 3" tvg-name="HBO 3" timeshift="7" ,HBO 3
+#EXTINF:-1 tvg-id="HBO 3" tvg-name="HBO 3" timeshift="12" catchup="fs" ,HBO 3
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117428
-#EXTINF:-1 tvg-id="Filmbox Extra" tvg-name="FilmBox Extra" timeshift="7",Filmbox Extra
+#EXTINF:-1 tvg-id="Filmbox Extra" tvg-name="FilmBox Extra" timeshift="12" catchup="fs",Filmbox Extra
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117414
-#EXTINF:-1 tvg-id="Filmbox Premium" tvg-name="FilmBox Premium" timeshift="7" ,Filmbox Premium
+#EXTINF:-1 tvg-id="Filmbox Premium" tvg-name="FilmBox Premium" timeshift="12" catchup="fs" ,Filmbox Premium
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117417
-#EXTINF:-1 tvg-id="Filmbox Family" tvg-name="FilmBox Family" timeshift="7" ,Filmbox Family
+#EXTINF:-1 tvg-id="Filmbox Family" tvg-name="FilmBox Family" timeshift="12" catchup="fs" ,Filmbox Family
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117415
-#EXTINF:-1 tvg-id="FilmBox Action" tvg-name="FilmBox Action" timeshift="7" ,Filmbox Action
+#EXTINF:-1 tvg-id="FilmBox Action" tvg-name="FilmBox Action" timeshift="12" catchup="fs" ,Filmbox Action
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117412
-#EXTINF:-1 tvg-id="Kino TV" tvg-name="Kino TV" timeshift="7" ,Kino TV
+#EXTINF:-1 tvg-id="Kino TV" tvg-name="Kino TV" timeshift="12" catchup="fs" ,Kino TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117443
-#EXTINF:-1 tvg-id="Kino Polska" tvg-name="Kino Polska" timeshift="7" ,Kino Polska
+#EXTINF:-1 tvg-id="Kino Polska" tvg-name="Kino Polska" timeshift="12" catchup="fs" ,Kino Polska
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117441
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" timeshift="7" ,FOX
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" timeshift="12" catchup="fs" ,FOX
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9530
-#EXTINF:-1 tvg-id="FOX Comedy" tvg-name="Fox Comedy" timeshift="7" ,FOX Comedy
+#EXTINF:-1 tvg-id="FOX Comedy" tvg-name="Fox Comedy" timeshift="12" catchup="fs" ,FOX Comedy
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117420
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" timeshift="7" ,Paramount Channel
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" timeshift="12" catchup="fs" ,Paramount Channel
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117472
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" timeshift="7" ,Warner TV
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" timeshift="12" catchup="fs" ,Warner TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33617
-#EXTINF:-1 tvg-id="Sundance TV" tvg-name="Sundance TV" timeshift="7" ,Sundance TV
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="Sundance TV" timeshift="12" catchup="fs" ,Sundance TV
 http://iptv365.xyz:80/4523598035/5578723833/117518
 
-#EXTINF:-1 tvg-id="TVN Turbo" tvg-name="TVN Turbo" timeshift="7" ,TVN Turbo
+#EXTINF:-1 tvg-id="TVN Turbo" tvg-name="TVN Turbo" timeshift="12" catchup="fs" ,TVN Turbo
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117555
-#EXTINF:-1 tvg-id="Motowizja" tvg-name="Motowizja" timeshift="7" ,Motowizja
+#EXTINF:-1 tvg-id="Motowizja" tvg-name="Motowizja" timeshift="12" catchup="fs" ,Motowizja
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117454
-#EXTINF:-1 tvg-id="DTX" tvg-name="DTX" timeshift="7" ,DTX
+#EXTINF:-1 tvg-id="DTX" tvg-name="DTX" timeshift="12" catchup="fs" ,DTX
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117388
 
-#EXTINF:-1 tvg-id="TVP Info" tvg-name="TVP-Info" timeshift="7" ,TVP Info
+#EXTINF:-1 tvg-id="TVP Info" tvg-name="TVP-Info" timeshift="12" catchup="fs" ,TVP Info
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/35735
-#EXTINF:-1 tvg-id="TVN 24" tvg-name="TVN 24" timeshift="7" ,TVN 24
+#EXTINF:-1 tvg-id="TVN 24" tvg-name="TVN 24" timeshift="12" catchup="fs" ,TVN 24
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117549
-#EXTINF:-1 tvg-id="TVN 24 BiS" tvg-name="TVN CNBC Biznes" timeshift="7" ,TVN 24 BiS
+#EXTINF:-1 tvg-id="TVN 24 BiS" tvg-name="TVN CNBC Biznes" timeshift="12" catchup="fs" ,TVN 24 BiS
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/32758
-#EXTINF:-1 tvg-id="Polsat News" tvg-name="Polsat News" timeshift="7" ,Polsat News
+#EXTINF:-1 tvg-id="Polsat News" tvg-name="Polsat News" timeshift="12" catchup="fs" ,Polsat News
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117485
-#EXTINF:-1 tvg-id="POLSAT NEWS 2" tvg-name="Polsat News 2" timeshift="7" ,Polsat News 2
+#EXTINF:-1 tvg-id="POLSAT NEWS 2" tvg-name="Polsat News 2" timeshift="12" catchup="fs" ,Polsat News 2
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/400453491
-#EXTINF:-1 tvg-id="Wydarzenia 24" tvg-name="Wydarzenia 24" timeshift="7" ,Wydarzenia 24
+#EXTINF:-1 tvg-id="Wydarzenia 24" tvg-name="Wydarzenia 24" timeshift="12" catchup="fs" ,Wydarzenia 24
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117520
-#EXTINF:-1 tvg-id="TV Republika" tvg-name="TV Republika" timeshift="7" ,TV Republika
+#EXTINF:-1 tvg-id="TV Republika" tvg-name="TV Republika" timeshift="12" catchup="fs" ,TV Republika
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33611
-#EXTINF:-1 tvg-id="wPolsce.pl" tvg-name="PL: wPolsce.pl" timeshift="7" ,wPolsce.pl
+#EXTINF:-1 tvg-id="wPolsce.pl" tvg-name="PL: wPolsce.pl" timeshift="12" catchup="fs" ,wPolsce.pl
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33600
-#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" timeshift="7" ,TVS
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" timeshift="12" catchup="fs" ,TVS
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117583
-#EXTINF:-1 tvg-id="TV Trwam" tvg-name="TV Trwam" timeshift="7" ,TV Trwam
+#EXTINF:-1 tvg-id="TV Trwam" tvg-name="TV Trwam" timeshift="12" catchup="fs" ,TV Trwam
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117544
 
-#EXTINF:-1 tvg-id="TVP ABC" tvg-name="TVP-ABC" timeshift="7" ,TVP ABC
+#EXTINF:-1 tvg-id="TVP ABC" tvg-name="TVP-ABC" timeshift="12" catchup="fs" ,TVP ABC
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117573
-#EXTINF:-1 tvg-id="TVP ABC 2" tvg-name="TVP-ABC 2" timeshift="7" ,TVP ABC 2
+#EXTINF:-1 tvg-id="TVP ABC 2" tvg-name="TVP-ABC 2" timeshift="12" catchup="fs" ,TVP ABC 2
 http://cdnx1.plusx.tv:8889/tvpabc25/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="JimJam Polsat" tvg-name="JimJam" timeshift="7" ,JimJam Polsat
+#EXTINF:-1 tvg-id="JimJam Polsat" tvg-name="JimJam" timeshift="12" catchup="fs" ,JimJam Polsat
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117483
-#EXTINF:-1 tvg-id="Top Kids" tvg-name="Top Kids" timeshift="7", Top Kids
+#EXTINF:-1 tvg-id="Top Kids" tvg-name="Top Kids" timeshift="12" catchup="fs", Top Kids
 http://cdnx1.plusx.tv:8880/TopKidsJr/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Minimini+" tvg-name="Mini Mini" timeshift="7" ,MiniMini+
+#EXTINF:-1 tvg-id="Minimini+" tvg-name="Mini Mini" timeshift="12" catchup="fs" ,MiniMini+
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9602
-#EXTINF:-1 tvg-id="Teletoon" tvg-name="Teletoon+" timeshift="7" ,Teletoon+
+#EXTINF:-1 tvg-id="Teletoon" tvg-name="Teletoon+" timeshift="12" catchup="fs" ,Teletoon+
 http://cdnx1.plusx.tv:8880/168/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="BBC CBeebies" tvg-name="BBC CBeebies" timeshift="7" ,BBC CBeebies
+#EXTINF:-1 tvg-id="BBC CBeebies" tvg-name="BBC CBeebies" timeshift="12" catchup="fs" ,BBC CBeebies
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9541
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://docdog.top/logo/countries/poland/babytv.png" timeshift="7" catchup="fs" timeshift="7" ,Baby TV
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://docdog.top/logo/countries/poland/babytv.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Baby TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117323
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="http://logo.plusx.tv/logo/Nick%20Jr.png" timeshift="7" catchup="fs" timeshift="7" ,Nick Jr
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="http://logo.plusx.tv/logo/Nick%20Jr.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Nick Jr
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117464
-#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nickelodeon" tvg-logo="http://logo.plusx.tv/logo/Nicktoons%20HD.png" timeshift="7" catchup="fs" timeshift="7" ,Nicktoons
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nickelodeon" tvg-logo="http://logo.plusx.tv/logo/Nicktoons%20HD.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Nicktoons
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9592
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon Polska" tvg-logo="http://logo.plusx.tv/logo/Nickelodeon.png" timeshift="7" catchup="fs" timeshift="7" ,Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon Polska" tvg-logo="http://logo.plusx.tv/logo/Nickelodeon.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Nickelodeon
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117465
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://docdog.top/logo/countries/poland/disneyjr.png" timeshift="7" catchup="fs" timeshift="7" ,Disney Junior
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://docdog.top/logo/countries/poland/disneyjr.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Disney Junior
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117383
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://logo.plusx.tv/logo/Disney+XD.png" timeshift="7" catchup="fs" timeshift="7" ,Disney XD
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://logo.plusx.tv/logo/Disney+XD.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Disney XD
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117384
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://logo.plusx.tv/logo/Disney%20Channel%20HD.png" timeshift="7" catchup="fs" timeshift="7" ,Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://logo.plusx.tv/logo/Disney%20Channel%20HD.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Disney Channel
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117381
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon-Network" timeshift="7" ,Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon-Network" timeshift="12" catchup="fs" ,Cartoon Network
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117355
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" timeshift="7",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" timeshift="12" catchup="fs",Cartoonito
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117330
-#EXTINF:-1 tvg-id="Da Vinci" tvg-name="Da Vinci" timeshift="7" ,Da Vinci
+#EXTINF:-1 tvg-id="Da Vinci" tvg-name="Da Vinci" timeshift="12" catchup="fs" ,Da Vinci
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117372
-#EXTINF:-1 tvg-id="4FUN KIDS" tvg-name="4FUN KIDS" timeshift="7" ,4FUN KIDS
+#EXTINF:-1 tvg-id="4FUN KIDS" tvg-name="4FUN KIDS" timeshift="12" catchup="fs" ,4FUN KIDS
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9515
 
-#EXTINF:-1 tvg-id="MTV Polska" tvg-name="MTV Polska" timeshift="7" ,MTV Polska
+#EXTINF:-1 tvg-id="MTV Polska" tvg-name="MTV Polska" timeshift="12" catchup="fs" ,MTV Polska
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117458
-#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" timeshift="7" ,MTV Hits
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" timeshift="12" catchup="fs" ,MTV Hits
 http://cdnx1.plusx.tv:8882/mtvhits/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" timeshift="7" ,MTV Live
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" timeshift="12" catchup="fs" ,MTV Live
 http://cdnx1.plusx.tv:8880/229/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="MTV00s.pl" tvg-name="MTV00s.pl" timeshift="7" ,MTV 00s
+#EXTINF:-1 tvg-id="MTV00s.pl" tvg-name="MTV00s.pl" timeshift="12" catchup="fs" ,MTV 00s
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117588
-#EXTINF:-1 tvg-id="MTV90s.pl" tvg-name="MTV90s.pl" timeshift="7" ,MTV 90s
+#EXTINF:-1 tvg-id="MTV90s.pl" tvg-name="MTV90s.pl" timeshift="12" catchup="fs" ,MTV 90s
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9511
-#EXTINF:-1 tvg-id="MTV80s.pl" tvg-name="MTV80s.pl" timeshift="7" ,MTV 80s
+#EXTINF:-1 tvg-id="MTV80s.pl" tvg-name="MTV80s.pl" timeshift="12" catchup="fs" ,MTV 80s
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9512
-#EXTINF:-1 tvg-id="Club MTV" tvg-name="Club MTV" timeshift="7" ,Club MTV
+#EXTINF:-1 tvg-id="Club MTV" tvg-name="Club MTV" timeshift="12" catchup="fs" ,Club MTV
 http://cdnx1.plusx.tv:8883/MTVcub/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-name="Kino Polska Muzyka" timeshift="7" ,Kino Polska Muzyka
+#EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-name="Kino Polska Muzyka" timeshift="12" catchup="fs" ,Kino Polska Muzyka
 http://cdnx1.plusx.tv:8885/237/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Music Box Polska" tvg-name="Music Box Polska" timeshift="7" ,Music Box Polska
+#EXTINF:-1 tvg-id="Music Box Polska" tvg-name="Music Box Polska" timeshift="12" catchup="fs" ,Music Box Polska
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33631
-#EXTINF:-1 tvg-id="Mixtape HD" tvg-name="Mixtape HD" timeshift="7" ,Mixtape
+#EXTINF:-1 tvg-id="Mixtape HD" tvg-name="Mixtape HD" timeshift="12" catchup="fs" ,Mixtape
 http://cdnx1.plusx.tv:8885/MixTapeHD/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Polsat Music" tvg-name="Polsat Music" timeshift="7" ,Polsat Music
+#EXTINF:-1 tvg-id="Polsat Music" tvg-name="Polsat Music" timeshift="12" catchup="fs" ,Polsat Music
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117484
-#EXTINF:-1 tvg-id="Stars TV" tvg-name="Stars TV" timeshift="7" ,Stars TV
+#EXTINF:-1 tvg-id="Stars TV" tvg-name="Stars TV" timeshift="12" catchup="fs" ,Stars TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117516
-#EXTINF:-1 tvg-id="Nuta TV" tvg-name="Nuta TV" timeshift="7" ,Nuta TV
+#EXTINF:-1 tvg-id="Nuta TV" tvg-name="Nuta TV" timeshift="12" catchup="fs" ,Nuta TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117471
-#EXTINF:-1 tvg-id="Nuta Gold" tvg-name="Nuta Gold" timeshift="7" ,Nuta Gold
+#EXTINF:-1 tvg-id="Nuta Gold" tvg-name="Nuta Gold" timeshift="12" catchup="fs" ,Nuta Gold
 http://cdnx1.plusx.tv:8887/nutagoldhd/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Eska TV" tvg-name="Eska TV" timeshift="7" ,Eska TV
+#EXTINF:-1 tvg-id="Eska TV" tvg-name="Eska TV" timeshift="12" catchup="fs" ,Eska TV
 http://cdnx1.plusx.tv:8881/267/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="Eska TV Extra" tvg-name="Eska TV Extra" timeshift="7" ,Eska TV Extra
+#EXTINF:-1 tvg-id="Eska TV Extra" tvg-name="Eska TV Extra" timeshift="12" catchup="fs" ,Eska TV Extra
 http://kkimco03.oknirvana.club:8880/3mk010046/26998211/33356
-#EXTINF:-1 tvg-id="Eska Rock TV" tvg-name="Eska Rock TV" timeshift="7" ,Eska Rock TV
+#EXTINF:-1 tvg-id="Eska Rock TV" tvg-name="Eska Rock TV" timeshift="12" catchup="fs" ,Eska Rock TV
 http://cdnx1.plusx.tv:8883/266/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="4FUN TV" tvg-name="4 FUN TV" timeshift="7" ,4 FUN TV
+#EXTINF:-1 tvg-id="4FUN TV" tvg-name="4 FUN TV" timeshift="12" catchup="fs" ,4 FUN TV
 http://cdnx1.plusx.tv:8883/322/video.m3u8?token=2fb2205be221f081a22222
-#EXTINF:-1 tvg-id="4 FUN DANCE" tvg-name="4 FUN DANCE" timeshift="7" ,4 FUN DANCE
+#EXTINF:-1 tvg-id="4 FUN DANCE" tvg-name="4 FUN DANCE" timeshift="12" catchup="fs" ,4 FUN DANCE
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117306
-#EXTINF:-1 tvg-id="Vox Music TV" tvg-name="vox-music-tv" timeshift="7" ,VOX Music TV
+#EXTINF:-1 tvg-id="Vox Music TV" tvg-name="vox-music-tv" timeshift="12" catchup="fs" ,VOX Music TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117597
-#EXTINF:-1 tvg-id="POWER TV" tvg-name="Power TV" timeshift="7" ,Power TV
+#EXTINF:-1 tvg-id="POWER TV" tvg-name="Power TV" timeshift="12" catchup="fs" ,Power TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117505
-#EXTINF:-1 tvg-id="Polo TV" tvg-name="PoloTV" timeshift="7" ,Polo TV
+#EXTINF:-1 tvg-id="Polo TV" tvg-name="PoloTV" timeshift="12" catchup="fs" ,Polo TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117475
-#EXTINF:-1 tvg-id="Disco Polo Music" tvg-name="disco-polo-music" timeshift="7" ,Disco Polo Music
+#EXTINF:-1 tvg-id="Disco Polo Music" tvg-name="disco-polo-music" timeshift="12" catchup="fs" ,Disco Polo Music
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117373
 
 
 
 
 
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" timeshift="7" ,TVP 1
+#EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" timeshift="12" catchup="fs" ,TVP 1
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117556
-#EXTINF:-1 tvg-id="TVP 2" tvg-name="TVP 2" timeshift="7" ,TVP 2
+#EXTINF:-1 tvg-id="TVP 2" tvg-name="TVP 2" timeshift="12" catchup="fs" ,TVP 2
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117557
-#EXTINF:-1 tvg-id="Polsat" tvg-name="POLSAT" timeshift="7" ,Polsat
+#EXTINF:-1 tvg-id="Polsat" tvg-name="POLSAT" timeshift="12" catchup="fs" ,Polsat
 http://680243320493298637.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298637.ts
