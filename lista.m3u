@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.ovh/pl.xml"
 
 #EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" timeshift="12" catchup="fs" ,TVP 1
-http://cdnx1.plusx.tv:8880/144/video.m3u8?token=2fb2205be221f081a22222
+http://cdnx1.plusx.tv:8880/144/video.m3u8?token=cb776083b1e1b6f9bb2222
 #EXTINF:-1 tvg-id="TVP 2" tvg-name="TVP 2" timeshift="12" catchup="fs" ,TVP 2
 http://cdnx1.plusx.tv:8881/143/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Polsat" tvg-name="POLSAT" timeshift="12" catchup="fs" ,Polsat
