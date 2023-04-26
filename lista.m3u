@@ -1,17 +1,18 @@
 #EXTM3U x-tvg-url="https://epg.ovh/pl.xml"
 
 #EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" timeshift="12" catchup="fs" ,TVP 1
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/15101
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1390125.ts
 #EXTINF:-1 tvg-id="TVP 2" tvg-name="TVP 2" timeshift="12" catchup="fs" ,TVP 2
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/15102
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1390127.ts
+
 #EXTINF:-1 tvg-id="Polsat" tvg-name="POLSAT" timeshift="12" catchup="fs" ,Polsat
-http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/15157
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1390133.ts
 #EXTINF:-1 tvg-id="Polsat 1" tvg-name="Polsat 1" timeshift="12" catchup="fs" ,Polsat 1
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1390133.ts
 #EXTINF:-1 tvg-id="Polsat 2" tvg-name="Polsat 2" timeshift="12" catchup="fs" ,Polsat 2
-http://ipch.xyz:2082/dsnrrcn/87djD6Sk7hWOy7d/138311
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1390134.ts
 #EXTINF:-1 tvg-id="Super Polsat" tvg-name="Super Polsat" timeshift="12" catchup="fs" ,Super Polsat
-http://cdnx1.plusx.tv:8891/171/video.m3u8?token=2fb2205be221f081a22222
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1390135.ts
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" timeshift="12" catchup="fs" ,TVN
 http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/15113
 #EXTINF:-1 tvg-id="TVN 7" tvg-name="TVN 7" timeshift="12" catchup="fs" ,TVN 7
