@@ -75,7 +75,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117578
 #EXTINF:-1 tvg-id="Polonia 1" tvg-name="Polonia 1" timeshift="12" catchup="fs" ,Polonia 1
 http://cdnx1.plusx.tv:8881/209/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" timeshift="12" catchup="fs" ,Tele 5
-http://cdnx1.plusx.tv:8882/169/video.m3u8?token=2fb2205be221f081a22222
+http://cdnx1.plusx.tv:8882/169/video.m3u8?token=53082386c5956b34d72222
 
 #EXTINF:-1 tvg-id="BBC First" tvg-name="BBC First" timeshift="12" catchup="fs" ,BBC First
 http://cdnx1.plusx.tv:8884/306/video.m3u8?token=2fb2205be221f081a22222
@@ -89,7 +89,9 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117326
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" timeshift="12" catchup="fs" , Discovery
 http://iptv365.xyz:80/4523598035/5578723833/117376
 #EXTINF:-1 tvg-id="" tvg-name="PL| DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/pol/discsc.png" group-title="EU | POLAND HD",PL| DISCOVERY SCIENCE HD
-http://cdnx1.plusx.tv:8881/279/video.m3u8?token=2fb2205be221f081a22222
+http://cdnx1.plusx.tv:8881/279/video.m3u8?token=53082386c5956b34d72222
+
+
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" timeshift="12" catchup="fs" ,History
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9649
