@@ -21,7 +21,7 @@ http://clientportal.link:80/RpzuRx1dbYOG677/AaFBNx131/15178
 #EXTINF:-1 tvg-id="TV 4" tvg-name="TV4" timeshift="12" catchup="fs" ,TV 4
 http://fabryka.stream:8080/dawidw/682359191/105354
 #EXTINF:-1 tvg-id="TV 6" tvg-name="TV 6" timeshift="12" catchup="fs" ,TV 6
-https://my.teleelevidenie.com/play/hls-custom-c350-t9293a41850eaea23c5dfda03bd9cee10afd8d620d748781e4e949cc99b6d6b0d.m3u8 
+https://cloud2.teleelevidenie.com:9310/PL_POLO_TV/video.m3u8?token=139dbcc487e70a08dd261de5fd6a7c0e43af9ab67933bd9100ed35e6ddc42e74 
 #EXTINF:-1 tvg-id="TV Puls" tvg-name="TV Puls" timeshift="12" catchup="fs" ,TV Puls
 http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1390148.ts
 #EXTINF:-1 tvg-id="Puls 2" tvg-name="PLUS 2" timeshift="12" catchup="fs" ,Puls 2
