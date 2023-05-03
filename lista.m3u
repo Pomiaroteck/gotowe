@@ -66,8 +66,6 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117579
 http://cdnx1.plusx.tv:8889/TVPKobieta/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="TVP Kultura" tvg-name="TVP Kultura" timeshift="12" catchup="fs" ,TVP Kultura
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117577
-#EXTINF:-1 tvg-id="TVP Kultura 2" tvg-name="TVP Kultura 2" timeshift="12" catchup="fs" ,TVP Kultura 2
-http://cdnx1.plusx.tv:8891/tvpkul25/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="TVP Historia" tvg-name="TVP Historia" timeshift="12" catchup="fs" ,TVP Historia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117575
 #EXTINF:-1 tvg-id="TVP Dokument" tvg-name="TVP Dokument" timeshift="12" catchup="fs" ,TVP Dokument
@@ -75,12 +73,12 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/400454238
 #EXTINF:-1 tvg-id="TVP Polonia" tvg-name="TVP Polonia" timeshift="12" catchup="fs" ,TVP Polonia
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117578
 #EXTINF:-1 tvg-id="Polonia 1" tvg-name="Polonia 1" timeshift="12" catchup="fs" ,Polonia 1
-http://cdnx1.plusx.tv:8881/209/video.m3u8?token=2fb2205be221f081a22222
+http://fabryka.stream:8080/piotr23/127689856/105449
 #EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" timeshift="12" catchup="fs" ,Tele 5
-http://cdnx1.plusx.tv:8882/169/video.m3u8?token=53082386c5956b34d72222
+http://fabryka.stream:8080/piotr23/127689856/105447
 
 #EXTINF:-1 tvg-id="BBC First" tvg-name="BBC First" timeshift="12" catchup="fs" ,BBC First
-http://cdnx1.plusx.tv:8884/306/video.m3u8?token=2fb2205be221f081a22222
+http://fabryka.stream:8080/piotr23/127689856/105402
 #EXTINF:-1 tvg-id="BBC Brit" tvg-name="BBC Brit" timeshift="12" catchup="fs" ,BBC Brit
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9647
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" timeshift="12" catchup="fs" ,BBC Lifestyle
@@ -327,11 +325,9 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/9512
 #EXTINF:-1 tvg-id="Club MTV" tvg-name="Club MTV" timeshift="12" catchup="fs" ,Club MTV
 http://cdnx1.plusx.tv:8883/MTVcub/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-name="Kino Polska Muzyka" timeshift="12" catchup="fs" ,Kino Polska Muzyka
-http://cdnx1.plusx.tv:8885/237/video.m3u8?token=2fb2205be221f081a22222
+http://fabryka.stream:8080/piotr23/127689856/105507
 #EXTINF:-1 tvg-id="Music Box Polska" tvg-name="Music Box Polska" timeshift="12" catchup="fs" ,Music Box Polska
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33631
-#EXTINF:-1 tvg-id="Mixtape HD" tvg-name="Mixtape HD" timeshift="12" catchup="fs" ,Mixtape
-http://cdnx1.plusx.tv:8885/MixTapeHD/video.m3u8?token=2fb2205be221f081a22222
 #EXTINF:-1 tvg-id="Polsat Music" tvg-name="Polsat Music" timeshift="12" catchup="fs" ,Polsat Music
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117484
 #EXTINF:-1 tvg-id="Stars TV" tvg-name="Stars TV" timeshift="12" catchup="fs" ,Stars TV
@@ -339,15 +335,15 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117516
 #EXTINF:-1 tvg-id="Nuta TV" tvg-name="Nuta TV" timeshift="12" catchup="fs" ,Nuta TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117471
 #EXTINF:-1 tvg-id="Nuta Gold" tvg-name="Nuta Gold" timeshift="12" catchup="fs" ,Nuta Gold
-http://cdnx1.plusx.tv:8887/nutagoldhd/video.m3u8?token=2fb2205be221f081a22222
+http://fabryka.stream:8080/piotr23/127689856/105437
 #EXTINF:-1 tvg-id="Eska TV" tvg-name="Eska TV" timeshift="12" catchup="fs" ,Eska TV
-http://cdnx1.plusx.tv:8881/267/video.m3u8?token=2fb2205be221f081a22222
+http://fabryka.stream:8080/piotr23/127689856/105504
 #EXTINF:-1 tvg-id="Eska TV Extra" tvg-name="Eska TV Extra" timeshift="12" catchup="fs" ,Eska TV Extra
 http://kkimco03.oknirvana.club:8880/3mk010046/26998211/33356
 #EXTINF:-1 tvg-id="Eska Rock TV" tvg-name="Eska Rock TV" timeshift="12" catchup="fs" ,Eska Rock TV
-http://cdnx1.plusx.tv:8883/266/video.m3u8?token=2fb2205be221f081a22222
+http://fabryka.stream:8080/piotr23/127689856/105506
 #EXTINF:-1 tvg-id="4FUN TV" tvg-name="4 FUN TV" timeshift="12" catchup="fs" ,4 FUN TV
-http://cdnx1.plusx.tv:8883/322/video.m3u8?token=2fb2205be221f081a22222
+http://fabryka.stream:8080/piotr23/127689856/105500
 #EXTINF:-1 tvg-id="4 FUN DANCE" tvg-name="4 FUN DANCE" timeshift="12" catchup="fs" ,4 FUN DANCE
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117306
 #EXTINF:-1 tvg-id="Vox Music TV" tvg-name="vox-music-tv" timeshift="12" catchup="fs" ,VOX Music TV
@@ -363,9 +359,3 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117373
 
 
 
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" timeshift="12" catchup="fs" ,TVP 1
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117556
-#EXTINF:-1 tvg-id="TVP 2" tvg-name="TVP 2" timeshift="12" catchup="fs" ,TVP 2
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117557
-#EXTINF:-1 tvg-id="Polsat" tvg-name="POLSAT" timeshift="12" catchup="fs" ,Polsat
-http://680243320493298637.itvipmode.xyz:80/play/vi0218488/YsY5cMahY5Py/298637.ts
