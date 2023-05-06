@@ -326,21 +326,21 @@ http://cdnx1.plusx.tv:8883/MTVcub/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-name="Kino Polska Muzyka" timeshift="12" catchup="fs" ,Kino Polska Muzyka
 http://cdnx1.plusx.tv:8885/237/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Music Box Polska" tvg-name="Music Box Polska" timeshift="12" catchup="fs" ,Music Box Polska
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/33631
+http://cdnx1.plusx.tv:8880/165/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Mixtape HD" tvg-name="Mixtape HD" timeshift="12" catchup="fs" ,Mixtape
 http://cdnx1.plusx.tv:8885/MixTapeHD/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Music" tvg-name="Polsat Music" timeshift="12" catchup="fs" ,Polsat Music
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117484
+http://cdnx1.plusx.tv:8880/201/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Stars TV" tvg-name="Stars TV" timeshift="12" catchup="fs" ,Stars TV
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117516
+http://cdnx1.plusx.tv:8880/174/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Nuta TV" tvg-name="Nuta TV" timeshift="12" catchup="fs" ,Nuta TV
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117471
+http://cdnx1.plusx.tv:8880/213/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Nuta Gold" tvg-name="Nuta Gold" timeshift="12" catchup="fs" ,Nuta Gold
 http://cdnx1.plusx.tv:8887/nutagoldhd/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Eska TV" tvg-name="Eska TV" timeshift="12" catchup="fs" ,Eska TV
 http://cdnx1.plusx.tv:8881/267/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Eska TV Extra" tvg-name="Eska TV Extra" timeshift="12" catchup="fs" ,Eska TV Extra
-http://kkimco03.oknirvana.club:8880/3mk010046/26998211/33356
+http://cdnx1.plusx.tv:8880/265/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Eska Rock TV" tvg-name="Eska Rock TV" timeshift="12" catchup="fs" ,Eska Rock TV
 http://cdnx1.plusx.tv:8883/266/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="4FUN TV" tvg-name="4 FUN TV" timeshift="12" catchup="fs" ,4 FUN TV
