@@ -346,7 +346,7 @@ http://cdnx1.plusx.tv:8883/266/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="4FUN TV" tvg-name="4 FUN TV" timeshift="12" catchup="fs" ,4 FUN TV
 http://cdnx1.plusx.tv:8883/322/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="4 FUN DANCE" tvg-name="4 FUN DANCE" timeshift="12" catchup="fs" ,4 FUN DANCE
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117306
+http://cdnx1.plusx.tv:8880/324/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Vox Music TV" tvg-name="vox-music-tv" timeshift="12" catchup="fs" ,VOX Music TV
 http://cdnx1.plusx.tv:8880/123v/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="POWER TV" tvg-name="Power TV" timeshift="12" catchup="fs" ,Power TV
