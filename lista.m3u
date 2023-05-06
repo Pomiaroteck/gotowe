@@ -176,33 +176,33 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/9659
 
 
 #EXTINF:-1 tvg-id="Canal+ Domo" tvg-name="Canal+ Domo" timeshift="12" catchup="fs" ,Canal+ Domo
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117386
+http://cdnx1.plusx.tv:8880/275/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="Canal+ Kuchnia" timeshift="12" catchup="fs" ,Canal+ Kuchnia
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117446
+http://cdnx1.plusx.tv:8880/235/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Canal+ Family" tvg-name="CANAL+ Family" timeshift="12" catchup="fs" ,Canal+ Family
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9660
+http://cdnx1.plusx.tv:8880/300/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="CANAL+ Premium" timeshift="12" catchup="fs" ,Canal+ Premium
-http://iptv365.xyz:80/4523598035/5578723833/35736
+http://cdnx1.plusx.tv:8880/295/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Canal+ 1" tvg-name="CANAL+ 1" timeshift="12" catchup="fs" ,Canal+ 1
 http://cdnx1.plusx.tv:8891/302/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Canal+ Film" tvg-name="CANAL+ Film" timeshift="12" catchup="fs" ,Canal+ Film
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117343
+http://cdnx1.plusx.tv:8880/296/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale" timeshift="12" catchup="fs",Canal+ Seriale
 http://cdnx1.plusx.tv:8885/294/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Ale Kino+" tvg-name="Ale Kino+" timeshift="12" catchup="fs" ,Ale Kino+
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117313
+http://cdnx1.plusx.tv:8880/319/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Novelas+" tvg-name="Novelas+" timeshift="12" catchup="fs" ,Novelas+
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9653
+http://cdnx1.plusx.tv:8880/2022/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Dizi" tvg-name="Dizi" timeshift="12" catchup="fs" ,Dizi
 http://cdnx1.plusx.tv:8881/Dizi/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Epic Drama" tvg-name="Epic Drama" timeshift="12" catchup="fs" ,Epic Drama
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117397
+http://cdnx1.plusx.tv:8880/267/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" timeshift="12" catchup="fs" ,AMC
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117314
+http://cdnx1.plusx.tv:8880/318/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="SCI FI" tvg-name="SciFi" timeshift="12" catchup="fs" ,SciFi
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117510
+http://cdnx1.plusx.tv:8880/177/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="13 Ulica" tvg-name="13 Ulica" timeshift="12" catchup="fs" ,13 Ulica
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117305
+http://cdnx1.plusx.tv:8880/325/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" timeshift="12" catchup="fs" ,AXN
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117320
 #EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" timeshift="12" catchup="fs" ,AXN Black
