@@ -348,10 +348,10 @@ http://cdnx1.plusx.tv:8883/322/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="4 FUN DANCE" tvg-name="4 FUN DANCE" timeshift="12" catchup="fs" ,4 FUN DANCE
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117306
 #EXTINF:-1 tvg-id="Vox Music TV" tvg-name="vox-music-tv" timeshift="12" catchup="fs" ,VOX Music TV
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117597
+http://cdnx1.plusx.tv:8880/123v/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="POWER TV" tvg-name="Power TV" timeshift="12" catchup="fs" ,Power TV
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117505
+http://cdnx1.plusx.tv:8880/182/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polo TV" tvg-name="PoloTV" timeshift="12" catchup="fs" ,Polo TV
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117475
+http://cdnx1.plusx.tv:8880/210/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Disco Polo Music" tvg-name="disco-polo-music" timeshift="12" catchup="fs" ,Disco Polo Music
 http://cdnx1.plusx.tv:8880/283/mono.m3u8?token=ea7038ce126ec2b0032222
