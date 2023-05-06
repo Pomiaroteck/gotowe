@@ -81,11 +81,11 @@ http://cdnx1.plusx.tv:8882/169/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="BBC First" tvg-name="BBC First" timeshift="12" catchup="fs" ,BBC First
 http://cdnx1.plusx.tv:8884/306/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="BBC Brit" tvg-name="BBC Brit" timeshift="12" catchup="fs" ,BBC Brit
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9647
+http://cdnx1.plusx.tv:8880/309/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" timeshift="12" catchup="fs" ,BBC Lifestyle
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9646
+http://cdnx1.plusx.tv:8880/305/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" timeshift="12" catchup="fs" ,BBC Earth
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117326
+http://cdnx1.plusx.tv:8880/307/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" timeshift="12" catchup="fs" , Discovery
 http://cdnx1.plusx.tv:8880/282/mono.m3u8?token=ea7038ce126ec2b0032222
