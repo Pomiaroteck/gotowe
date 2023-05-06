@@ -100,7 +100,7 @@ http://cdnx1.plusx.tv:8880/247/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet" timeshift="12" catchup="fs" ,Animal Planet
 http://cdnx1.plusx.tv:8880/317/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku"  timeshift="12" catchup="fs" ,Polsat Doku
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117479
+http://cdnx1.plusx.tv:8880/206/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:0 tvg-id="National Geographic" tvg-name="National Geographic" timeshift="12" catchup="fs" ,National Geographic
 http://iptv365.xyz:80/4523598035/5578723833/9651
@@ -273,21 +273,21 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117583
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117544
 
 #EXTINF:-1 tvg-id="TVP ABC" tvg-name="TVP-ABC" timeshift="12" catchup="fs" ,TVP ABC
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117573
+http://cdnx1.plusx.tv:8880/151/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="TVP ABC 2" tvg-name="TVP-ABC 2" timeshift="12" catchup="fs" ,TVP ABC 2
 http://cdnx1.plusx.tv:8889/tvpabc25/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="JimJam Polsat" tvg-name="JimJam" timeshift="12" catchup="fs" ,JimJam Polsat
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117483
+http://cdnx1.plusx.tv:8880/202/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Top Kids" tvg-name="Top Kids" timeshift="12" catchup="fs", Top Kids
 http://cdnx1.plusx.tv:8880/TopKidsJr/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Minimini+" tvg-name="Mini Mini" timeshift="12" catchup="fs" ,MiniMini+
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9602
+http://cdnx1.plusx.tv:8880/231/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Teletoon" tvg-name="Teletoon+" timeshift="12" catchup="fs" ,Teletoon+
 http://cdnx1.plusx.tv:8880/168/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="BBC CBeebies" tvg-name="BBC CBeebies" timeshift="12" catchup="fs" ,BBC CBeebies
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9541
+http://cdnx1.plusx.tv:8880/308/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://docdog.top/logo/countries/poland/babytv.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Baby TV
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117323
+http://cdnx1.plusx.tv:8880/310/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="http://logo.plusx.tv/logo/Nick%20Jr.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Nick Jr
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117464
 #EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nickelodeon" tvg-logo="http://logo.plusx.tv/logo/Nicktoons%20HD.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Nicktoons
