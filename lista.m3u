@@ -310,7 +310,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117372
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9515
 
 #EXTINF:-1 tvg-id="MTV Polska" tvg-name="MTV Polska" timeshift="12" catchup="fs" ,MTV Polska
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117458
+http://cdnx1.plusx.tv:8880/227/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" timeshift="12" catchup="fs" ,MTV Hits
 http://cdnx1.plusx.tv:8882/mtvhits/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" timeshift="12" catchup="fs" ,MTV Live
@@ -318,9 +318,9 @@ http://cdnx1.plusx.tv:8880/229/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="MTV00s.pl" tvg-name="MTV00s.pl" timeshift="12" catchup="fs" ,MTV 00s
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117588
 #EXTINF:-1 tvg-id="MTV90s.pl" tvg-name="MTV90s.pl" timeshift="12" catchup="fs" ,MTV 90s
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9511
+http://cdnx1.plusx.tv:8880/325mtv/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="MTV80s.pl" tvg-name="MTV80s.pl" timeshift="12" catchup="fs" ,MTV 80s
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9512
+http://cdnx1.plusx.tv:8880/123/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Club MTV" tvg-name="Club MTV" timeshift="12" catchup="fs" ,Club MTV
 http://cdnx1.plusx.tv:8883/MTVcub/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-name="Kino Polska Muzyka" timeshift="12" catchup="fs" ,Kino Polska Muzyka
