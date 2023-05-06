@@ -204,23 +204,23 @@ http://cdnx1.plusx.tv:8880/177/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="13 Ulica" tvg-name="13 Ulica" timeshift="12" catchup="fs" ,13 Ulica
 http://cdnx1.plusx.tv:8880/325/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" timeshift="12" catchup="fs" ,AXN
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117320
+http://cdnx1.plusx.tv:8880/313/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" timeshift="12" catchup="fs" ,AXN Black
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117319
+http://cdnx1.plusx.tv:8880/314/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" timeshift="12" catchup="fs" ,AXN White
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117322
+http://cdnx1.plusx.tv:8880/311/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="AXN Spin" tvg-name="AXNSpinHD" timeshift="12" catchup="fs" ,AXN Spin
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117321
+http://cdnx1.plusx.tv:8880/312/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" timeshift="12" catchup="fs" ,Cinemax
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117366
+http://cdnx1.plusx.tv:8880/287/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Cinemax 2" tvg-name="Cinemax 2" timeshift="12" catchup="fs" ,Cinemax 2
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117365
+http://cdnx1.plusx.tv:8880/288/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" timeshift="12" catchup="fs" ,HBO
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117429
+http://cdnx1.plusx.tv:8880/243/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" timeshift="12" catchup="fs" ,HBO 2
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117427
+http://cdnx1.plusx.tv:8880/246/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="HBO 3" tvg-name="HBO 3" timeshift="12" catchup="fs" ,HBO 3
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117428
+http://cdnx1.plusx.tv:8880/245/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Filmbox Extra" tvg-name="FilmBox Extra" timeshift="12" catchup="fs",Filmbox Extra
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117414
 #EXTINF:-1 tvg-id="Filmbox Premium" tvg-name="FilmBox Premium" timeshift="12" catchup="fs" ,Filmbox Premium
