@@ -93,12 +93,12 @@ http://cdnx1.plusx.tv:8880/282/mono.m3u8?token=ea7038ce126ec2b0032222
 http://cdnx1.plusx.tv:8881/279/video.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" timeshift="12" catchup="fs" ,History
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9649
+http://cdnx1.plusx.tv:8880/240/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="History2" tvg-name="History2" timeshift="12" catchup="fs" ,History2
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117433
+http://cdnx1.plusx.tv:8880/247/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet" timeshift="12" catchup="fs" ,Animal Planet
-http://iptv365.xyz:80/4523598035/5578723833/117316
+http://cdnx1.plusx.tv:8880/317/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Doku" tvg-name="Polsat Doku"  timeshift="12" catchup="fs" ,Polsat Doku
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117479
 
@@ -354,4 +354,4 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117505
 #EXTINF:-1 tvg-id="Polo TV" tvg-name="PoloTV" timeshift="12" catchup="fs" ,Polo TV
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117475
 #EXTINF:-1 tvg-id="Disco Polo Music" tvg-name="disco-polo-music" timeshift="12" catchup="fs" ,Disco Polo Music
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117373
+http://cdnx1.plusx.tv:8880/283/mono.m3u8?token=ea7038ce126ec2b0032222
