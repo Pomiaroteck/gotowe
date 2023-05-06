@@ -103,42 +103,42 @@ http://cdnx1.plusx.tv:8880/317/mono.m3u8?token=ea7038ce126ec2b0032222
 http://cdnx1.plusx.tv:8880/206/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:0 tvg-id="National Geographic" tvg-name="National Geographic" timeshift="12" catchup="fs" ,National Geographic
-http://iptv365.xyz:80/4523598035/5578723833/9651
+http://cdnx1.plusx.tv:8880/221/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:0 tvg-id="National Geographic Wild" tvg-name="Nat Geo Wild " timeshift="12" catchup="fs" ,Nat Geo Wild
-http://iptv365.xyz:80/4523598035/5578723833/9650
+http://cdnx1.plusx.tv:8880/223/mono.m3u8?token=ea7038ce126ec2b0032222
 
 
 #EXTINF:0 tvg-id="Planete+" tvg-name="Planete+" timeshift="12" catchup="fs" ,Planete+
-http://iptv365.xyz:80/4523598035/5578723833/117474
+http://cdnx1.plusx.tv:8880/211/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="Canal+ Dokument" timeshift="12" catchup="fs" ,Canal+ Dokument
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117340
+http://cdnx1.plusx.tv:8880/301/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:-1 tvg-id="Polsat Play" tvg-name="Polsat Play" timeshift="12" catchup="fs" ,Polsat Play
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117487
+http://cdnx1.plusx.tv:8880/198/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Cafe" tvg-name="Polsat Cafe" timeshift="12" catchup="fs",Polsat Cafe
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117478
+http://cdnx1.plusx.tv:8880/207/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Games" tvg-name="Polsat Games" timeshift="12" catchup="fs" ,Polsat Games
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117482
+http://cdnx1.plusx.tv:8880/204/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport" tvg-name="Polsat Sport" timeshift="12" catchup="fs" ,Polsat Sport
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117492
+http://cdnx1.plusx.tv:8880/193/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="Polsat Sport Extra" timeshift="12" catchup="fs" ,Polsat Sport Extra
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117491
+http://cdnx1.plusx.tv:8880/195/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="Polsat Sport Fight" timeshift="12" catchup="fs" ,Polsat Sport Fight
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117493
+http://cdnx1.plusx.tv:8880/194/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="Polsat Sport News" timeshift="12" catchup="fs" ,Polsat Sport News
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117494
+http://cdnx1.plusx.tv:8880/192/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="Polsat Sport Premium 1" timeshift="12" catchup="fs" ,Polsat Sport Premium 1 50fps
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9626
 #EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="Polsat Sport Premium 2" timeshift="12" catchup="fs" ,Polsat Sport Premium 2 50fps
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9625
 #EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="Polsat Sport Premium 3" timeshift="12" catchup="fs" ,Polsat Sport Premium 3
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117497
+http://cdnx1.plusx.tv:8880/189/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="Polsat Sport Premium 4" timeshift="12" catchup="fs" ,Polsat Sport Premium 4
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/360185
+http://cdnx1.plusx.tv:8880/188/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="Polsat Sport Premium 5" timeshift="12" catchup="fs" ,Polsat Sport Premium 5
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117498
+http://cdnx1.plusx.tv:8880/187/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="Polsat Sport Premium 6" timeshift="12" catchup="fs" ,Polsat Sport Premium 6
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117499
+http://cdnx1.plusx.tv:8880/186/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1" timeshift="12" catchup="fs" ,Eleven Sports 1
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117392
 #EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2" timeshift="12" catchup="fs" ,Eleven Sports 2
