@@ -96,6 +96,9 @@ http://cdnx1.plusx.tv:8881/279/video.m3u8?token=ea7038ce126ec2b0032222
 http://cdnx1.plusx.tv:8880/240/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="History2" tvg-name="History2" timeshift="12" catchup="fs" ,History2
 http://cdnx1.plusx.tv:8880/247/mono.m3u8?token=ea7038ce126ec2b0032222
+#EXTINF:0 tvg-id="ID" tvg-name="Investigation Discovery" timeshift="12" catchup="fs" ,ID
+http://cdnx1.plusx.tv:8880/239/mono.m3u8?token=ea7038ce126ec2b0032222
+
 
 #EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet" timeshift="12" catchup="fs" ,Animal Planet
 http://cdnx1.plusx.tv:8880/317/mono.m3u8?token=ea7038ce126ec2b0032222
@@ -113,7 +116,7 @@ http://cdnx1.plusx.tv:8880/211/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="Canal+ Dokument" timeshift="12" catchup="fs" ,Canal+ Dokument
 http://cdnx1.plusx.tv:8880/301/mono.m3u8?token=ea7038ce126ec2b0032222
 
-#EXTINF:0 tvg-id="E! Entertainment" tvg-name="E! Entertainment" timeshift="12" catchup="fs" group-title="Rozrywka" ,E! Entertainment
+#EXTINF:0 tvg-id="E! Entertainment" tvg-name="E! Entertainment" timeshift="12" catchup="fs" ,E! Entertainment
 http://cdnx1.plusx.tv:8880/273/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:0 tvg-id="TVN Style" tvg-name="TVN Style" timeshift="12" catchup="fs" group-title="Rozrywka" ,TVN Style
