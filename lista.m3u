@@ -117,7 +117,7 @@ http://cdnx1.plusx.tv:8880/301/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! Entertainment" timeshift="12" catchup="fs" ,E! Entertainment
 http://cdnx1.plusx.tv:8880/273/mono.m3u8?token=ea7038ce126ec2b0032222
-#EXTINF:-1 tvg-id="TVN Style" tvg-name="TVN Style" timeshift="12" catchup="fs" group-title="Rozrywka" ,TVN Style
+#EXTINF:-1 tvg-id="TVN Style" tvg-name="TVN Style" timeshift="12" catchup="fs" ,TVN Style
 http://cdnx1.plusx.tv:8880/147/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Cafe" tvg-name="Polsat Cafe" timeshift="12" catchup="fs",Polsat Cafe
 http://cdnx1.plusx.tv:8880/207/mono.m3u8?token=ea7038ce126ec2b0032222
