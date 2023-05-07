@@ -152,13 +152,13 @@ http://cdnx1.plusx.tv:8880/264/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" timeshift="12" catchup="fs" ,Eurosport 2
 http://cdnx1.plusx.tv:8880/263/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Extreme Sports" tvg-name="Extreme Sports" timeshift="12" catchup="fs" ,Extreme Sports
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117406
+http://cdnx1.plusx.tv:8880/262/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="SportKlub" tvg-name="SportKlub" timeshift="12" catchup="fs" ,SportKlub
 http://cdnx1.plusx.tv:8887/175/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="FightKlub" tvg-name="FightKlub" timeshift="12" catchup="fs" ,FightKlub
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117411
+http://cdnx1.plusx.tv:8880/260/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="FightBox" tvg-name="FightBox" timeshift="12" catchup="fs" ,FightBox
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117407
+http://cdnx1.plusx.tv:8880/261/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="TVP Sport" tvg-name="TVP Sport" timeshift="12" catchup="fs" ,TVP Sport
 http://cdnx1.plusx.tv:8881/134/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="Canal+ Sport" timeshift="12" catchup="fs" ,Canal+ Sport
@@ -172,7 +172,7 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117353
 #EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="Canal+ Sport 5" timeshift="12" catchup="fs" ,Canal+ Sport 5
 http://cdnx1.plusx.tv:8891/215/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Canal+ Now" tvg-name="Canal+ Now" timeshift="12" catchup="fs" ,Canal+ Now
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9659
+http://cdnx1.plusx.tv:8880/299/mono.m3u8?token=ea7038ce126ec2b0032222
 
 
 #EXTINF:-1 tvg-id="Canal+ Domo" tvg-name="Canal+ Domo" timeshift="12" catchup="fs" ,Canal+ Domo
@@ -249,32 +249,32 @@ http://cdnx1.plusx.tv:8880/166/mono.m3u8?token=ea7038ce126ec2b0032222
 http://cdnx1.plusx.tv:8880/172/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:-1 tvg-id="TVN Turbo" tvg-name="TVN Turbo" timeshift="12" catchup="fs" ,TVN Turbo
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117555
+http://cdnx1.plusx.tv:8880/145/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Motowizja" tvg-name="Motowizja" timeshift="12" catchup="fs" ,Motowizja
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117454
+http://cdnx1.plusx.tv:8880/230/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="DTX" tvg-name="DTX" timeshift="12" catchup="fs" ,DTX
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117388
+http://cdnx1.plusx.tv:8880/274/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:-1 tvg-id="TVP Info" tvg-name="TVP-Info" timeshift="12" catchup="fs" ,TVP Info
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/35735
+http://cdnx1.plusx.tv:8880/139/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="TVN 24" tvg-name="TVN 24" timeshift="12" catchup="fs" ,TVN 24
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117549
+http://cdnx1.plusx.tv:8880/153/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="TVN 24 BiS" tvg-name="TVN CNBC Biznes" timeshift="12" catchup="fs" ,TVN 24 BiS
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/32758
+http://cdnx1.plusx.tv:8880/154/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat News" tvg-name="Polsat News" timeshift="12" catchup="fs" ,Polsat News
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117485
+http://cdnx1.plusx.tv:8880/199/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="POLSAT NEWS 2" tvg-name="Polsat News 2" timeshift="12" catchup="fs" ,Polsat News 2
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/400453491
+http://cdnx1.plusx.tv:8880/200/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Wydarzenia 24" tvg-name="Wydarzenia 24" timeshift="12" catchup="fs" ,Wydarzenia 24
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117520
+http://cdnx1.plusx.tv:8880/10/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="TV Republika" tvg-name="TV Republika" timeshift="12" catchup="fs" ,TV Republika
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/33611
 #EXTINF:-1 tvg-id="wPolsce.pl" tvg-name="PL: wPolsce.pl" timeshift="12" catchup="fs" ,wPolsce.pl
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/33600
+http://cdnx1.plusx.tv:8880/120/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="TVS" tvg-name="TVS" timeshift="12" catchup="fs" ,TVS
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117583
+http://cdnx1.plusx.tv:8880/132/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="TV Trwam" tvg-name="TV Trwam" timeshift="12" catchup="fs" ,TV Trwam
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117544
+http://cdnx1.plusx.tv:8880/338/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:-1 tvg-id="TVP ABC" tvg-name="TVP-ABC" timeshift="12" catchup="fs" ,TVP ABC
 http://cdnx1.plusx.tv:8880/151/mono.m3u8?token=ea7038ce126ec2b0032222
