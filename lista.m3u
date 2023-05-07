@@ -359,25 +359,25 @@ http://cdnx1.plusx.tv:8880/210/mono.m3u8?token=ea7038ce126ec2b0032222
 http://cdnx1.plusx.tv:8880/283/mono.m3u8?token=ea7038ce126ec2b0032222
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio Jedynka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/e/e1/Jedynka_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/350?cb=20180101095305" group-title="Radio" ,Polskie Radio Jedynka
 http://stream3.polskieradio.pl:8900
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio Dwójka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/9/9d/Dw%C3%B3jka_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/350?cb=20180101095909" group-title="Radio" ,Polskie Radio Dwójka
 http://mp3.polskieradio.pl:8902
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio Trójka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/7/7c/Tr%C3%B3jka_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/350?cb=20180101100554" group-title="Radio" ,Polskie Radio Trójka
 http://mp3.polskieradio.pl:8904
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio Czwórka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/7/75/Czw%C3%B3rka_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/350?cb=20180101101649" group-title="Radio" ,Polskie Radio Czwórka
 http://mp3.polskieradio.pl:8906
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/d/d4/Polskie_Radio_24_%282014-.n.v.%29.png/revision/latest/scale-to-width-down/350?cb=20180101102502 " group-title="Radio" ,Polskie Radio 24
 http://stream3.polskieradio.pl:8080
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio Kierowców
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://radiokierowcow.pl/images/logo.svg" group-title="Radio" ,Polskie Radio Kierowców
 http://stream3.polskieradio.pl:8918
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio dla zagranicy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/c/c5/Polskie_Radio_dla_Zagranicy_%282005-.n.v.%29.png/revision/latest/scale-to-width-down/350?cb=20180101111117" group-title="Radio" ,Polskie Radio dla zagranicy
 http://mp3.polskieradio.pl:8908
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://new.radio.katowice.pl/assets/files/img/Polskie-Radio-Katowice-Logo.png" group-title="Radio" ,Polskie Radio Katowice
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/7/7c/Polskie_Radio_Katowice_%282006-.n.v.%29.png/revision/latest/scale-to-width-down/350?cb=20180101163229" group-title="Radio" ,Polskie Radio Katowice
 http://stream4.nadaje.com:9212/radiokatowice 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio Chopin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/6/6f/Polskie_Radio_Chopin_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/350?cb=20180101110627" group-title="Radio" ,Polskie Radio Chopin
 http://stream3.polskieradio.pl:8910
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio Dzieciom
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/d/db/Polskie_Radio_Dzieciom_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/349?cb=20180101104855" group-title="Radio" ,Polskie Radio Dzieciom
 http://stream3.polskieradio.pl:8916
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio 357
 https://stream.rcs.revma.com/an1ugyygzk8uv
