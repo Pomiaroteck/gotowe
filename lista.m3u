@@ -378,10 +378,12 @@ https://rs6-krk2.rmfstream.pl/rmf_fm
 http://31.192.216.10:8000/rmf_maxxx
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,RMF Classic
 http://31.192.216.5:8000/rmf_classic
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Eska
-https://waw.ic.smcdn.pl/2220-1.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Eska Rock
 https://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-rock
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://www.eska.pl/media/eska/desktop/images/logo-eska.svg" group-title="Radio" ,Eska
+https://waw.ic.smcdn.pl/2220-1.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://www.voxfm.pl/media/voxfm/desktop/images/logo-voxfm.svg" group-title="Radio" ,VOX FM
+https://waw.ic.smcdn.pl/3990-1.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Zet
 http://radiozetmp3-01.eurozet.pl:8400
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Chilli Zet
@@ -392,8 +394,6 @@ http://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
 http://n-12-1.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Złote Przeboje
 http://radiostream.pl/tuba8910-1.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,VOX FM
-https://waw.ic.smcdn.pl/3990-1.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Pogoda
 http://radiostream.pl/tuba144-1.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Rock Radio
