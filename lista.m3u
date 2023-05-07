@@ -113,9 +113,12 @@ http://cdnx1.plusx.tv:8880/211/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="Canal+ Dokument" timeshift="12" catchup="fs" ,Canal+ Dokument
 http://cdnx1.plusx.tv:8880/301/mono.m3u8?token=ea7038ce126ec2b0032222
 
+#EXTINF:0 tvg-id="E! Entertainment" tvg-name="E! Entertainment" timeshift="12" catchup="fs" group-title="Rozrywka" ,E! Entertainment
+http://cdnx1.plusx.tv:8880/273/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:0 tvg-id="TVN Style" tvg-name="TVN Style" timeshift="12" catchup="fs" group-title="Rozrywka" ,TVN Style
 http://cdnx1.plusx.tv:8880/147/mono.m3u8?token=ea7038ce126ec2b0032222
+
 
 #EXTINF:-1 tvg-id="Polsat Play" tvg-name="Polsat Play" timeshift="12" catchup="fs" ,Polsat Play
 http://cdnx1.plusx.tv:8880/198/mono.m3u8?token=ea7038ce126ec2b0032222
