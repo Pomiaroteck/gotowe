@@ -86,6 +86,12 @@ http://cdnx1.plusx.tv:8880/309/mono.m3u8?token=ea7038ce126ec2b0032222
 http://cdnx1.plusx.tv:8880/305/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" timeshift="12" catchup="fs" ,BBC Earth
 http://cdnx1.plusx.tv:8880/307/mono.m3u8?token=ea7038ce126ec2b0032222
+#EXTINF:0 tvg-id="Polsat Viasat History" tvg-name="Viasat History" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20History%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,Polsat Viasat History HD
+http://cdnx1.plusx.tv:8880/184/mono.m3u8?token=ea7038ce126ec2b0032222
+#EXTINF:0 tvg-id="POLSAT Viasat Explore" tvg-name="Viasat Explorer" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Explore%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,Polsat Viasat Explore HD
+http://cdnx1.plusx.tv:8880/185/mono.m3u8?token=ea7038ce126ec2b0032222
+#EXTINF:0 tvg-id="Polsat Viasat Nature" tvg-name="Viasat Nature" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Nature%20HD.png" timeshift="7" catchup="fs" group-title="Dokument" ,Polsat Viasat Nature HD
+http://cdnx1.plusx.tv:8880/183/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" timeshift="12" catchup="fs" , Discovery
 http://cdnx1.plusx.tv:8880/282/mono.m3u8?token=ea7038ce126ec2b0032222
@@ -114,12 +120,16 @@ http://cdnx1.plusx.tv:8880/301/mono.m3u8?token=ea7038ce126ec2b0032222
 http://cdnx1.plusx.tv:8880/273/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="TVN Style" tvg-name="TVN Style" timeshift="12" catchup="fs" group-title="Rozrywka" ,TVN Style
 http://cdnx1.plusx.tv:8880/147/mono.m3u8?token=ea7038ce126ec2b0032222
-#EXTINF:-1 tvg-id="Polsat Play" tvg-name="Polsat Play" timeshift="12" catchup="fs" ,Polsat Play
-http://cdnx1.plusx.tv:8880/198/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Cafe" tvg-name="Polsat Cafe" timeshift="12" catchup="fs",Polsat Cafe
 http://cdnx1.plusx.tv:8880/207/mono.m3u8?token=ea7038ce126ec2b0032222
+#EXTINF:-1 tvg-id="Polsat Play" tvg-name="Polsat Play" timeshift="12" catchup="fs" ,Polsat Play
+http://cdnx1.plusx.tv:8880/198/mono.m3u8?token=ea7038ce126ec2b0032222
+
+#EXTINF:0 tvg-id="Polsat Rodzina" tvg-name="Polsat Rodzina" tvg-logo="http://logo.plusx.tv/logo/Polsat+Rodzina.png" timeshift="7" catchup="fs" group-title="Rozrywka" ,Polsat Rodzina HD
+http://cdnx1.plusx.tv:8880/197/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Games" tvg-name="Polsat Games" timeshift="12" catchup="fs" ,Polsat Games
 http://cdnx1.plusx.tv:8880/204/mono.m3u8?token=ea7038ce126ec2b0032222
+
 #EXTINF:-1 tvg-id="Polsat Sport" tvg-name="Polsat Sport" timeshift="12" catchup="fs" ,Polsat Sport
 http://cdnx1.plusx.tv:8880/193/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="Polsat Sport Extra" timeshift="12" catchup="fs" ,Polsat Sport Extra
