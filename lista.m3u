@@ -402,7 +402,7 @@ http://stream.open.fm/367
 https://stream.rcs.revma.com/an1ugyygzk8uv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Nowy Swiat
 https://n06a-eu.rcs.revma.com/ypqt40u0x1zuv?rj-ttl=5&rj-tok=AAABhZPBwdIA7G-yEo4Jl5B8sw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://www.radiosupernova.pl/media/radiosupernova/desktop/images/logo-supernova.svg" group-title="Radio" ,Radio Supernova
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://www.grupazpr.pl/pub/marki/RADIO/RADIO_WAWA/supernova_2021_v1.png" group-title="Radio" ,Radio Supernova
 https://waw.ic.smcdn.pl/1380-2.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Pogoda
 http://radiostream.pl/tuba144-1.mp3
