@@ -288,19 +288,19 @@ http://cdnx1.plusx.tv:8880/231/mono.m3u8?token=ea7038ce126ec2b0032222
 http://cdnx1.plusx.tv:8880/168/video.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="BBC CBeebies" tvg-name="BBC CBeebies" timeshift="12" catchup="fs" ,BBC CBeebies
 http://cdnx1.plusx.tv:8880/308/mono.m3u8?token=ea7038ce126ec2b0032222
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://docdog.top/logo/countries/poland/babytv.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Baby TV
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" timeshift="12" catchup="fs" ,Baby TV
 http://cdnx1.plusx.tv:8880/310/mono.m3u8?token=ea7038ce126ec2b0032222
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="http://logo.plusx.tv/logo/Nick%20Jr.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Nick Jr
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr" timeshift="12" catchup="fs" ,Nick Jr
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117464
-#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nickelodeon" tvg-logo="http://logo.plusx.tv/logo/Nicktoons%20HD.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Nicktoons
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nickelodeon" timeshift="12" catchup="fs" ,Nicktoons
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9592
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon Polska" tvg-logo="http://logo.plusx.tv/logo/Nickelodeon.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon Polska" timeshift="12" catchup="fs" ,Nickelodeon
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117465
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://docdog.top/logo/countries/poland/disneyjr.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Disney Junior
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" timeshift="12" catchup="fs" ,Disney Junior
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117383
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://logo.plusx.tv/logo/Disney+XD.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Disney XD
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" timeshift="12" catchup="fs" ,Disney XD
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117384
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://logo.plusx.tv/logo/Disney%20Channel%20HD.png" timeshift="12" catchup="fs" catchup="fs" timeshift="12" catchup="fs" ,Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" timeshift="12" catchup="fs" ,Disney Channel
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117381
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon-Network" timeshift="12" catchup="fs" ,Cartoon Network
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117355
@@ -361,19 +361,19 @@ http://cdnx1.plusx.tv:8880/283/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio Jedynka
 http://stream3.polskieradio.pl:8900
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio DwĂłjka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio Dwójka
 http://mp3.polskieradio.pl:8902
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio TrĂłjka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio Trójka
 http://mp3.polskieradio.pl:8904
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio CzwĂłrka
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio Czwórka
 http://mp3.polskieradio.pl:8906
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio 24
 http://stream3.polskieradio.pl:8080
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio KierowcĂłw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio Kierowców
 http://stream3.polskieradio.pl:8918
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio dla zagranicy
 http://mp3.polskieradio.pl:8908
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio Katowice
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Katowice
 http://stream4.nadaje.com:9212/radiokatowice 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Polskie Radio Chopin
 http://stream3.polskieradio.pl:8910
@@ -385,7 +385,7 @@ https://stream.rcs.revma.com/an1ugyygzk8uv
 https://n06a-eu.rcs.revma.com/ypqt40u0x1zuv?rj-ttl=5&rj-tok=AAABhZPBwdIA7G-yEo4Jl5B8sw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Wnet
 http://audio.radiownet.pl:8000/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Strefa FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Strefa FM
 https://play.strefa.fm:8443/strefa.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,RMF FM
 https://rs6-krk2.rmfstream.pl/rmf_fm
@@ -401,7 +401,7 @@ http://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
 https://redir.atmcdn.pl/sc/o2/Eurozet/live/chillizet.livx?audio=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Antyradio
 http://n-12-1.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio ZĹote Przeboje
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Złote Przeboje
 http://radiostream.pl/tuba8910-1.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Rock Radio
 http://radiostream.pl/tuba9006-1.mp3
@@ -411,12 +411,12 @@ http://radiostream.pl/tuba144-1.mp3
 http://radiostream.pl/tuba10-2.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Eska
 https://waw.ic.smcdn.pl/2220-1.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Eska Rock
+https://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-rock
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,VOX FM
 https://waw.ic.smcdn.pl/3990-1.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,SuperNova
 https://waw.ic.smcdn.pl/1380-2.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Eska Rock
-https://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-rock
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,WP Radio
 http://stream.open.fm/367
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Muzyczne Radio
@@ -447,6 +447,7 @@ http://stream.radiopiekary.pl
 http://s1.slotex.pl/shoutcast/7358/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio 90
 http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio AnioĹ BeskidĂłw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Anioł Beskidów
 http://88.135.172.249:22000/aniolbeskidow
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Maryja
+http://51.68.135.155:80/stream
