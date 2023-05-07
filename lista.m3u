@@ -380,9 +380,9 @@ http://31.192.216.10:8000/rmf_maxxx
 http://31.192.216.5:8000/rmf_classic
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Eska Rock
 https://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-rock
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://www.eska.pl/media/eska/desktop/images/logo-eska.svg" group-title="Radio" ,Eska
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Eska
 https://waw.ic.smcdn.pl/2220-1.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://www.voxfm.pl/media/voxfm/desktop/images/logo-voxfm.svg" group-title="Radio" ,VOX FM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,VOX FM
 https://waw.ic.smcdn.pl/3990-1.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Zet
 http://radiozetmp3-01.eurozet.pl:8400
@@ -396,8 +396,6 @@ http://n-12-1.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
 http://radiostream.pl/tuba8910-1.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Pogoda
 http://radiostream.pl/tuba144-1.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Rock Radio
-http://radiostream.pl/tuba9006-1.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Tok FM
 http://radiostream.pl/tuba10-2.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,WP Radio
@@ -406,10 +404,12 @@ http://stream.open.fm/367
 https://stream.rcs.revma.com/an1ugyygzk8uv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Nowy Swiat
 https://n06a-eu.rcs.revma.com/ypqt40u0x1zuv?rj-ttl=5&rj-tok=AAABhZPBwdIA7G-yEo4Jl5B8sw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,SuperNova
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Supernova
 https://waw.ic.smcdn.pl/1380-2.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Wnet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Wnet.fm
 http://audio.radiownet.pl:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Rock Radio
+http://radiostream.pl/tuba9006-1.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://radiopolska.pl/files/large/64111fb50e24ecb" group-title="Radio" ,Radio Strefa FM
 https://play.strefa.fm:8443/strefa.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://static.wikia.nocookie.net/radiofanon/images/7/7c/Polskie_Radio_Katowice_%282006-.n.v.%29.png/revision/latest/scale-to-width-down/350?cb=20180101163229" group-title="Radio" ,Polskie Radio Katowice
