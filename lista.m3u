@@ -308,6 +308,9 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117464
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/9592
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon Polska" timeshift="12" catchup="fs" ,Nickelodeon
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117465
+#EXTINF:-1 tvg-id="TeenNick" tvg-name="TeenNick" timeshift="12" catchup="fs" ,TeenNick
+http://cdnx1.plusx.tv:8880/325jun/mono.m3u8?token=ea7038ce126ec2b0032222
+
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" timeshift="12" catchup="fs" ,Disney Junior
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117383
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" timeshift="12" catchup="fs" ,Disney XD
