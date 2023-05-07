@@ -231,6 +231,14 @@ http://cdnx1.plusx.tv:8880/243/mono.m3u8?token=ea7038ce126ec2b0032222
 http://cdnx1.plusx.tv:8880/246/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="HBO 3" tvg-name="HBO 3" timeshift="12" catchup="fs" ,HBO 3
 http://cdnx1.plusx.tv:8880/245/mono.m3u8?token=ea7038ce126ec2b0032222
+#EXTINF:0 tvg-id="Polsat Film" tvg-name="Polsat Film" timeshift="12" catchup="fs" ,Polsat Film
+http://cdnx1.plusx.tv:8880/205/mono.m3u8?token=ea7038ce126ec2b0032222
+
+
+#EXTINF:0 tvg-id="Polsat Seriale" tvg-name="Polsat Seriale" timeshift="12" catchup="fs" ,Polsat Seriale
+
+http://cdnx1.plusx.tv:8880/196/mono.m3u8?token=ea7038ce126ec2b0032222
+
 #EXTINF:-1 tvg-id="Filmbox Extra" tvg-name="FilmBox Extra" timeshift="12" catchup="fs",Filmbox Extra
 http://cdnx1.plusx.tv:8880/257/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Filmbox Premium" tvg-name="FilmBox Premium" timeshift="12" catchup="fs" ,Filmbox Premium
