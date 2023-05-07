@@ -394,8 +394,6 @@ http://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
 http://n-12-1.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Złote Przeboje
 http://radiostream.pl/tuba8910-1.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Pogoda
-http://radiostream.pl/tuba144-1.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Tok FM
 http://radiostream.pl/tuba10-2.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,WP Radio
@@ -404,8 +402,10 @@ http://stream.open.fm/367
 https://stream.rcs.revma.com/an1ugyygzk8uv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Nowy Swiat
 https://n06a-eu.rcs.revma.com/ypqt40u0x1zuv?rj-ttl=5&rj-tok=AAABhZPBwdIA7G-yEo4Jl5B8sw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Supernova
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="https://www.radiosupernova.pl/media/radiosupernova/desktop/images/logo-supernova.svg" group-title="Radio" ,Radio Supernova
 https://waw.ic.smcdn.pl/1380-2.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Pogoda
+http://radiostream.pl/tuba144-1.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Wnet.fm
 http://audio.radiownet.pl:8000/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Rock Radio
