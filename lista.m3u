@@ -128,9 +128,9 @@ http://cdnx1.plusx.tv:8880/194/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="Polsat Sport News" timeshift="12" catchup="fs" ,Polsat Sport News
 http://cdnx1.plusx.tv:8880/192/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="Polsat Sport Premium 1" timeshift="12" catchup="fs" ,Polsat Sport Premium 1 50fps
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9626
+http://cdnx1.plusx.tv:8880/191/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="Polsat Sport Premium 2" timeshift="12" catchup="fs" ,Polsat Sport Premium 2 50fps
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9625
+http://cdnx1.plusx.tv:8880/190/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="Polsat Sport Premium 3" timeshift="12" catchup="fs" ,Polsat Sport Premium 3
 http://cdnx1.plusx.tv:8880/189/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="Polsat Sport Premium 4" timeshift="12" catchup="fs" ,Polsat Sport Premium 4
@@ -140,17 +140,17 @@ http://cdnx1.plusx.tv:8880/187/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="Polsat Sport Premium 6" timeshift="12" catchup="fs" ,Polsat Sport Premium 6
 http://cdnx1.plusx.tv:8880/186/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1" timeshift="12" catchup="fs" ,Eleven Sports 1
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117392
+http://cdnx1.plusx.tv:8880/325es4k/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2" timeshift="12" catchup="fs" ,Eleven Sports 2
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117393
+http://cdnx1.plusx.tv:8880/270/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3" timeshift="12" catchup="fs" ,Eleven Sports 3
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117394
+http://cdnx1.plusx.tv:8880/269/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4"timeshift="12" catchup="fs" ,Eleven Sports 4
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117395
+http://cdnx1.plusx.tv:8880/272/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" timeshift="12" catchup="fs" ,Eurosport 1
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117403
+http://cdnx1.plusx.tv:8880/264/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" timeshift="12" catchup="fs" ,Eurosport 2
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117404
+http://cdnx1.plusx.tv:8880/263/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Extreme Sports" tvg-name="Extreme Sports" timeshift="12" catchup="fs" ,Extreme Sports
 http://hacrzry.mbob.xyz:80/4523598035/5578723833/117406
 #EXTINF:-1 tvg-id="SportKlub" tvg-name="SportKlub" timeshift="12" catchup="fs" ,SportKlub
