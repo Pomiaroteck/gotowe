@@ -490,16 +490,19 @@ http://fabryka.stream:8080/dawidw/682359191/105350
 #EXTINF:-1 tvg-id="Super Polsat" tvg-name="Super Polsat" group-title="Zapasowe" ,Super Polsat
 
 http://fabryka.stream:8080/dawidw/682359191/105351
-#EXTINF:-1 tvg-id="tvn.pl" tvg-name="TVN HD" tvg-logo="http://fabryka.stream/images/logo/TVN%20HD.png" group-title="PL | Polska - Full HD",TVN HD
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" group-title="Zapasowe" ,TVN
 http://fabryka.stream:8080/dawidw/682359191/105352
+#EXTINF:-1 tvg-id="TVN 7" tvg-name="TVN 7" group-title="Zapasowe" ,TVN 7
+
+http://fabryka.stream:8080/dawidw/682359191/105356
+
+
 #EXTINF:-1 tvg-id="ttv.pl" tvg-name="TTV HD" tvg-logo="http://fabryka.stream/images/logo/TTV%20HD.png" group-title="PL | Polska - Full HD",TTV HD
 http://fabryka.stream:8080/dawidw/682359191/105353
 #EXTINF:-1 tvg-id="tv4.pl" tvg-name="TV4 HD" tvg-logo="http://fabryka.stream/images/logo/TV%204%20HD.png" group-title="PL | Polska - Full HD",TV4 HD
 http://fabryka.stream:8080/dawidw/682359191/105354
 #EXTINF:-1 tvg-id="tv6.pl" tvg-name="TV6 HD" tvg-logo="http://fabryka.stream/images/logo/TV%206%20HD.png" group-title="PL | Polska - Full HD",TV6 HD
 http://fabryka.stream:8080/dawidw/682359191/105355
-#EXTINF:-1 tvg-id="tvn7.pl" tvg-name="TVN 7 HD" tvg-logo="http://fabryka.stream/images/logo/TVN%207%20HD.png" group-title="PL | Polska - Full HD",TVN 7 HD
-http://fabryka.stream:8080/dawidw/682359191/105356
 #EXTINF:-1 tvg-id="tvpuls.pl" tvg-name="TV Puls HD" tvg-logo="http://fabryka.stream/images/logo/puls.png" group-title="PL | Polska - Full HD",TV Puls HD
 http://fabryka.stream:8080/dawidw/682359191/105357
 #EXTINF:-1 tvg-id="tvpuls2.pl" tvg-name="Puls 2 HD" tvg-logo="http://fabryka.stream/images/logo/puls2.png" group-title="PL | Polska - Full HD",Puls 2 HD
