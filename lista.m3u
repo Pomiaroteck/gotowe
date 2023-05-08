@@ -484,9 +484,11 @@ http://fabryka.stream:8080/dawidw/682359191/105348
 #EXTINF:-1 tvg-id="Polsat" tvg-name="Polsat" group-title="Zapasowe" ,Polsat
 
 http://fabryka.stream:8080/dawidw/682359191/105349
-#EXTINF:-1 tvg-id="polsat2.pl" tvg-name="Polsat 2 HD" tvg-logo="http://fabryka.stream/images/logo/polsat/polsat2.png" group-title="PL | Polska - Full HD",Polsat 2 HD
+#EXTINF:-1 tvg-id="Polsat 2" tvg-name="Polsat 2" group-title="Zapasowe" ,Polsat 2
+
 http://fabryka.stream:8080/dawidw/682359191/105350
-#EXTINF:-1 tvg-id="superpolsat.pl" tvg-name="Super Polsat HD" tvg-logo="http://fabryka.stream/images/logo/polsat/superpolsat.png" group-title="PL | Polska - Full HD",Super Polsat HD
+#EXTINF:-1 tvg-id="Super Polsat" tvg-name="Super Polsat" group-title="Zapasowe" ,Super Polsat
+
 http://fabryka.stream:8080/dawidw/682359191/105351
 #EXTINF:-1 tvg-id="tvn.pl" tvg-name="TVN HD" tvg-logo="http://fabryka.stream/images/logo/TVN%20HD.png" group-title="PL | Polska - Full HD",TVN HD
 http://fabryka.stream:8080/dawidw/682359191/105352
