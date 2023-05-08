@@ -470,49 +470,49 @@ http://88.135.172.249:22000/aniolbeskidow
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="true" tvg-logo="" group-title="Radio" ,Radio Maryja
 http://51.68.135.155:80/stream
 
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" group-title="Zapasowe" ,TVP 1
 
+#EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" group-title="Zapasowe" ,TVP 1
 http://fabryka.stream:8080/dawidw/682359191/105345
 #EXTINF:-1 tvg-id="TVP 2" tvg-name="TVP 2" group-title="Zapasowe" ,TVP 2
-
-
 http://fabryka.stream:8080/dawidw/682359191/105346
-#EXTINF:-1 tvg-id="tvp3.pl" tvg-name="TVP 3" tvg-logo="http://fabryka.stream/images/logo/TVP%203.png" group-title="PL | Polska - Full HD",TVP 3
-http://fabryka.stream:8080/dawidw/682359191/105347
-#EXTINF:-1 tvg-id="tvp.pl" tvg-name="TVP HD" tvg-logo="http://fabryka.stream/images/logo/TVP%20HD.png" group-title="PL | Polska - Full HD",TVP HD
-http://fabryka.stream:8080/dawidw/682359191/105348
 #EXTINF:-1 tvg-id="Polsat" tvg-name="Polsat" group-title="Zapasowe" ,Polsat
-
 http://fabryka.stream:8080/dawidw/682359191/105349
 #EXTINF:-1 tvg-id="Polsat 2" tvg-name="Polsat 2" group-title="Zapasowe" ,Polsat 2
-
 http://fabryka.stream:8080/dawidw/682359191/105350
 #EXTINF:-1 tvg-id="Super Polsat" tvg-name="Super Polsat" group-title="Zapasowe" ,Super Polsat
-
 http://fabryka.stream:8080/dawidw/682359191/105351
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" group-title="Zapasowe" ,TVN
 http://fabryka.stream:8080/dawidw/682359191/105352
 #EXTINF:-1 tvg-id="TVN 7" tvg-name="TVN 7" group-title="Zapasowe" ,TVN 7
-
 http://fabryka.stream:8080/dawidw/682359191/105356
-
-
-#EXTINF:-1 tvg-id="ttv.pl" tvg-name="TTV HD" tvg-logo="http://fabryka.stream/images/logo/TTV%20HD.png" group-title="PL | Polska - Full HD",TTV HD
-http://fabryka.stream:8080/dawidw/682359191/105353
-#EXTINF:-1 tvg-id="tv4.pl" tvg-name="TV4 HD" tvg-logo="http://fabryka.stream/images/logo/TV%204%20HD.png" group-title="PL | Polska - Full HD",TV4 HD
+#EXTINF:-1 tvg-id="TVN Fabuła" tvg-name="TVN Fabuła" group-title="Zapasowe" ,TVN Fabuła
+http://fabryka.stream:8080/dawidw/682359191/105393
+#EXTINF:-1 tvg-id="TV 4" tvg-name="TV 4" group-title="Zapasowe" ,TV 4
 http://fabryka.stream:8080/dawidw/682359191/105354
-#EXTINF:-1 tvg-id="tv6.pl" tvg-name="TV6 HD" tvg-logo="http://fabryka.stream/images/logo/TV%206%20HD.png" group-title="PL | Polska - Full HD",TV6 HD
+#EXTINF:-1 tvg-id="TV 6" tvg-name="TV 4" group-title="Zapasowe" ,TV 6
 http://fabryka.stream:8080/dawidw/682359191/105355
-#EXTINF:-1 tvg-id="tvpuls.pl" tvg-name="TV Puls HD" tvg-logo="http://fabryka.stream/images/logo/puls.png" group-title="PL | Polska - Full HD",TV Puls HD
-http://fabryka.stream:8080/dawidw/682359191/105357
-#EXTINF:-1 tvg-id="tvpuls2.pl" tvg-name="Puls 2 HD" tvg-logo="http://fabryka.stream/images/logo/puls2.png" group-title="PL | Polska - Full HD",Puls 2 HD
-http://fabryka.stream:8080/dawidw/682359191/105358
+
+
 #EXTINF:-1 tvg-id="comedycentral.pl" tvg-name="Comedy Central HD" tvg-logo="http://fabryka.stream/images/logo/comedycentralhd.png" group-title="PL | Polska - Full HD",Comedy Central HD
 http://fabryka.stream:8080/dawidw/682359191/105385
 #EXTINF:-1 tvg-id="comedycentral.pl" tvg-name="Polsat Comedy Central Extra HD" tvg-logo="http://fabryka.stream/images/logo/comedycentralfamily.png" group-title="PL | Polska - Full HD",Polsat Comedy Central Extra HD
 http://fabryka.stream:8080/dawidw/682359191/105386
-#EXTINF:-1 tvg-id="tvnfabula.pl" tvg-name="TVN Fabula HD" tvg-logo="http://fabryka.stream/images/logo/tvnfabula.png" group-title="PL | Polska - Full HD",TVN Fabula HD
-http://fabryka.stream:8080/dawidw/682359191/105393
+#EXTINF:-1 tvg-id="tvpuls.pl" tvg-name="TV Puls HD" tvg-logo="http://fabryka.stream/images/logo/puls.png" group-title="PL | Polska - Full HD",TV Puls HD
+http://fabryka.stream:8080/dawidw/682359191/105357
+#EXTINF:-1 tvg-id="tvpuls2.pl" tvg-name="Puls 2 HD" tvg-logo="http://fabryka.stream/images/logo/puls2.png" group-title="PL | Polska - Full HD",Puls 2 HD
+http://fabryka.stream:8080/dawidw/682359191/105358
+#EXTINF:-1 tvg-id="ttv.pl" tvg-name="TTV HD" tvg-logo="http://fabryka.stream/images/logo/TTV%20HD.png" group-title="PL | Polska - Full HD",TTV HD
+http://fabryka.stream:8080/dawidw/682359191/105353
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="http://fabryka.stream/images/logo/hgtv.png" group-title="PL | Polska - Full HD",HGTV HD
+http://fabryka.stream:8080/dawidw/682359191/105457
+#EXTINF:-1 tvg-id="HOME TV" tvg-name="Home TV" tvg-logo="http://fabryka.stream/images/logo/TVR.png" group-title="PL | Polska - Full HD",Home TV
+http://fabryka.stream:8080/dawidw/682359191/120417
+
+
+#EXTINF:-1 tvg-id="tvp3.pl" tvg-name="TVP 3" tvg-logo="http://fabryka.stream/images/logo/TVP%203.png" group-title="PL | Polska - Full HD",TVP 3
+http://fabryka.stream:8080/dawidw/682359191/105347
+#EXTINF:-1 tvg-id="tvp.pl" tvg-name="TVP HD" tvg-logo="http://fabryka.stream/images/logo/TVP%20HD.png" group-title="PL | Polska - Full HD",TVP HD
+http://fabryka.stream:8080/dawidw/682359191/105348
 #EXTINF:-1 tvg-id="tvpseriale.pl" tvg-name="TVP Seriale" tvg-logo="http://fabryka.stream/images/logo/tvpseriale.png" group-title="PL | Polska - Full HD",TVP Seriale
 http://fabryka.stream:8080/dawidw/682359191/105398
 #EXTINF:-1 tvg-id="metrotv.pl" tvg-name="Metro" tvg-logo="http://fabryka.stream/images/logo/metro.png" group-title="PL | Polska - Full HD",Metro
@@ -625,10 +625,6 @@ http://fabryka.stream:8080/dawidw/682359191/134087
 http://fabryka.stream:8080/dawidw/682359191/105455
 #EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel HD" tvg-logo="http://fabryka.stream/images/logo/travelchannelhd.png" group-title="PL | Polska - Full HD",Travel Channel HD
 http://fabryka.stream:8080/dawidw/682359191/105456
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="http://fabryka.stream/images/logo/hgtv.png" group-title="PL | Polska - Full HD",HGTV HD
-http://fabryka.stream:8080/dawidw/682359191/105457
-#EXTINF:-1 tvg-id="HOME TV" tvg-name="Home TV" tvg-logo="http://fabryka.stream/images/logo/TVR.png" group-title="PL | Polska - Full HD",Home TV
-http://fabryka.stream:8080/dawidw/682359191/120417
 #EXTINF:-1 tvg-id="ZOOM TV" tvg-name="Zoom TV" tvg-logo="http://fabryka.stream/images/logo/zoomtv.png" group-title="PL | Polska - Full HD",Zoom TV
 http://fabryka.stream:8080/dawidw/682359191/105458
 #EXTINF:-1 tvg-id="TV OKAZJE" tvg-name="TV Okazje" tvg-logo="http://fabryka.stream/images/logo/tvokazje.png" group-title="PL | Polska - Full HD",TV Okazje
