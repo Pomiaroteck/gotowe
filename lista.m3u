@@ -501,9 +501,12 @@ http://fabryka.stream:8080/dawidw/682359191/105386
 http://fabryka.stream:8080/dawidw/682359191/105357
 #EXTINF:-1 tvg-id="tvpuls2.pl" tvg-name="Puls 2 HD" tvg-logo="http://fabryka.stream/images/logo/puls2.png" group-title="PL | Polska - Full HD",Puls 2 HD
 http://fabryka.stream:8080/dawidw/682359191/105358
-#EXTINF:-1 tvg-id="ttv.pl" tvg-name="TTV HD" tvg-logo="http://fabryka.stream/images/logo/TTV%20HD.png" group-title="PL | Polska - Full HD",TTV HD
+
+#EXTINF:-1 tvg-id="TTV" tvg-name="TTV" group-title="Zapasowe" ,TTV
+
 http://fabryka.stream:8080/dawidw/682359191/105353
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="http://fabryka.stream/images/logo/hgtv.png" group-title="PL | Polska - Full HD",HGTV HD
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="Zapasowe" ,HGTV
+
 http://fabryka.stream:8080/dawidw/682359191/105457
 #EXTINF:-1 tvg-id="HOME TV" tvg-name="Home TV" tvg-logo="http://fabryka.stream/images/logo/TVR.png" group-title="PL | Polska - Full HD",Home TV
 http://fabryka.stream:8080/dawidw/682359191/120417
