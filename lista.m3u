@@ -312,19 +312,19 @@ http://hacrzry.mbob.xyz:80/4523598035/5578723833/117465
 http://cdnx1.plusx.tv:8880/325jun/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" timeshift="12" catchup="fs" ,Disney Junior
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117383
+http://cdnx1.plusx.tv:8880/277/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" timeshift="12" catchup="fs" ,Disney XD
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117384
+http://cdnx1.plusx.tv:8880/276/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" timeshift="12" catchup="fs" ,Disney Channel
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117381
+http://cdnx1.plusx.tv:8880/278/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon-Network" timeshift="12" catchup="fs" ,Cartoon Network
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117355
+http://cdnx1.plusx.tv:8880/293/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" timeshift="12" catchup="fs",Cartoonito
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117330
+http://cdnx1.plusx.tv:8880/303/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="Da Vinci" tvg-name="Da Vinci" timeshift="12" catchup="fs" ,Da Vinci
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/117372
+http://cdnx1.plusx.tv:8880/284/mono.m3u8?token=ea7038ce126ec2b0032222
 #EXTINF:-1 tvg-id="4FUN KIDS" tvg-name="4FUN KIDS" timeshift="12" catchup="fs" ,4FUN KIDS
-http://hacrzry.mbob.xyz:80/4523598035/5578723833/9515
+http://cdnx1.plusx.tv:8880/323/mono.m3u8?token=ea7038ce126ec2b0032222
 
 #EXTINF:-1 tvg-id="MTV Polska" tvg-name="MTV Polska" timeshift="12" catchup="fs" ,MTV Polska
 http://cdnx1.plusx.tv:8880/227/mono.m3u8?token=ea7038ce126ec2b0032222
@@ -489,27 +489,76 @@ http://fabryka.stream:8080/dawidw/682359191/105356
 http://fabryka.stream:8080/dawidw/682359191/105393
 #EXTINF:-1 tvg-id="TV 4" tvg-name="TV 4" group-title="Zapasowe" ,TV 4
 http://fabryka.stream:8080/dawidw/682359191/105354
-#EXTINF:-1 tvg-id="TV 6" tvg-name="TV 4" group-title="Zapasowe" ,TV 6
+#EXTINF:-1 tvg-id="TV 6" tvg-name="TV "6 group-title="Zapasowe" ,TV 6
 http://fabryka.stream:8080/dawidw/682359191/105355
-
-
-#EXTINF:-1 tvg-id="comedycentral.pl" tvg-name="Comedy Central HD" tvg-logo="http://fabryka.stream/images/logo/comedycentralhd.png" group-title="PL | Polska - Full HD",Comedy Central HD
-http://fabryka.stream:8080/dawidw/682359191/105385
-#EXTINF:-1 tvg-id="comedycentral.pl" tvg-name="Polsat Comedy Central Extra HD" tvg-logo="http://fabryka.stream/images/logo/comedycentralfamily.png" group-title="PL | Polska - Full HD",Polsat Comedy Central Extra HD
-http://fabryka.stream:8080/dawidw/682359191/105386
-#EXTINF:-1 tvg-id="tvpuls.pl" tvg-name="TV Puls HD" tvg-logo="http://fabryka.stream/images/logo/puls.png" group-title="PL | Polska - Full HD",TV Puls HD
+#EXTINF:-1 tvg-id="TV Puls" tvg-name="TV Puls" timeshift="12" catchup="fs" group-title="Zapasowe" ,TV Puls
 http://fabryka.stream:8080/dawidw/682359191/105357
-#EXTINF:-1 tvg-id="tvpuls2.pl" tvg-name="Puls 2 HD" tvg-logo="http://fabryka.stream/images/logo/puls2.png" group-title="PL | Polska - Full HD",Puls 2 HD
+#EXTINF:-1 tvg-id="Puls 2" tvg-name="PLUS 2" timeshift="12" catchup="fs" group-title="Zapasowe" ,Puls 2
 http://fabryka.stream:8080/dawidw/682359191/105358
-
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central Polska" timeshift="12" catchup="fs" group-title="Zapasowe" ,Comedy Central
+http://fabryka.stream:8080/dawidw/682359191/105385
+#EXTINF:-1 tvg-id="Polsat Comedy Central Extra" tvg-name="Comedy Central Polska" timeshift="12" catchup="fs" group-title="Zapasowe" ,Polsat Comedy Central Extra
+http://fabryka.stream:8080/dawidw/682359191/105386
 #EXTINF:-1 tvg-id="TTV" tvg-name="TTV" group-title="Zapasowe" ,TTV
-
 http://fabryka.stream:8080/dawidw/682359191/105353
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="Zapasowe" ,HGTV
-
 http://fabryka.stream:8080/dawidw/682359191/105457
-#EXTINF:-1 tvg-id="HOME TV" tvg-name="Home TV" tvg-logo="http://fabryka.stream/images/logo/TVR.png" group-title="PL | Polska - Full HD",Home TV
+#EXTINF:-1 tvg-id="Home TV" tvg-name="Home TV" timeshift="12" catchup="fs" group-title="Zapasowe" ,Home TV
 http://fabryka.stream:8080/dawidw/682359191/120417
+#EXTINF:-1 tvg-id="Fokus TV" tvg-name="Fokus TV" group-title="Zapasowe" ,Fokus TV
+http://fabryka.stream:8080/dawidw/682359191/105420
+#EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="Stopklatka TV" group-title="Zapasowe" ,Stopklatka TV
+http://fabryka.stream:8080/dawidw/682359191/105387
+#EXTINF:-1 tvg-id="NOWA TV" tvg-name="Nowa TV" group-title="Zapasowe" ,Nowa TV
+http://fabryka.stream:8080/dawidw/682359191/153142
+#EXTINF:-1 tvg-id="ZOOM TV" tvg-name="Zoom TV" group-title="Zapasowe" ,Zoom TV
+http://fabryka.stream:8080/dawidw/682359191/105458
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="Romance TV" group-title="Zapasowe" ,Romance TV
+http://fabryka.stream:8080/dawidw/682359191/153157
+#EXTINF:-1 tvg-id="Antena" tvg-name="Antena" group-title="Zapasowe" ,Antena
+http://fabryka.stream:8080/dawidw/682359191/151847
+#EXTINF:-1 tvg-id="Metro" tvg-name="Metro" group-title="Zapasowe" ,Metro
+http://fabryka.stream:8080/dawidw/682359191/153134
+#EXTINF:-1 tvg-id="WP" tvg-name="WP" group-title="Zapasowe" ,WP
+http://fabryka.stream:8080/dawidw/682359191/153186
+
+#EXTINF:-1 tvg-id="TVP" tvg-name="TVP" group-title="Zapasowe" ,TVP
+http://fabryka.stream:8080/dawidw/682359191/105348
+#EXTINF:-1 tvg-id="TVP Seriale" tvg-name="TVP Seriale" group-title="Zapasowe" ,TVP 	Seriale
+http://fabryka.stream:8080/dawidw/682359191/105398
+#EXTINF:-1 tvg-id="TVP Rozrywka" tvg-name="TVP Rozrywka" group-title="Zapasowe" ,TVP Rozrywka
+http://fabryka.stream:8080/dawidw/682359191/105452
+#EXTINF:-1 tvg-id="TVP Kultura" tvg-name="TVP Kultura" group-title="Zapasowe" ,TVP Kultura
+http://fabryka.stream:8080/dawidw/682359191/105451
+#EXTINF:-1 tvg-id="TVP Historia" tvg-name="TVP Historia" group-title="Zapasowe" ,TVP Historia
+http://fabryka.stream:8080/dawidw/682359191/105453
+#EXTINF:-1 tvg-id="TVP Dokument" tvg-name="TVP Dokument" group-title="Zapasowe" ,TVP Dokument
+http://fabryka.stream:8080/dawidw/682359191/134087
+#EXTINF:-1 tvg-id="TVP Polonia" tvg-name="TVP Polonia" group-title="Zapasowe" ,TVP Polonia
+http://fabryka.stream:8080/dawidw/682359191/153173
+#EXTINF:-1 tvg-id="Polonia 1" tvg-name="Polonia 1" group-title="Zapasowe" ,Polonia 1
+http://fabryka.stream:8080/dawidw/682359191/105449
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" group-title="Zapasowe" ,Tele 5
+http://fabryka.stream:8080/dawidw/682359191/153164
+
+#EXTINF:-1 tvg-id="BBC First" tvg-name="BBC First" group-title="Zapasowe" ,BBC First
+http://fabryka.stream:8080/dawidw/682359191/105402
+#EXTINF:-1 tvg-id="BBC Brit" tvg-name="BBC Brit" group-title="Zapasowe" ,BBC Brit
+http://fabryka.stream:8080/dawidw/682359191/105403
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" group-title="Zapasowe" ,BBC Lifestyle
+http://fabryka.stream:8080/dawidw/682359191/105404
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" group-title="Zapasowe" ,BBC Earth
+http://fabryka.stream:8080/dawidw/682359191/105405
+#EXTINF:-1 tvg-id="Polsat Viasat History" tvg-name="Viasat History" group-title="Zapasowe" ,Polsat Viasat History
+http://fabryka.stream:8080/dawidw/682359191/105299
+#EXTINF:-1 tvg-id="POLSAT Viasat Explore" tvg-name="Viasat Explorer" group-title="Zapasowe" ,Polsat Viasat Explore
+http://fabryka.stream:8080/dawidw/682359191/105300
+#EXTINF:-1 tvg-id="Polsat Viasat Nature" tvg-name="Viasat Nature" group-title="Zapasowe" ,Polsat Viasat Nature
+http://fabryka.stream:8080/dawidw/682359191/105298
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="tvp3.pl" tvg-name="TVP 3" tvg-logo="http://fabryka.stream/images/logo/TVP%203.png" group-title="PL | Polska - Full HD",TVP 3
