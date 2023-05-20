@@ -1370,3 +1370,7 @@ http://fabryka.stream:8080/dawidw/682359191/152821
 #EXTINF:-1 tvg-id="TVP 1" tvg-name="KSW TV" tvg-logo="http://fabryka.stream/images/logo/KSWTV.png" group-title="Sport Events & PPV",KSW TV
 
 http://fabryka.stream:8080/dawidw/682359191/105553
+
+#EXTINF:0 tvg-id="KSW" tvg-name="KSW" tvg-logo="https://epg.ovh/logo/KSW%20PL.png" timeshift="7" catchup="fs" group-title="Sport" ,PPV Event Fight 1 HD
+
+http://cdnx1.plusx.tv:8880/325m/mono.m3u8?token=ea7038ce126ec2b0032222
