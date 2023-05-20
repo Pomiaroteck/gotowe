@@ -1361,3 +1361,8 @@ http://fabryka.stream:8080/dawidw/682359191/153186
 http://fabryka.stream:8080/dawidw/682359191/153187
 #EXTINF:-1 tvg-id="" tvg-name="Zoom TV" tvg-logo="http://fabryka.stream/images/logo/zoomtv.png" group-title="PL | Polska - HD",Zoom TV
 http://fabryka.stream:8080/dawidw/682359191/153188
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV FAME MMA" tvg-logo="https://przeglad-internetu.pl/wp-content/uploads/2020/02/famememme.png" group-title="Sport Events & PPV",PPV FAME MMA
+
+http://fabryka.stream:8080/dawidw/682359191/152821
