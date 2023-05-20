@@ -1366,3 +1366,7 @@ http://fabryka.stream:8080/dawidw/682359191/153188
 #EXTINF:-1 tvg-id="" tvg-name="PPV FAME MMA" tvg-logo="https://przeglad-internetu.pl/wp-content/uploads/2020/02/famememme.png" group-title="Sport Events & PPV",PPV FAME MMA
 
 http://fabryka.stream:8080/dawidw/682359191/152821
+
+#EXTINF:-1 tvg-id="TVP 1" tvg-name="KSW TV" tvg-logo="http://fabryka.stream/images/logo/KSWTV.png" group-title="Sport Events & PPV",KSW TV
+
+http://fabryka.stream:8080/dawidw/682359191/105553
