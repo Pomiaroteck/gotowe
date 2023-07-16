@@ -1,31 +1,29 @@
 #EXTM3U x-tvg-url="https://epg.ovh/pl.xml"
 
 #EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" timeshift="12" catchup="fs" ,TVP 1
-http://cdnx1.plusx.tv:8880/144/video.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1693
 #EXTINF:-1 tvg-id="TVP 2" tvg-name="TVP 2" timeshift="12" catchup="fs" ,TVP 2
-http://cdnx1.plusx.tv:8881/143/video.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1692
 #EXTINF:-1 tvg-id="Polsat" tvg-name="POLSAT" timeshift="12" catchup="fs" ,Polsat
-http://cdnx1.plusx.tv:8885/203/video.m3u8?token=f96e7d10bd9cb07d66222
-#EXTINF:-1 tvg-id="Polsat 1" tvg-name="Polsat 1" timeshift="12" catchup="fs" ,Polsat 1
-http://cdnx1.plusx.tv:8882/13tv1/video.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/3234
 #EXTINF:-1 tvg-id="Polsat 2" tvg-name="Polsat 2" timeshift="12" catchup="fs" ,Polsat 2
-http://cdnx1.plusx.tv:8881/208/video.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/3233
 #EXTINF:-1 tvg-id="Super Polsat" tvg-name="Super Polsat" timeshift="12" catchup="fs" ,Super Polsat
-http://cdnx1.plusx.tv:8891/171/video.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/2692
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" timeshift="12" catchup="fs" ,TVN
-http://cdnx1.plusx.tv:8889/149/video.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/16642
 #EXTINF:-1 tvg-id="TVN 7" tvg-name="TVN 7" timeshift="12" catchup="fs" ,TVN 7
-http://cdnx1.plusx.tv:8887/152/video.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/2683
 #EXTINF:-1 tvg-id="TVN Fabuła" tvg-name="TVN Fabuła" timeshift="12" catchup="fs" ,TVN Fabuła
-http://cdnx1.plusx.tv:8884/150/video.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/2684
 #EXTINF:-1 tvg-id="TV 4" tvg-name="TV4" timeshift="12" catchup="fs" ,TV 4
-http://cdnx1.plusx.tv:8883/161/video.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/3238
 #EXTINF:-1 tvg-id="TV 6" tvg-name="TV 6" timeshift="12" catchup="fs" ,TV 6
-http://cdnx1.plusx.tv:8884/160/video.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/23198
 #EXTINF:-1 tvg-id="TV Puls" tvg-name="TV Puls" timeshift="12" catchup="fs" ,TV Puls
-http://cdnx1.plusx.tv:8881/158/video.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1694
 #EXTINF:-1 tvg-id="Puls 2" tvg-name="PLUS 2" timeshift="12" catchup="fs" ,Puls 2
-http://cdnx1.plusx.tv:8882/180/video.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/26596
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central Polska" timeshift="12" catchup="fs" ,Comedy Central
 http://cdnx1.plusx.tv:8885/286/video.m3u8?token=f96e7d10bd9cb07d66222
 #EXTINF:-1 tvg-id="Polsat Comedy Central Extra" tvg-name="Comedy Central Polska" timeshift="12" catchup="fs" ,Polsat Comedy Central Extra
@@ -347,7 +345,7 @@ http://cdnx1.plusx.tv:8880/165/mono.m3u8?token=f96e7d10bd9cb07d66222
 #EXTINF:-1 tvg-id="Mixtape HD" tvg-name="Mixtape HD" timeshift="12" catchup="fs" ,Mixtape
 http://cdnx1.plusx.tv:8885/MixTapeHD/video.m3u8?token=f96e7d10bd9cb07d66222
 #EXTINF:-1 tvg-id="Polsat Music" tvg-name="Polsat Music" timeshift="12" catchup="fs" ,Polsat Music
-http://cdnx1.plusx.tv:8880/201/mono.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/2688
 #EXTINF:-1 tvg-id="Stars TV" tvg-name="Stars TV" timeshift="12" catchup="fs" ,Stars TV
 http://cdnx1.plusx.tv:8880/174/mono.m3u8?token=f96e7d10bd9cb07d66222
 #EXTINF:-1 tvg-id="Nuta TV" tvg-name="Nuta TV" timeshift="12" catchup="fs" ,Nuta TV
@@ -361,7 +359,7 @@ http://cdnx1.plusx.tv:8880/265/mono.m3u8?token=f96e7d10bd9cb07d66222
 #EXTINF:-1 tvg-id="Eska Rock TV" tvg-name="Eska Rock TV" timeshift="12" catchup="fs" ,Eska Rock TV
 http://cdnx1.plusx.tv:8883/266/video.m3u8?token=f96e7d10bd9cb07d66222
 #EXTINF:-1 tvg-id="4FUN TV" tvg-name="4 FUN TV" timeshift="12" catchup="fs" ,4 FUN TV
-http://cdnx1.plusx.tv:8883/322/video.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/2704
 #EXTINF:-1 tvg-id="4 FUN DANCE" tvg-name="4 FUN DANCE" timeshift="12" catchup="fs" ,4 FUN DANCE
 http://cdnx1.plusx.tv:8880/324/mono.m3u8?token=f96e7d10bd9cb07d66222
 #EXTINF:-1 tvg-id="Vox Music TV" tvg-name="vox-music-tv" timeshift="12" catchup="fs" ,VOX Music TV
@@ -369,9 +367,9 @@ http://cdnx1.plusx.tv:8880/123v/mono.m3u8?token=f96e7d10bd9cb07d66222
 #EXTINF:-1 tvg-id="POWER TV" tvg-name="Power TV" timeshift="12" catchup="fs" ,Power TV
 http://cdnx1.plusx.tv:8880/182/mono.m3u8?token=f96e7d10bd9cb07d66222
 #EXTINF:-1 tvg-id="Polo TV" tvg-name="PoloTV" timeshift="12" catchup="fs" ,Polo TV
-http://cdnx1.plusx.tv:8880/210/mono.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1700
 #EXTINF:-1 tvg-id="Disco Polo Music" tvg-name="disco-polo-music" timeshift="12" catchup="fs" ,Disco Polo Music
-http://cdnx1.plusx.tv:8880/283/mono.m3u8?token=f96e7d10bd9cb07d66222
+http://45.143.222.41:8080/apnamagic/4RfLn6pe3QbNZwm5/1711
 
 
 
