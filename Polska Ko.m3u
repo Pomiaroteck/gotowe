@@ -67,6 +67,14 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/276494
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Tele 5
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/192814
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC First
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26545
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC Brit
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3206
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC Lifestyle
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/122184
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC Earth
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1716
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Info
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2674
@@ -100,14 +108,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/23186
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/340
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Baby TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/37890
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC Brit Polska
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3206
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC Earth
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1716
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC First
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26545
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC Lifestyle
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/122184
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Biznes 24
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/276488
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Boomerang
