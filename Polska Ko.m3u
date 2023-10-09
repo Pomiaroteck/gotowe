@@ -90,6 +90,14 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16659
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16686
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Animal Planet
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1717
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Doku
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1698
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NAT GEO
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1702
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NAT GEO People
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16663
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NAT GEO Wild
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/278637
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Info
@@ -256,12 +264,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3231
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3216
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MTV Polska
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16689
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NAT GEO
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1702
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NAT GEO People
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16663
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NAT GEO Wild
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/278637
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nick Junior
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16641
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",nickelodeon
@@ -283,8 +285,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1700
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Cafe
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1699
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Doku
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1698
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Film
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1697
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Games
