@@ -111,7 +111,15 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/19708
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1699
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Play
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2691
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Rodzina
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26591
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Games
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16668
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/356
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport Extra
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/353
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Info
@@ -293,22 +301,14 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1700
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Film
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1697
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Games
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16668
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Music
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2688
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat News
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2689
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat News 2
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2690
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Rodzina
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26591
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Seriale
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16643
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/356
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport Extra
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/353
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport FIGHT
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26592
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport News
