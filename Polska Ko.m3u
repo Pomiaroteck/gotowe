@@ -82,6 +82,11 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16657
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Viasat Nature
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16661
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",History
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2719
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",H2
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16659
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Info
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2674
@@ -233,10 +238,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/10194
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3217
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO 3
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1704
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",History
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2719
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",History 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16659
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Hope Channel
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/163678
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Investigation Discovery
