@@ -105,6 +105,12 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2720
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",E!
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/8036
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN Style
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/19708
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Cafe
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1699
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Play
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2691
 
 
 
@@ -285,8 +291,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/10190
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polo TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1700
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Cafe
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1699
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Film
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1697
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Games
@@ -297,8 +301,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2688
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2689
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat News 2
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2690
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Play
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2691
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Rodzina
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26591
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Seriale
@@ -364,8 +366,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/192105
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN 24 BiS
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16674
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN Style
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/19708
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN Turbo
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3229
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Warszawa
