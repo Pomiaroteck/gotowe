@@ -37,6 +37,14 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/276491
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/24267
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Stopklatka TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26190
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nowa TV
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16640
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Zoom TV
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/24246
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Romance
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16671
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Metro
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26202
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP
@@ -215,8 +223,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16691
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26209
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Kino TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/24242
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Metro
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26202
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MiniMini+
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3231
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Motowizja
@@ -239,8 +245,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16646
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/192812
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Novelas+
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/276492
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nowa TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16640
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nuta TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/84764
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Paramount Channel
@@ -295,8 +299,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/147036
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/10525
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Red Carpet
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26191
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Romance
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16671
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",sci-fi
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3207
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Sport Klub
@@ -388,7 +390,5 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2713
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/192815
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",WP TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/24244
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Zoom TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/24246
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Белсат ТВ (Belsat)
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297693
