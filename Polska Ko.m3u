@@ -75,6 +75,13 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3206
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/122184
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC Earth
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1716
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Viasat History
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16658
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Viasat Explore
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16657
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Viasat Nature
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16661
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Info
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2674
@@ -368,12 +375,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3240
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/78386
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVT Zgorzelec
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/294858
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Viasat Explore
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16657
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Viasat History
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16658
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Viasat Nature
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16661
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VOD 203
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/296473
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VOD 204
