@@ -156,7 +156,18 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3211
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/67638
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FightBox
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/350
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Sport
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3240
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/69426
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport 2
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/343
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport 3
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/33580
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport 4
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/78322
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport 5
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297382
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Info
@@ -209,16 +220,7 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/122183
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/341
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Seriale
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/342
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/69426
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport 2
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/343
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/33580
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport 4
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/78322
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport 5
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297382
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Cartoon Network
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1713
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBeebies
@@ -375,8 +377,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3229
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/25582
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP ABC
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2677
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Sport
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3240
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVS
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/78386
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVT Zgorzelec
