@@ -148,6 +148,15 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3645
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/348
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Eurosport 2
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3218
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Extreme Sports
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/349
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SportKlub
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3211
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FightKlub
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/67638
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FightBox
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/350
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Info
@@ -253,12 +262,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26211
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2707
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Eska TV Extra
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/281589
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Extreme Sports Channel
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/349
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FIGHT BOX
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/350
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FIGHT Klub
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/67638
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FilmBox Action
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3232
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FilmBox Arthouse
@@ -333,8 +336,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/10525
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26191
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",sci-fi
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3207
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Sport Klub
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3211
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Stars TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2710
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",StudioMed TV
