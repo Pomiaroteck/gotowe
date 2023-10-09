@@ -23,6 +23,10 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/23198
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1694
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Puls 2
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26596
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Comedy Central
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16675
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Comedy Central Extra
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3222
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TTV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2696
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HGTV
@@ -31,6 +35,8 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/23202
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/276491
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fokus TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/24267
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Stopklatka TV
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26190
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP
@@ -119,10 +125,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3224
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/345
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Cinemax 2
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1712
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Comedy Central
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16675
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Comedy Central Extra
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3222
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Crime+ Investigation
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2729
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Da Vinci Kids
@@ -301,8 +303,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3207
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3211
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Stars TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2710
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Stopklatka TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26190
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",StudioMed TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/193765
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Sundance TV
