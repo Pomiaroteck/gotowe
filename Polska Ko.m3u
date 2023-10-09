@@ -45,10 +45,15 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/24246
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16671
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Metro
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/26202
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",WP TV
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/24244
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/10515
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Seriale
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1691
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Info
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2674
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN 24
@@ -356,8 +361,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2678
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3208
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Rozrywka
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2698
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Seriale
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1691
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Sport
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3240
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVS
@@ -388,7 +391,5 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/64681
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2713
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Water Planet
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/192815
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",WP TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/24244
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Белсат ТВ (Belsat)
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297693
