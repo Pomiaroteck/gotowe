@@ -56,6 +56,12 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1691
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2698
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Kultura
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2678
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Historia
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2675
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Dokument
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/276472
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Polonia
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3208
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Info
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2674
@@ -354,12 +360,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3229
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/25582
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP ABC
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2677
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Dokument
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/276472
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP History
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2675
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Polonia
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3208
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Sport
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/3240
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVS
