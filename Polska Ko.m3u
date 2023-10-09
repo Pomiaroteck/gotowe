@@ -98,6 +98,11 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1702
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/16663
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nat Geo Wild
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/278637
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Planete+
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1701
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Dokument
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2720
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Info
@@ -136,8 +141,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/276488
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/10206
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ 1
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/24247
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Dokument
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2720
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Domo
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/2695
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Family
@@ -278,8 +281,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/276492
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/84764
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Paramount Channel
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/10190
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",PLANETE+
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1701
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polo TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1700
 
