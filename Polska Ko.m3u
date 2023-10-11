@@ -1,6 +1,6 @@
 ﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1693
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/1693
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 2
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1692
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat
