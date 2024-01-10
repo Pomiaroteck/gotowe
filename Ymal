@@ -1,6 +1,38 @@
 gg
 
 
+alias: Spadek napięcia stabilizatora
+description: ""
+trigger:
+  - type: voltage
+    platform: device
+    device_id: b7a48fd1aa14ade24a4a035b43b95a10
+    entity_id: sensor.0_electricity_meter_voltage_phase_1_2
+    domain: sensor
+    below: 207
+  - type: voltage
+    platform: device
+    device_id: b7a48fd1aa14ade24a4a035b43b95a10
+    entity_id: sensor.0_electricity_meter_voltage_phase_2_2
+    domain: sensor
+    below: 207
+  - type: voltage
+    platform: device
+    device_id: b7a48fd1aa14ade24a4a035b43b95a10
+    entity_id: sensor.0_electricity_meter_voltage_phase_3_2
+    domain: sensor
+    below: 207
+condition: []
+action:
+  - service: notify.mobile_app_sm_m515f
+    data:
+      message: Spadek napiecia stabilizatora
+      title: Stabilizator
+mode: single
+
+
+
+
 # Load frontend themes from the themes folder
 frontend:
   themes: !include_dir_merge_named themes
