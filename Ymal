@@ -4,3 +4,529 @@ gg
 # Load frontend themes from the themes folder
 frontend:
   themes: !include_dir_merge_named themes
+
+
+L1:
+  info-color: '#e02f44'
+  primary-text-color: '#e02f44'
+  
+L2:
+  info-color: '#56a64b'
+  primary-text-color: '#56a64b'
+  
+L3:
+  info-color: '#a352cc'
+  primary-text-color: '#a352cc'
+  
+L1a:
+  info-color: '#575757'
+  primary-text-color: '#575757'
+  
+L2a:
+  info-color: '#f2cc0c'
+  primary-text-color: '#f2cc0c'
+  
+L3a:
+  info-color: '#2060c2'
+  primary-text-color: '#2060c2'
+  
+Bialy:
+  modes:
+    light:
+      primary-text-color: '#000000'
+
+
+
+views:
+  - theme: Backend-selected
+    title: Sieć
+    path: siec
+    icon: mdi:home-import-outline
+    badges: []
+    cards:
+      - type: gauge
+        entity: sensor.0_electricity_meter_voltage_phase_1
+        name: Napięcie L1
+        theme: L1
+      - type: gauge
+        entity: sensor.0_electricity_meter_voltage_phase_2
+        theme: L2
+        name: Napięcie L2
+      - type: gauge
+        entity: sensor.0_electricity_meter_voltage_phase_3
+        name: Napięcie L3
+        theme: L3
+      - type: gauge
+        entity: sensor.0_electricity_meter_total_forward_active_energy
+        name: Zużycie
+      - show_name: true
+        show_icon: true
+        show_state: true
+        type: glance
+        entities:
+          - entity: sensor.0_electricity_meter_power_active_phase_1
+          - entity: sensor.0_electricity_meter_power_active_phase_2
+          - entity: sensor.0_electricity_meter_power_active_phase_3
+        title: Moc
+        columns: 3
+      - show_name: true
+        show_icon: true
+        show_state: true
+        type: glance
+        entities:
+          - entity: sensor.0_electricity_meter_current_phase_1
+          - entity: sensor.0_electricity_meter_current_phase_2
+          - entity: sensor.0_electricity_meter_current_phase_3
+        title: Prądy
+        columns: 3
+  - theme: Backend-selected
+    title: Stabilizator
+    path: stabilizator
+    columns: 1
+    icon: mdi:home-lightning-bolt-outline
+    badges: []
+    cards:
+      - type: gauge
+        entity: sensor.0_electricity_meter_voltage_phase_1_2
+        name: Napięcie L1
+        theme: L1a
+      - type: gauge
+        entity: sensor.0_electricity_meter_voltage_phase_2_2
+        theme: L2a
+        name: Napięcie L2
+      - type: gauge
+        entity: sensor.0_electricity_meter_voltage_phase_3_2
+        name: Napięcie L3
+        theme: L3a
+      - type: gauge
+        entity: sensor.0_electricity_meter_total_forward_active_energy_2
+        name: Zużycie
+      - show_name: true
+        show_icon: true
+        show_state: true
+        type: glance
+        entities:
+          - entity: sensor.0_electricity_meter_power_active_phase_1_2
+          - entity: sensor.0_electricity_meter_power_active_phase_2_2
+          - entity: sensor.0_electricity_meter_power_active_phase_3_2
+        title: Moc
+        columns: 3
+      - show_name: true
+        show_icon: true
+        show_state: true
+        type: glance
+        entities:
+          - entity: sensor.0_electricity_meter_current_phase_1_2
+          - entity: sensor.0_electricity_meter_current_phase_2_2
+          - entity: sensor.0_electricity_meter_current_phase_3_2
+        title: Prądy
+        columns: 3
+  - theme: Backend-selected
+    title: WYKRES SIEĆ
+    path: Wykres1
+    columns: 1
+    icon: mdi:chart-bell-curve
+    badges: []
+    cards:
+      - square: false
+        columns: 1
+        type: grid
+        cards:
+          - type: markdown
+            content: <b>Napięcie L1</b>
+            theme: L1
+          - type: custom:apexcharts-card
+            header:
+              show: true
+              title: ''
+              show_states: false
+              colorize_states: true
+              disable_actions: true
+            graph_span: 4h
+            update_interval: 2min
+            hours_12: false
+            cache: true
+            yaxis:
+              - min: 160
+                max: 260
+                apex_config:
+                  tickAmount: 5
+                  labels:
+                    formatter: |
+                      EVAL:function (val) {
+                        return val.toFixed(2) + " V";
+                      }
+            apex_config:
+              chart:
+                height: 190
+              fill:
+                type: area
+                opacity: 0.1
+            series:
+              - entity: sensor.0_electricity_meter_voltage_phase_1
+                type: area
+                curve: straight
+                fill_raw: last
+                name: L1
+                color: '#e02f44'
+                float_precision: 2
+                stroke_width: 0.9
+                show:
+                  extremas: false
+          - type: custom:mini-graph-card
+            entities:
+              - entity: sensor.0_electricity_meter_voltage_phase_1
+            hours_to_show: 4
+            hour24: true
+            points_per_hour: 1
+            cache: true
+            line_color: red
+            align_header: center
+            tap_action: none
+            align_state: center
+            font_size_header: 15
+            update_interval: 2min
+            show:
+              labels: false
+              labels_secondary: true
+              average: false
+              extrema: true
+              icon: false
+              graph: false
+              name_adaptive_color: true
+              state: false
+              name: false
+          - type: markdown
+            content: <b>Napięcie L2</b>
+            theme: L2
+          - type: custom:apexcharts-card
+            header:
+              show: true
+              title: ''
+              show_states: false
+              colorize_states: true
+              disable_actions: true
+            graph_span: 4h
+            update_interval: 2min
+            hours_12: false
+            cache: true
+            yaxis:
+              - min: 160
+                max: 260
+                apex_config:
+                  tickAmount: 5
+                  labels:
+                    formatter: |
+                      EVAL:function (val) {
+                        return val.toFixed(2) + " V";
+                      }
+            apex_config:
+              chart:
+                height: 190
+              fill:
+                type: area
+                opacity: 0.1
+            series:
+              - entity: sensor.0_electricity_meter_voltage_phase_2
+                type: area
+                curve: straight
+                fill_raw: last
+                name: L2
+                color: '#56a64b'
+                float_precision: 2
+                stroke_width: 0.9
+                show:
+                  extremas: false
+          - type: custom:mini-graph-card
+            entities:
+              - entity: sensor.0_electricity_meter_voltage_phase_2
+            hours_to_show: 4
+            hour24: true
+            points_per_hour: 1
+            cache: true
+            line_color: red
+            align_header: center
+            tap_action: none
+            align_state: center
+            font_size_header: 15
+            update_interval: 2min
+            show:
+              labels: false
+              labels_secondary: true
+              average: false
+              extrema: true
+              icon: false
+              graph: false
+              name_adaptive_color: true
+              state: false
+              name: false
+          - type: markdown
+            content: <b>Napięcie L3</b>
+            theme: L3
+          - type: custom:apexcharts-card
+            header:
+              show: true
+              title: ''
+              show_states: false
+              colorize_states: true
+              disable_actions: true
+            graph_span: 4h
+            update_interval: 2min
+            hours_12: false
+            cache: true
+            yaxis:
+              - min: 160
+                max: 260
+                apex_config:
+                  tickAmount: 5
+                  labels:
+                    formatter: |
+                      EVAL:function (val) {
+                        return val.toFixed(2) + " V";
+                      }
+            apex_config:
+              chart:
+                height: 190
+              fill:
+                type: area
+                opacity: 0.1
+            series:
+              - entity: sensor.0_electricity_meter_voltage_phase_3
+                type: area
+                curve: straight
+                fill_raw: last
+                name: L3
+                color: '#a352cc'
+                float_precision: 2
+                stroke_width: 0.9
+                show:
+                  extremas: false
+          - type: custom:mini-graph-card
+            entities:
+              - entity: sensor.0_electricity_meter_voltage_phase_3
+            hours_to_show: 4
+            hour24: true
+            points_per_hour: 1
+            cache: true
+            line_color: red
+            align_header: center
+            tap_action: none
+            align_state: center
+            font_size_header: 15
+            update_interval: 2min
+            show:
+              labels: false
+              labels_secondary: true
+              average: false
+              extrema: true
+              icon: false
+              graph: false
+              name_adaptive_color: true
+              state: false
+              name: false
+  - title: Wykres Stabilizator
+    path: wykres2
+    columns: 1
+    subview: false
+    icon: mdi:chart-bell-curve-cumulative
+    badges: []
+    cards:
+      - square: false
+        columns: 1
+        type: grid
+        cards:
+          - type: markdown
+            content: <b>Stabilizator L1</b>
+            theme: L1a
+          - type: custom:apexcharts-card
+            header:
+              show: true
+              title: ''
+              show_states: false
+              colorize_states: true
+              disable_actions: true
+            graph_span: 4h
+            update_interval: 2min
+            hours_12: false
+            cache: true
+            yaxis:
+              - min: 160
+                max: 260
+                apex_config:
+                  tickAmount: 5
+                  labels:
+                    formatter: |
+                      EVAL:function (val) {
+                        return val.toFixed(2) + " V";
+                      }
+            apex_config:
+              chart:
+                height: 190
+              fill:
+                type: area
+                opacity: 0.1
+            series:
+              - entity: sensor.0_electricity_meter_voltage_phase_1_2
+                type: area
+                curve: straight
+                fill_raw: last
+                name: L1
+                color: '#575757'
+                float_precision: 2
+                stroke_width: 0.9
+                show:
+                  extremas: false
+          - type: custom:mini-graph-card
+            entities:
+              - entity: sensor.0_electricity_meter_voltage_phase_1_2
+            hours_to_show: 4
+            hour24: true
+            points_per_hour: 1
+            cache: true
+            line_color: red
+            align_header: center
+            tap_action: none
+            align_state: center
+            font_size_header: 2
+            update_interval: 2min
+            show:
+              labels: false
+              labels_secondary: true
+              average: false
+              extrema: true
+              icon: false
+              graph: false
+              name_adaptive_color: true
+              state: false
+              name: false
+          - type: markdown
+            content: <b>Stabilizator L2</b>
+            theme: L2a
+          - type: custom:apexcharts-card
+            header:
+              show: true
+              title: ''
+              show_states: false
+              colorize_states: true
+              disable_actions: true
+            graph_span: 4h
+            update_interval: 2min
+            hours_12: false
+            cache: true
+            yaxis:
+              - min: 160
+                max: 260
+                apex_config:
+                  tickAmount: 5
+                  labels:
+                    formatter: |
+                      EVAL:function (val) {
+                        return val.toFixed(2) + " V";
+                      }
+            apex_config:
+              chart:
+                height: 190
+              fill:
+                type: area
+                opacity: 0.1
+            series:
+              - entity: sensor.0_electricity_meter_voltage_phase_2_2
+                type: area
+                curve: straight
+                fill_raw: last
+                name: L2
+                color: '#f2cc0c'
+                float_precision: 2
+                stroke_width: 0.9
+                show:
+                  extremas: false
+          - type: custom:mini-graph-card
+            entities:
+              - entity: sensor.0_electricity_meter_voltage_phase_2_2
+            hours_to_show: 4
+            hour24: true
+            points_per_hour: 1
+            cache: true
+            line_color: red
+            align_header: center
+            tap_action: none
+            align_state: center
+            font_size_header: 15
+            update_interval: 2min
+            show:
+              labels: false
+              labels_secondary: true
+              average: false
+              extrema: true
+              icon: false
+              graph: false
+              name_adaptive_color: true
+              state: false
+              name: false
+          - type: markdown
+            content: <b>Stabilizator L3</b>
+            theme: L3a
+          - type: custom:apexcharts-card
+            header:
+              show: true
+              title: ''
+              show_states: false
+              colorize_states: true
+              disable_actions: true
+            graph_span: 4h
+            update_interval: 2min
+            hours_12: false
+            cache: true
+            yaxis:
+              - min: 160
+                max: 260
+                apex_config:
+                  tickAmount: 5
+                  labels:
+                    formatter: |
+                      EVAL:function (val) {
+                        return val.toFixed(2) + " V";
+                      }
+            apex_config:
+              chart:
+                height: 190
+              fill:
+                type: area
+                opacity: 0.1
+            series:
+              - entity: sensor.0_electricity_meter_voltage_phase_3_2
+                type: area
+                curve: straight
+                fill_raw: last
+                name: L3
+                color: '#2060c2'
+                float_precision: 2
+                stroke_width: 0.9
+                show:
+                  extremas: false
+          - type: custom:mini-graph-card
+            entities:
+              - entity: sensor.0_electricity_meter_voltage_phase_3_2
+            hours_to_show: 4
+            hour24: true
+            points_per_hour: 1
+            cache: true
+            line_color: red
+            align_header: center
+            tap_action: none
+            align_state: center
+            font_size_header: 15
+            update_interval: 2min
+            show:
+              labels: false
+              labels_secondary: true
+              average: false
+              extrema: true
+              icon: false
+              graph: false
+              name_adaptive_color: true
+              state: false
+              name: false
+title: Pulpit
+
+
