@@ -1,6 +1,9 @@
 gg
 
 
+
+AND (value < 207 or value > 253)
+
 alias: Spadek napięcia stabilizatora
 description: ""
 trigger:
