@@ -15,6 +15,7 @@ AND (value < 207 or value > 253)
 
 <script>
 const d = new Date()
+d.setDate(d.getDate() - 1);
 document.getElementById("demo").innerHTML = ("0" + d.getDate()).slice(-2);
 </script>
 
