@@ -4,6 +4,28 @@ gg
 
 AND (value < 207 or value > 253)
 
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>JavaScript Dates</h1>
+<h2>The getFullYear() Method</h2>
+<p>Return the full year of a date object:</p>
+
+<p id="dzien"></p>
+<p id="miesiac"></p>
+
+<script>
+const d = new Date()
+d.setDate(d.getDate() - 29);
+document.getElementById("dzien").innerHTML = ("0" + d.getDate()).slice(-2);
+document.getElementById("miesiac").innerHTML = ("0" + (d.getMonth() + 1)).slice(-2);
+</script>
+
+</body>
+</html>
+
+
 <!DOCTYPE html>
 <html>
 <body>
